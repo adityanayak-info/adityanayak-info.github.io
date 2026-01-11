@@ -13,80 +13,78 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div id="page">
-        <div id="header">
-            <div id="name">
-                <h1><a href="/">Alejandro Ciuba</a></h1>
-            </div>
-            <div id="links">
-                <ul>
-                    <li><a href="portfolio.html">Portfolio</a></li>
-                    <li><a href="cv.html">CV</a></li>
-                    <li><a href="publications.html">Publications</a></li>
-                    <li><a href="about_me.html">About Me</a></li>
-                    <!-- <li><a href="index.html">Home</a></li> -->
-                </ul>
-            </div>
+    <header>
+        <div id="name">
+            <h1><a href="/">Alejandro Ciuba</a></h1>
         </div>
-        <div id="content">
-            <div class="section">
-                <div class="information">
-                    <div id="research_products">
-                        <h2>Research Products</h2>
-                        <h3>2025</h3>
-                        <h4>Essay Evaluation Baseline</h4>
-                        <p>I trained several baseline BERT models for an AAAI iRAISE workshop paper in collaboration with Joey Hou and Dr. Lorraine Li. The models were trained to score essays given a particular prompt and criteria. I utilized starter code provided by the authors of the original paper. However, the starter code required extensive modification to make testable, including making a training pipeline, implementing their described custom loss function, and training the model for all essay prompts (as their example model was only trained for one of the dataset's prompts). Our <a href="https://proceedings.mlr.press/v273/hou25a.html">paper</a> and <a href="https://github.com/JoeyHou/essay_eval">code</a> are publically available.</p>
+        <nav>
+            <ul>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="cv.html">CV</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="about_me.html">About Me</a></li>
+                <!-- <li><a href="index.html">Home</a></li> -->
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <section class="information">
+                <article id="research_products">
+                    <h2>Research Products</h2>
+                    <h3>2025</h3>
+                    <h4>Essay Evaluation Baseline</h4>
+                    <p>I trained several baseline BERT models for an AAAI iRAISE workshop paper in collaboration with Joey Hou and Dr. Lorraine Li. The models were trained to score essays given a particular prompt and criteria. I utilized starter code provided by the authors of the original paper. However, the starter code required extensive modification to make testable, including making a training pipeline, implementing their described custom loss function, and training the model for all essay prompts (as their example model was only trained for one of the dataset's prompts). Our <a href="https://proceedings.mlr.press/v273/hou25a.html">paper</a> and <a href="https://github.com/JoeyHou/essay_eval">code</a> are publically available.</p>
 
-                        <h3>2023</h3>
-                        <h4>ELAN Data</h4>
-                        <p>A custom built API designed to create and work with ELAN files (.eaf extension) in Python. This library is open-source, and anyone can work on or contribute to it. <a href="https://github.com/AlejandroCiuba/elan_data" style="text-decoration: underline;">Link.</a></p>
+                    <h3>2023</h3>
+                    <h4>ELAN Data</h4>
+                    <p>A custom built API designed to create and work with ELAN files (.eaf extension) in Python. This library is open-source, and anyone can work on or contribute to it. <a href="https://github.com/AlejandroCiuba/elan_data" style="text-decoration: underline;">Link.</a></p>
 
-                        <h4>APLS Automatic Speech Segmentation Pipeline</h4>
-                        <p>I utilized a finetuned pyannote model and custom built API to create ELAN transcriptions which were pre-segmented between speakers and phrases. Work is private and for the APLS lab. <a href="alejandrociuba@pitt.edu">Email me</a> for more information.</p>
-                    </div>
-                    <div id="personal_work">
-                        <h2>Personal Projects</h2>
-                        <h3>2025</h3>
-                        <div class="personal_project">
-                            <h4>Paradise</h4>
+                    <h4>APLS Automatic Speech Segmentation Pipeline</h4>
+                    <p>I utilized a finetuned pyannote model and custom built API to create ELAN transcriptions which were pre-segmented between speakers and phrases. Work is private and for the APLS lab. <a href="alejandrociuba@pitt.edu">Email me</a> for more information.</p>
+                </article>
+                <article id="personal_work">
+                    <h2>Personal Projects</h2>
+                    <h3>2025</h3>
+                    <section class="personal_project">
+                        <h4>Paradise</h4>
+                        <div>
                             <div>
-                                <div>
-                                    <p>I submitted this for the 20 Second Game Jam 2025. You help a little robot reach a gate via terminal commands. I made this using mostly open-source tools and assets. I made the game using Godot, the music in LMMS (Synths from Vital), trimmed the audio in Audacity, and drew the sprites in Pixelorama. If you are interested in the code, look at the <a href="https://github.com/AlejandroCiuba/20s-Game-Jam-2025">GitHub</a>.</p>
-                                    <p><a href="projects/paradise.html" style="text-decoration: underline;"><b>PLAY HERE</b></a></p>
-                                </div>
-                                <div><iframe frameborder="0" src="https://itch.io/embed/4111126?bg_color=161B33&amp;fg_color=ffffff&amp;link_color=0D0C1D&amp;border_color=161B33" width="552" height="167"><a href="https://alejandro-ciuba.itch.io/paradise">Paradise by Alejandro Ciuba</a></iframe></div>
+                                <p>I submitted this for the 20 Second Game Jam 2025. You help a little robot reach a gate via terminal commands. I made this using mostly open-source tools and assets. I made the game using Godot, the music in LMMS (Synths from Vital), trimmed the audio in Audacity, and drew the sprites in Pixelorama. If you are interested in the code, look at the <a href="https://github.com/AlejandroCiuba/20s-Game-Jam-2025">GitHub</a>.</p>
+                                <p><a href="projects/paradise.html" style="text-decoration: underline;"><b>PLAY HERE</b></a></p>
                             </div>
+                            <div><iframe frameborder="0" src="https://itch.io/embed/4111126?bg_color=161B33&amp;fg_color=ffffff&amp;link_color=0D0C1D&amp;border_color=161B33" width="552" height="167"><a href="https://alejandro-ciuba.itch.io/paradise">Paradise by Alejandro Ciuba</a></iframe></div>
                         </div>
-                        <h3>Pre-2023</h3>
-                        <div class="personal_project">
-                            <h4>Commander</h4>
+                    </section>
+                    <h3>Pre-2023</h3>
+                    <section class="personal_project">
+                        <h4>Commander</h4>
+                        <div>
                             <div>
-                                <div>
-                                    <p>A small choice-based game where you are a commander of an army. Made in Twine for an English class.</p>
-                                    <p><a href="projects/Commander.html" style="text-decoration: underline;"><b>PLAY</b></a></p>
-                                </div>
-                                <div><img src="images/Commander.png" alt="A screenshot from my game commander. It is a terminal with three words written in the middle of its screen. On the top is the title, Command, in white. the other two words are in bright green. The first reads play and underneath that, the second reads credits" style="width: 25em;"></div>
+                                <p>A small choice-based game where you are a commander of an army. Made in Twine for an English class.</p>
+                                <p><a href="projects/Commander.html" style="text-decoration: underline;"><b>PLAY</b></a></p>
                             </div>
+                            <div><img src="images/Commander.png" alt="A screenshot from my game commander. It is a terminal with three words written in the middle of its screen. On the top is the title, Command, in white. the other two words are in bright green. The first reads play and underneath that, the second reads credits" style="width: 25em;"></div>
                         </div>
-                        <div class="personal_project">
-                            <h4>Flatland: The Game</h4>
+                    </section>
+                    <section class="personal_project">
+                        <h4>Flatland: The Game</h4>
+                        <div>
                             <div>
-                                <div>
-                                    <p>I made during the first Pitt Computer Science Club Hackathon. I won best overall project and best beginner project. It took about 6 weeks of work. I programmed everything in Unity, and made the assets, UI, and music myself. I was inspired by the original novel <i>Flatland: A Romance of Many Dimensions</i> by Edwin Abbott Abbott.</p>
-                                    <p>Unfortunately, the main game is lost on some hard drive. And the existing demo is Windows only. I don't remember what version of Unity I used. Assets and UI were made in Aseprite and the music/sound effects were made in LMMS.</p>
-                                </div>
-                                <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/enmmMr1R3QI?si=P2q7Odt7k4plJkKd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+                                <p>I made during the first Pitt Computer Science Club Hackathon. I won best overall project and best beginner project. It took about 6 weeks of work. I programmed everything in Unity, and made the assets, UI, and music myself. I was inspired by the original novel <i>Flatland: A Romance of Many Dimensions</i> by Edwin Abbott Abbott.</p>
+                                <p>Unfortunately, the main game is lost on some hard drive. And the existing demo is Windows only. I don't remember what version of Unity I used. Assets and UI were made in Aseprite and the music/sound effects were made in LMMS.</p>
                             </div>
+                            <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/enmmMr1R3QI?si=P2q7Odt7k4plJkKd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
                         </div>
-                    </div>
-                </div>
-            </div>
+                    </section>
+                </article>
+            </section>
+        </article>
+    </main>
+    <footer>
+        <div id="copyrights">
+            <p>© 2025 Alejandro Ciuba. <span style="color: gray;">I made this <a style="color: grey; text-decoration: underline;" href="https://github.com/AlejandroCiuba/AlejandroCiuba.github.io/blob/main/template.html">template</a>, feel free to use it.</span></p>
         </div>
-        <div id="footer">
-            <div id="copyrights">
-                <p>© 2025 Alejandro Ciuba. <span style="color: gray;">I made this <a style="color: grey; text-decoration: underline;" href="https://github.com/AlejandroCiuba/AlejandroCiuba.github.io/blob/main/template.html">template</a>, feel free to use it.</span></p>
-            </div>
-        </div>
-    </div>
+    </footer>
 </body>
 </html>
