@@ -27,7 +27,7 @@ body, html {
     height: 100%;
     width: 100%;
     margin: auto;
-    background-color: #161B33;
+    background-color: #EBF7F7;
     color: var(--text-color);
     display: flex;
     flex-flow: column;
