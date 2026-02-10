@@ -6,8 +6,9 @@ header {
     background-color: #0D0C1D;
     z-index: 2;
     display: flex;
+    align-items: center;
     flex-flow: column;
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: 0vh;
 }
 
