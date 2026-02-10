@@ -37,7 +37,6 @@ ul {
     list-style: none;
     list-style-position: inside;
     padding: 0;
-    color: #000000;
 }
 
 ol {
@@ -47,7 +46,7 @@ ol {
 
 a {
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
 }
 
 a:hover {
