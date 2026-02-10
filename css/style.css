@@ -21,6 +21,12 @@
     --text-color: #000000;
 }
 
+header {
+    background-color: #333; /* Styles the main page header container */
+    color: white;
+    padding: 20px;
+}
+
 /* Body & Other Settings*/
 body, html {
     font-family: "Roboto";
