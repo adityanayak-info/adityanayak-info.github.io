@@ -8,6 +8,7 @@ header {
     display: flex;
     justify-content: flex-start;
     gap: 4vw;
+    padding-left: 50px;
 }
 
 #name h1 {
