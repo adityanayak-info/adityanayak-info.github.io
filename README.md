@@ -1,2 +1,2 @@
-# AlejandroCiuba.github.io
+# adityanayak-info.github.io
 Website
