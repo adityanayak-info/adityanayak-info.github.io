@@ -33,7 +33,7 @@ body, html {
     height: 100%;
     width: 100%;
     margin: auto;
-    background-color: #E9F2F2;
+    background-color: #ffffff;
     color: var(--text-color);
     display: flex;
     flex-flow: column;
