@@ -59,9 +59,10 @@ a:hover {
     text-decoration: underline;
 }
 
-.main-content a {
-    color: blue;
+body a {
+  color: #C43314; /* Change the color to your desired value (e.g., red) */
 }
+
 
 @keyframes fadein {
     from {opacity: 0;}
