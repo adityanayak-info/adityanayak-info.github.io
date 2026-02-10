@@ -20,7 +20,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: end;
-    padding: 40px;
+    padding-right: 40px;
     margin-right: 80px;
 }
 
