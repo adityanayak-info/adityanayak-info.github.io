@@ -40,7 +40,7 @@ permalink: /
 
      <hr class="profile-rule">
 
-<p><strong>Research Interests</strong></p>
+
 
 <div class="interest-tags">
   <span class="interest-tag">HCI</span>
@@ -84,7 +84,7 @@ permalink: /
 <div class="career-path">
   <div class="career-stages">
     <div class="stage">
-      <div class="stage-name">Philosophy<br>&amp; Social Science</div>
+      <div class="stage-name">Philosophy &amp;<br> Social Theory</div>
       <div class="stage-inst">Epistemology<br>Ethnography<br>Interpretive Methods</div>
     </div>
     <div class="stage-arrow">→</div>
