@@ -84,8 +84,8 @@ permalink: /
 <div class="career-path">
   <div class="career-stages">
     <div class="stage">
-      <div class="stage-name">Philosophy</div>
-      <div class="stage-inst">Epistemology · Pragmatism<br>Interpretive Methods</div>
+      <div class="stage-name">Philosophy &amp; Social Science</div>
+      <div class="stage-inst">Epistemology · Pragmatism · Ethnography<br>Interpretive Methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
