@@ -12,9 +12,9 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3>Designing for Community Trust in Public-Sector AI</h3>
+    <h3><a href="[https://your-url-here.com](https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en)" class="project-card-link" target="_blank" rel="noopener">Designing for Community Trust in Public-Sector AI</a></h3>
     <p class="project-meta">With Abdulaziz Alotaibi & Aakash Gautam · University of Pittsburgh · 2025–Ongoing</p>
-    <p>This project develops a web platform that centers community experiences — particularly those of communities historically harmed by algorithmic systems — in the design and evaluation of public-sector AI. The work interrogates conditions of distrust and proposes a relational approach to participatory AI design. Presented at PAIRS'26.</p>
+    <p>This project develops a web platform that centers community experiences — particularly those of communities historically harmed by algorithmic systems — in the design and evaluation of public sector AI. The work interrogates conditions of distrust and proposes a relational approach to participatory AI design. Presented at PAIRS'26.</p>
     <a href="https://www.pairs.site/" target="_blank" rel="noopener">→ PAIRS'26 symposium</a>
     <span class="project-tag">Participatory Design</span><span class="project-tag">Public-Sector AI</span>   <span class="project-tag">Community</span>
   </div>
