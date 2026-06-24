@@ -503,7 +503,8 @@ hr.profile-rule {
 /* ============================================================
    TEACHING
    ============================================================ */
-.course-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin-bottom: 1.5rem; }
+.course-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin-bottom: 1.5rem; table-layout: fixed; /* add this */
+}
 
 .course-table th {
   text-align: left;
