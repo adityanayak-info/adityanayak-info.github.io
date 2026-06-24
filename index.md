@@ -14,7 +14,7 @@ permalink: /
 
 <div class="profile-section">
   <div class="photo-wrap">
-    <div class="photo-initials">AN</div>
+    <img src="{{ '/assets/img/FIMS.jpg' | relative_url }}" alt="Aditya Nayak">
   </div>
 
   <div class="profile-text">
@@ -23,20 +23,20 @@ permalink: /
 
     <hr class="profile-rule">
 
-    <p>I am a PhD student at the <a class="inst-link" href="https://www.sci.pitt.edu" target="_blank">University of Pittsburgh</a>, working at the intersection of Human-Computer Interaction and the sociopolitical dimensions of AI. My research examines how algorithmic systems reshape work, governance, and civic participation.</p>
+    <p>I am a PhD student at the <a class="inst-link" href="https://www.sci.pitt.edu" target="_blank">University of Pittsburgh</a>, working at the intersection of Human-Computer Interaction and the sociopolitical dimensions of technology. I use participatory design methods to co-design mechanisms for community-enagagement for responsible technology development.</p>
 
     <hr class="profile-rule">
 
-    <p>Previously, I was an <strong>Assistant Professor of Political Science</strong> at <a class="inst-link" href="https://www.lsr.edu.in" target="_blank">Lady Shri Ram College, University of Delhi</a>, and a Research Associate on AI Governance at <a class="inst-link" href="https://www.iiitd.ac.in" target="_blank">IIIT-Delhi</a>. I hold an M.Phil. from <a class="inst-link" href="https://www.jnu.ac.in" target="_blank">Jawaharlal Nehru University</a>.</p>
+    <p>Previously, I was an <strong>Assistant Professor of Political Science</strong> at <a class="inst-link" href="https://www.lsr.edu.in" target="_blank">Lady Shri Ram College, University of Delhi</a>, and a Research Associate on AI Governance at <a class="inst-link" href="https://www.iiitd.ac.in" target="_blank">IIIT-Delhi</a>. I hold an M.Phil. from <a class="inst-link" href="https://www.jnu.ac.in" target="_blank">Jawaharlal Nehru University</a> with a thesis on "Artificial Intelligence and the Changing Forms of Work".</p>
 
     <hr class="profile-rule">
 
-    <p><strong>Research Interests:</strong> Human-Computer Interaction &amp; Work, AI Governance &amp; Policy, Participatory Design, Fairness &amp; Accountability in AI, Digital Labour Platforms</p>
+    <p><strong>Research Interests:</strong> Human-Computer Interaction, Participatory Design, Public Sector AI, Responsible AI, Community-Engagement, Fairness, Accountability &amp; Transparency in AI</p>
 
     <div class="contact-links">
       <a href="mailto:aditya.nayak@pitt.edu">✉ Email</a>
-      <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener">LinkedIn</a>
-      <a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://www.linkedin.com/in/adityanayak826" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
       <a href="{{ '/cv/' | relative_url }}">CV</a>
     </div>
   </div>
@@ -104,15 +104,11 @@ Thesis: *Artificial Intelligence and the Changing Forms of Work*
 
 ## Selected Honours
 
-- **First Position**, Allegheny County Dept. of Human Services Case Competition (2024) — *Supporting Refugees with Disabilities: Data-curation and Tracking of Disability Benefits*
+
+- **Awarded First Position**, Dept. of Human Services Allegheny County Case Competition (2024) — *Supporting Refugees with Disabilities: Data-curation and Tracking of Disability Benefits*
+- **Senior Research Fellowship** University Grants Commision, 2020-2023
+- **Junior Research Fellowship** University Grants Commission, 2018-2020
 - **National Eligibility Test** for Assistant Professor in Political Science, India (2018)
-- **Best Research Paper Award**, Politologue Inter-College Paper Presentation, Jesus and Mary College, DU (2015)
 
-## Grants & Fellowships
 
-| Award | Year | Amount |
-|---|---|---|
-| SCI Fellowship, Dept. of Information, Culture and Data Stewardship, University of Pittsburgh | 2024–25 | $39,990 |
-| Senior Research Fellowship, University Grants Commission | 2020–23 | $22,500 |
-| Junior Research Fellowship, University Grants Commission | 2018–20 | $12,732 |
-| International Travel Grant, Chung-Ang University, Seoul | 2019 | $500 |
+
