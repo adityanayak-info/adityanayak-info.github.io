@@ -84,18 +84,18 @@ permalink: /
 <div class="career-path">
   <div class="career-stages">
     <div class="stage">
-      <div class="stage-name">Philosophy &amp; Social Science</div>
-      <div class="stage-inst">Epistemology · Pragmatism · Ethnography<br>Interpretive Methods</div>
+      <div class="stage-name">Philosophy<br>&amp; Social Science</div>
+      <div class="stage-inst">Epistemology·Pragmatism<br>Ethnography·Interpretive Methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
       <div class="stage-name">HCI Research</div>
-      <div class="stage-inst">Action Research · Participatory Design<br> Qualitative Methods</div>
+      <div class="stage-inst">Action Research·Participatory Design<br>Qualitative Methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
       <div class="stage-name">Design &amp; Development</div>
-      <div class="stage-inst">Responsible AI <br> Community-centred Design</div>
+      <div class="stage-inst">Responsible AI<br>Community-centred Design</div>
     </div>
   </div>
   <p class="career-tagline">Human-Computer Interaction Researcher</p>
