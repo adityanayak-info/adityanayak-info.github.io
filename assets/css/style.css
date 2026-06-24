@@ -209,8 +209,8 @@ h1, h2, h3, h4 { font-family: var(--font-display); color: var(--navy); line-heig
 .main-content strong { font-weight: 600; }
 .main-content hr { border: none; border-top: 1px solid var(--slate); margin: 2rem 0; }
 
-a { color: var(--navy); text-decoration: none; transition: color 0.15s; }
-a:hover { color: var(--burgundy); text-decoration: underline; }
+a { color: var(--burgundy); text-decoration: none; transition: color 0.15s; }
+a:hover { color: var(--navy); text-decoration: underline; }
 
 /* ============================================================
    HOME — PROFILE SECTION
