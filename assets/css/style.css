@@ -402,8 +402,8 @@ hr.profile-rule {
   margin-right: 4px;
 }
 
-.pub-list a { color: var(--navy); font-size: 0.85rem; font-weight: 500; }
-.pub-list a:hover { color: var(--burgundy); }
+.pub-list a { color: var(--burgundy); font-size: 0.85rem; font-weight: 500; }
+.pub-list a:hover { color: var(--navy); }
 
 /* ============================================================
    CV PAGE
