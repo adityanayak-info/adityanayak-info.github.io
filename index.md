@@ -98,7 +98,7 @@ permalink: /
       <div class="stage-inst">Responsible AI <br> Community-centred Design</div>
     </div>
   </div>
-  <p class="career-tagline">Interdisciplinary AI &amp; Society Researcher</p>
+  <p class="career-tagline">Human-Computer Interaction Researcher</p>
 </div>
 
 ## Education
