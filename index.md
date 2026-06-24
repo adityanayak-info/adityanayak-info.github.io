@@ -46,10 +46,10 @@ permalink: /
   <span class="interest-tag">HCI</span>
   <span class="interest-tag">Participatory Design</span>
   <span class="interest-tag">Public Sector AI</span>
-  <span class="interest-tag">Responsible AI</span>
-  <span class="interest-tag">Community Engagement</span>
-  <span class="interest-tag">FAccT</span>
   <span class="interest-tag">CSCW</span>
+  <span class="interest-tag">Responsible AI</span>
+  <span class="interest-tag">FAccT</span>
+  <span class="interest-tag">Community Engagement</span>
 </div>
       
     </div>
@@ -85,7 +85,7 @@ permalink: /
   <div class="career-stages">
     <div class="stage">
       <div class="stage-name">Philosophy<br>&amp; Social Science</div>
-      <div class="stage-inst">Epistemology<br>Pragmatism<br>Ethnography<br>Interpretive Methods</div>
+      <div class="stage-inst">Epistemology<br>Ethnography<br>Interpretive Methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
