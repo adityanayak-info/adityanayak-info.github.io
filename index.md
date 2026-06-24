@@ -73,7 +73,7 @@ permalink: /
   </div>
 </div>
 
-## My Background
+## My Research Background
 
 <!-- ═══════════════════════════════════════════════════════════
      CAREER PATH — edit stage-name and stage-inst text below.
@@ -84,23 +84,18 @@ permalink: /
 <div class="career-path">
   <div class="career-stages">
     <div class="stage">
-      <div class="stage-name">Political<br>Scientist</div>
-      <div class="stage-inst">BA · MA · MPhil<br>Delhi &amp; JNU</div>
+      <div class="stage-name">Philosophy</div>
+      <div class="stage-inst">Epistemology · Pragmatism<br>Interpretive Methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
-      <div class="stage-name">AI Humanities<br>Researcher</div>
-      <div class="stage-inst">Journal of<br>AI Humanities</div>
+      <div class="stage-name">HCI Research</div>
+      <div class="stage-inst">Action Research · Participatory Design<br> Qualitative Methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
-      <div class="stage-name">Faculty &amp;<br>Policy Work</div>
-      <div class="stage-inst">LSR Delhi<br>+ IIIT-Delhi</div>
-    </div>
-    <div class="stage-arrow">→</div>
-    <div class="stage">
-      <div class="stage-name">HCI / SCI<br>Scholar</div>
-      <div class="stage-inst">PhD · Pitt<br>2024 – present</div>
+      <div class="stage-name">Design &amp; Development</div>
+      <div class="stage-inst">Responsible AI <br> Community-centred Design</div>
     </div>
   </div>
   <p class="career-tagline">Interdisciplinary AI &amp; Society Researcher</p>
