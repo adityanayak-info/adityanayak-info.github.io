@@ -39,8 +39,10 @@ Prior to joining Pitt, I served as an Assistant Professor of Political Science a
 ## Research Interests
 
 <div class="interest-tags">
-  <span class="interest-tag">Human-Computer Interaction &amp; Participatory Design</span>
-  <span class="interest-tag">Public Sector AI &amp; Responsible AI</span>
+  <span class="interest-tag">Human-Computer Interaction </span>
+  <span class="interest-tag">Participatory Design </span>
+  <span class="interest-tag">Public Sector AI </span>
+  <span class="interest-tag">Participatory Design </span>
   <span class="interest-tag">Community Engagement</span>
   <span class="interest-tag">Fairness, Accountability &amp; Transparency in AI</span>
   <span class="interest-tag">Algorithmic Governance</span>
