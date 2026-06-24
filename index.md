@@ -37,6 +37,10 @@ permalink: /
      <a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar">
        <svg viewBox="0 0 24 24" fill="#123C69" width="22" height="22" aria-hidden="true"><path d="M12 3 1 9l4 2.18V17l7 4 7-4v-5.82L23 9zm6.36 7L12 13.36 5.64 10 12 6.64zM17 15.56l-5 2.86-5-2.86v-3.73L12 14l5-2.17z"/></svg>
      </a>
+
+     <hr class="profile-rule">
+
+    <p><strong>Research Interests:</strong> HCI, Participatory Design, Public Sector AI, Responsible AI, Community-Engagement, Fairness Accountability Transparency &amp; Ethics (FATE) in AI</p>
       
     </div>
   </div>
@@ -54,9 +58,7 @@ permalink: /
 
     <p>Previously, I was an <strong>Assistant Professor of Political Science</strong> at <a class="inst-link" href="https://www.lsr.edu.in" target="_blank">Lady Shri Ram College, University of Delhi</a>, and a Research Associate on AI Governance at <a class="inst-link" href="https://www.iiitd.ac.in" target="_blank">IIIT-Delhi</a>. I hold an M.Phil. from <a class="inst-link" href="https://www.jnu.ac.in" target="_blank">Jawaharlal Nehru University</a> with a thesis on "Artificial Intelligence and the Changing Forms of Work".</p>
 
-    <hr class="profile-rule">
 
-    <p><strong>Research Interests:</strong> HCI, Participatory Design, Public Sector AI, Responsible AI, Community-Engagement, Fairness Accountability Transparency &amp; Ethics (FATE) in AI</p>
 
   </div>
 </div>
