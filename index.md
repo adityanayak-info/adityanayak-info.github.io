@@ -20,13 +20,8 @@ permalink: /
   <!-- ── Left column: photo + affiliation + buttons ── -->
   <div class="photo-col">
 
-    <div class="photo-initials">AN</div>
+    <img src="{{ '/assets/img/FIMS.jpg' | relative_url }}" alt="Aditya Nayak">
     <!-- swap the line above for your photo once ready -->
-
-    <p class="photo-affiliation">
-      School of Computing and Information<br>
-      University of Pittsburgh
-    </p>
 
     <div class="contact-links">
 
@@ -38,18 +33,11 @@ permalink: /
       <!-- Replace # with your LinkedIn profile URL -->
       <a href="#" target="_blank" rel="noopener">
         <svg viewBox="0 0 24 24" fill="currentColor" width="13" height="13" aria-hidden="true"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg>
-        LinkedIn
       </a>
 
       <!-- Replace # with your Google Scholar profile URL -->
       <a href="#" target="_blank" rel="noopener">
         <svg viewBox="0 0 24 24" fill="currentColor" width="13" height="13" aria-hidden="true"><path d="M12 3 1 9l4 2.18V17l7 4 7-4v-5.82L23 9zm6.36 7L12 13.36 5.64 10 12 6.64zM17 15.56l-5 2.86-5-2.86v-3.73L12 14l5-2.17z"/></svg>
-        Google Scholar
-      </a>
-
-      <a href="{{ '/cv/' | relative_url }}">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="13" height="13" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
-        CV
       </a>
 
     </div>
