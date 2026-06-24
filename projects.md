@@ -22,8 +22,9 @@ permalink: /projects/
     <span class="project-tag">Participatory Design</span><span class="project-tag">Public-Sector AI</span>   <span class="project-tag">Community</span>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/project-community-ai.jpg' | relative_url }}" alt="Community AI project">
+    <img src="{{ '/assets/img/algohub.jpg' | relative_url }}" alt="Community AI project">
   </div>
+  
 </div>
 
 <div class="project-card">
