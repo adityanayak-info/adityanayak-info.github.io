@@ -85,7 +85,7 @@ permalink: /
   <div class="career-stages">
     <div class="stage">
       <div class="stage-name">Philosophy &amp; Social Theory</div>
-      <div class="stage-inst">Epistemology · Ethnography<br>Interpretive Methods</div>
+      <div class="stage-inst">Epistemology · Ethnography<br>Inductive Reasoning<br>Interpretive Methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
