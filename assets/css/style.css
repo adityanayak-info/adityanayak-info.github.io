@@ -552,7 +552,7 @@ hr.profile-rule {
   flex-wrap: wrap;
   gap: 7px;
   margin: 10px 0 14px;
-  justify-content: space-evenly; /* spreads tags evenly across the width */
+  justify-content: space-between; /* spreads tags evenly across the width */
 }
 
 .interest-tag {
