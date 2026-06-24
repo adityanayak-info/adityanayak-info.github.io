@@ -26,7 +26,7 @@ permalink: /
     <div class="contact-links">
 
       <a href="mailto:aditya.nayak@pitt.edu">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="13" height="13" aria-hidden="true"><rect x="2" y="4" width="30" height="26" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="33" height="33" aria-hidden="true"><rect x="2" y="4" width="30" height="26" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
       </a>
 
       <!-- Replace # with your LinkedIn profile URL -->
