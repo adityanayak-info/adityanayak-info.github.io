@@ -58,6 +58,7 @@
           {{ content }}
         </main>
 
+        {% if page.url == '/' %}
         <aside class="sidebar" aria-label="Recent updates">
           <div class="sidebar-card">
             <h3 class="sidebar-heading">Recent Updates</h3>
@@ -72,6 +73,7 @@
             {% endfor %}
           </div>
         </aside>
+        {% endif %}
 
       </div>
     </div>
