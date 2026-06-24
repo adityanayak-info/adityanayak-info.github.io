@@ -85,12 +85,12 @@ permalink: /
   <div class="career-stages">
     <div class="stage">
       <div class="stage-name">Philosophy<br>&amp; Social Science</div>
-      <div class="stage-inst">Epistemology·Pragmatism<br>Ethnography·Interpretive Methods</div>
+      <div class="stage-inst">Epistemology<br>Pragmatism<br>Ethnography<br>Interpretive Methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
-      <div class="stage-name">HCI Research</div>
-      <div class="stage-inst">Action Research·Participatory Design<br>Qualitative Methods</div>
+      <div class="stage-name">Research Approach</div>
+      <div class="stage-inst">Action Research<br>Participatory Design<br>Qualitative Methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
