@@ -9,7 +9,6 @@ permalink: /cv/
 <div class="cv-actions">
   <!-- Replace the # below with your actual Google Drive share link or direct PDF URL -->
   <a class="btn btn-primary" href="#" target="_blank" rel="noopener">Download PDF</a>
-  <a class="btn btn-outline" href="mailto:aditya.nayak@pitt.edu">Request updated CV</a>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════
