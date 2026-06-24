@@ -33,7 +33,7 @@ permalink: /projects/
     <span class="project-tag">HCI</span><span class="project-tag">AI & Work</span><span class="project-tag">Older Adults</span>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/olderworkers.jpg' | relative_url }}" alt="Older workers and AI project">
+    <img src="{{ '/assets/img/olderworkers.png' | relative_url }}" alt="Older workers and AI project">
   </div>
 </div>
 
