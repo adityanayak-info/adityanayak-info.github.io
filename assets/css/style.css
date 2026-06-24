@@ -441,6 +441,7 @@ hr.profile-rule {
   display: flex;           /* add this */
   gap: 20px;               /* add this */
   align-items: flex-start; /* add this */
+  position: relative; /* add this */
 }
 
 .project-card-body {
@@ -464,6 +465,20 @@ hr.profile-rule {
 
 .project-card:hover .project-card-img img {
   filter: grayscale(0%);
+}
+
+/* Stretches the title link to cover the whole card */
+.project-card-link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+/* Keeps inner links (DOI, tags etc.) clickable above the overlay */
+.project-card a:not(.project-card-link) {
+  position: relative;
+  z-index: 1;
 }
 
 
