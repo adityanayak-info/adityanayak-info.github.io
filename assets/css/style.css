@@ -560,7 +560,8 @@ hr.profile-rule {
   .site-nav a { font-size: 0.79rem; padding: 5px 9px; }
 
   .page-layout { flex-direction: column; padding: 32px 0 48px; gap: 32px; }
-  .sidebar { width: 100%; position: static; }
+  .main-content { order: 1; } /* add this */
+  .sidebar { width: 100%; position: static; order: 2; }
 
   .profile-section { flex-direction: column; align-items: center; gap: 24px; }
   .profile-text { text-align: center; }
