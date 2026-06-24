@@ -103,15 +103,11 @@ permalink: /
 
 ## Education
 
-**PhD** · School of Computing and Information, University of Pittsburgh *(Pursuing)*
+**PhD** · School of Computing and Information, University of Pittsburgh *(Pursuing)*<br>
 Courses: Foundations in HCI; Public Interest Technology; Social Computing; Data-Centric Computing; FATE in AI; Psychology of Learning and Development.
 
-**M.Phil.** · Centre for Comparative Politics and Political Theory, Jawaharlal Nehru University
+**Master of Philosophy** · Centre for Comparative Politics and Political Theory, Jawaharlal Nehru University<br>
 Thesis: *Artificial Intelligence and the Changing Forms of Work*
-
-**MA** · Department of Political Science, University of Delhi
-
-**BA (Hons.)** · Department of Political Science, Ramjas College, University of Delhi
 
 ## Selected Honours
 
