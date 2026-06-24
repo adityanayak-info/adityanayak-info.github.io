@@ -25,6 +25,19 @@ permalink: /
 
     <div class="contact-links">
 
+
+      <a href="mailto:aditya.nayak@pitt.edu" aria-label="Email">
+       <svg viewBox="0 0 24 24" fill="none" stroke="#123C69" stroke-width="2" width="22" height="22" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+     </a>
+
+     <a href="https://www.linkedin.com/in/adityanayak826/" target="_blank" rel="noopener" aria-label="LinkedIn">
+       <svg viewBox="0 0 24 24" fill="#123C69" width="22" height="22" aria-hidden="true"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg>
+     </a>
+
+     <a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar">
+       <svg viewBox="0 0 24 24" fill="#123C69" width="22" height="22" aria-hidden="true"><path d="M12 3 1 9l4 2.18V17l7 4 7-4v-5.82L23 9zm6.36 7L12 13.36 5.64 10 12 6.64zM17 15.56l-5 2.86-5-2.86v-3.73L12 14l5-2.17z"/></svg>
+     </a>
+      
       <a href="mailto:aditya.nayak@pitt.edu">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="13" height="13" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
       </a>
@@ -118,5 +131,5 @@ Thesis: *Artificial Intelligence and the Changing Forms of Work*
 
 | Award | Year |
 |---|---|
-| SCI Fellowship, Dept. of Information, Culture and Data Stewardship, University of Pittsburgh | 2024–25 |
-| International Travel Grant, Chung-Ang University, Seoul | 2019 |
+| - SCI Fellowship, Dept. of Information, Culture and Data Stewardship, University of Pittsburgh | 2024–25 |
+| - International Travel Grant, Chung-Ang University, Seoul | 2019 |
