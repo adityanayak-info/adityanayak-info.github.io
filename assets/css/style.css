@@ -132,7 +132,7 @@ img { max-width: 100%; height: auto; display: block; }
   border-radius: 4px;
   padding: 22px 18px;
   border-top: 3px solid var(--navy);
-  text-align: left; /* add this */
+  text-align: right; /* add this */
 
 }
 
