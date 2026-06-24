@@ -56,7 +56,7 @@ permalink: /
 
     <hr class="profile-rule">
 
-    <p><strong>Research Interests:</strong> Human-Computer Interaction, Participatory Design, Public Sector AI, Responsible AI, Community-Engagement, Fairness, Accountability &amp; Transparency in AI</p>
+    <p><strong>Research Interests:</strong> HCI, Participatory Design, Public Sector AI, Responsible AI, Community-Engagement, Fairness, Accountability &amp; Transparency (FATE) in AI</p>
 
   </div>
 </div>
