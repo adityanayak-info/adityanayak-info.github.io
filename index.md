@@ -21,28 +21,28 @@ permalink: /
     </p>
     <div class="contact-links">
       <a href="mailto:aditya.nayak@pitt.edu">✉ aditya.nayak@pitt.edu</a>
-      <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener">LinkedIn</a>
-      <a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://www.linkedin.com/in/adityanayak826" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
     </div>
   </div>
 </div>
 
 ## About
 
-I am a PhD student at the School of Computing and Information, University of Pittsburgh. My research sits at the intersection of **Human-Computer Interaction (HCI)** and the sociopolitical dimensions of artificial intelligence, examining how algorithmic systems reshape work, governance, and civic participation.
+I am a PhD student at the School of Computing and Information, University of Pittsburgh. My research sits at the intersection of **Human-Computer Interaction (HCI)** and the sociopolitical dimensions of technology, examining how technology design shapes work, governance, and civic participation. I use participatory design methods to co-design mechanisms for community-enagagement for responsible technology development.
 
-I bring an interdisciplinary background in political theory and social computing to questions of fairness, accountability, and transparency in AI systems. My recent work explores how older workers navigate generative AI in employment contexts, how participatory design can resist "AI realism," and how digital labour platforms reproduce structural inequalities.
+My research explores Community-Centred Design, Responsibile AI adoption, Public Sector AI, and Community-engagement in AI Governance. I have previously published around 'Future of Work'.
+
 
 Prior to joining Pitt, I served as an Assistant Professor of Political Science at **Lady Shri Ram College, University of Delhi** (2022–2023), and as a Research Associate on an **AI Governance** project at the Indraprastha Institute of Information Technology, Delhi (2024). I hold an M.Phil. from **Jawaharlal Nehru University** with a thesis on *Artificial Intelligence and the Changing Forms of Work*.
 
 ## Research Interests
 
 <div class="interest-tags">
-  <span class="interest-tag">Human-Computer Interaction &amp; Work</span>
-  <span class="interest-tag">AI Governance &amp; Policy</span>
-  <span class="interest-tag">Participatory Design</span>
+  <span class="interest-tag">Human-Computer Interaction &amp; Participatory Design</span>
+  <span class="interest-tag">Public Sector AI &amp; Responsible AI</span>
+  <span class="interest-tag">Community Engagement</span>
   <span class="interest-tag">Fairness, Accountability &amp; Transparency in AI</span>
-  <span class="interest-tag">Digital Labour Platforms</span>
   <span class="interest-tag">Algorithmic Governance</span>
   <span class="interest-tag">Science &amp; Technology Studies</span>
 </div>
@@ -61,9 +61,10 @@ Thesis: *Artificial Intelligence and the Changing Forms of Work*
 
 ## Selected Honours
 
-- **First Position**, Dept. of Human Services Allegheny County Case Competition (2024) — *Supporting Refugees with Disabilities: Data-curation and Tracking of Disability Benefits*
+- **Awarded First Position**, Dept. of Human Services Allegheny County Case Competition (2024) — *Supporting Refugees with Disabilities: Data-curation and Tracking of Disability Benefits*
+- **Senior Research Fellowship** University Grants Commision, 2020-2023
+- **Junior Research Fellowship** University Grants Commission, 2018-2020
 - **National Eligibility Test** for Assistant Professor in Political Science, India (2018)
-- **Best Research Paper Award**, Politologue Inter-College Paper Presentation, Jesus and Mary College, DU (2015)
 
 ## Grants & Fellowships
 
