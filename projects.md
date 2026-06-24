@@ -11,6 +11,17 @@ permalink: /projects/
 ## Research Projects
 
 <div class="project-card">
+<h3>Designing for Community Trust in Public-Sector AI</h3>
+<p class="project-meta">With Abdulaziz Alotaibi & Aakash Gautam · University of Pittsburgh · 2025–Ongoing</p>
+
+This project develops a web platform that centers community experiences — particularly those of communities historically harmed by algorithmic systems — in the design and evaluation of public-sector AI. The work interrogates conditions of distrust and proposes a relational approach to participatory AI design. Presented at PAIRS'26.
+
+<a href="https://www.pairs.site/" target="_blank" rel="noopener">→ PAIRS'26 symposium</a>
+<span class="project-tag">Participatory Design</span><span class="project-tag">Public-Sector AI</span><span class="project-tag">Community</span>
+</div>
+
+
+<div class="project-card">
 <h3>Older Workers and Generative AI in Bridge Employment</h3>
 <p class="project-meta">With Aakash Gautam & Rama Adithya Varanasi · University of Pittsburgh · 2024–2026</p>
 
@@ -18,16 +29,6 @@ How do older workers navigate the integration of generative AI tools in bridge e
 
 <a href="https://doi.org/10.1145/3808045.3808070" target="_blank" rel="noopener">→ Read the paper</a>
 <span class="project-tag">HCI</span><span class="project-tag">AI & Work</span><span class="project-tag">Older Adults</span>
-</div>
-
-<div class="project-card">
-<h3>Designing for Community Trust in Public-Sector AI</h3>
-<p class="project-meta">With Abdulaziz Alotaibi & Aakash Gautam · University of Pittsburgh · 2025–2026</p>
-
-This project develops a web platform that centers community experiences — particularly those of communities historically harmed by algorithmic systems — in the design and evaluation of public-sector AI. The work interrogates conditions of distrust and proposes a relational approach to participatory AI design. Presented at PAIRS'26.
-
-<a href="https://www.pairs.site/" target="_blank" rel="noopener">→ PAIRS'26 symposium</a>
-<span class="project-tag">Participatory Design</span><span class="project-tag">Public-Sector AI</span><span class="project-tag">Community</span>
 </div>
 
 <div class="project-card">
@@ -39,25 +40,6 @@ An examination of marginality and caste within quick commerce digital labour pla
 <span class="project-tag">Digital Labour</span><span class="project-tag">Caste & Technology</span><span class="project-tag">STS</span>
 </div>
 
-<div class="project-card">
-<h3>Reconfiguring Participatory Design to Resist AI Realism</h3>
-<p class="project-meta">With Aakash Gautam · HCOMP 2024, Pittsburgh</p>
-
-This project develops conceptual and methodological tools to challenge "AI realism" — the assumption that AI-based solutions are inevitable and desirable — within participatory design processes. It argues for a form of participatory design that retains genuine openness to non-AI alternatives.
-
-<a href="https://tulanecs.github.io/PACE/" target="_blank" rel="noopener">→ PACE 2024 workshop</a>
-<span class="project-tag">Participatory Design</span><span class="project-tag">Critical AI</span>
-</div>
-
-<div class="project-card">
-<h3>Regulating Social Media: Nepal's TikTok Ban</h3>
-<p class="project-meta">With Prerana Khatiwada, Alejandro Ciuba, Aakash Gautam & Matthew Louis Mauriello · 2025</p>
-
-A survey-based study of how Nepali social media users experienced the government's ban on TikTok, examining the intersections of digital rights, state regulation, content moderation, and platform power in a Global South context. Published in *Proc. ACM Hum.-Comput. Interact.*
-
-<a href="https://doi.org/10.1145/3757648" target="_blank" rel="noopener">→ Read the paper</a>
-<span class="project-tag">Social Media</span><span class="project-tag">Platform Governance</span><span class="project-tag">CSCW</span>
-</div>
 
 <div class="project-card">
 <h3>Datafication of Politics: Political Consultancy in India</h3>
