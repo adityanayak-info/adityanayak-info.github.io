@@ -33,7 +33,7 @@ permalink: /projects/
     <span class="project-tag">HCI</span><span class="project-tag">AI & Work</span><span class="project-tag">Older Adults</span>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/older-workers.jpg' | relative_url }}" alt="Older workers and AI project">
+    <img src="{{ '/assets/img/olderworkers.jpg' | relative_url }}" alt="Older workers and AI project">
   </div>
 </div>
 
@@ -45,7 +45,7 @@ permalink: /projects/
     <span class="project-tag">Digital Labour</span><span class="project-tag">Caste & Technology</span><span class="project-tag">STS</span>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/quick-commerce.jpg' | relative_url }}" alt="Quick commerce digital labour project">
+    <img src="{{ '/assets/img/darkstore.jpg' | relative_url }}" alt="Quick commerce digital labour project">
   </div>
 </div>
 
@@ -57,7 +57,7 @@ permalink: /projects/
     <span class="project-tag">Political Technology</span><span class="project-tag">Data Politics</span><span class="project-tag">India</span>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/datafication.jpg' | relative_url }}" alt="Datafication of politics project">
+    <img src="{{ '/assets/img/consultancy.jpg' | relative_url }}" alt="Datafication of politics project">
   </div>
 </div>
 
@@ -74,20 +74,10 @@ permalink: /projects/
     <span class="project-tag">AI Policy</span><span class="project-tag">India</span><span class="project-tag">Curriculum Development</span>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/ai-governance.jpg' | relative_url }}" alt="AI Governance IIIT-Delhi project">
+    <img src="{{ '/assets/img/iiit.jpg' | relative_url }}" alt="AI Governance IIIT-Delhi project">
   </div>
 </div>
 
-
-
-<div class="project-card">
-<h3>AI Governance — IIIT-Delhi</h3>
-<p class="project-meta">Research Associate · Indraprastha Institute of Information Technology, Delhi · Jan–July 2024</p>
-
-Contributed to a project on AI governance with specific focus on the Indian policy landscape. Responsibilities included writing policy reports on AI regulation in India, developing curriculum materials on AI governance, and compiling political theory literature relevant to key issues within AI policy (autonomy, accountability, transparency, rights).
-
-<span class="project-tag">AI Policy</span><span class="project-tag">India</span><span class="project-tag">Curriculum Development</span>
-</div>
 
 ---
 
@@ -103,18 +93,6 @@ Contributed to a project on AI governance with specific focus on the Indian poli
     <span class="project-tag">Social Entrepreneurship</span><span class="project-tag">Manipur</span><span class="project-tag">Agriculture</span>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/krushi-karma.jpg' | relative_url }}" alt="Krushi Karma Naturals project">
+    <img src="{{ '/assets/img/krushikarma.jpg' | relative_url }}" alt="Krushi Karma Naturals project">
   </div>
-</div>
-
-
-
-<div class="project-card">
-<h3>Krushi Karma Naturals</h3>
-<p class="project-meta">Technology & Operations Lead · Manipur, India · 2018–2020</p>
-
-A social entrepreneurship project that aggregated approximately 2,500 families of indigenous small farmers in Manipur in coordination with Mission Organic Value Chain Development for North East India (MOVCD-NER). The project focused on empowerment of farming communities through micro-credit access, education, and primary healthcare. Registered as a Private Limited company after 2020.
-
-<a href="https://www.facebook.com/krushinaturals826" target="_blank" rel="noopener">→ Project page</a>
-<span class="project-tag">Social Entrepreneurship</span><span class="project-tag">Manipur</span><span class="project-tag">Agriculture</span>
 </div>
