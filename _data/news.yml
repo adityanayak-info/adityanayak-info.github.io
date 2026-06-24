@@ -1,0 +1,30 @@
+# ============================================================
+# RECENT UPDATES / NEWS
+# ============================================================
+# Add new items at the TOP of the list.
+# Each item has a "date" and a "text" field.
+# Example:
+#   - date: "Aug 2026"
+#     text: "Paper accepted at CHI 2027!"
+# ============================================================
+
+- date: "June 2026"
+  text: "New paper published at CHIWORK 2026: 'Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment.' With Aakash Gautam & Rama Adithya Varanasi."
+
+- date: "June 2026"
+  text: "Presenting 'From Distrust to Relationality' at the Participatory AI Research and Practice Symposium (PAIRS'26)."
+
+- date: "June 2026"
+  text: "Organized open panel at 4S 2026: 'From Barriers to Bridges: Infrastructuring AI Literacy for Civic Inclusion.'"
+
+- date: "Jan 2026"
+  text: "Started as Graduate Teaching Assistant at the University of Pittsburgh (Dept. of Computer Science & Dept. of Information Culture and Data Stewardship)."
+
+- date: "Nov 2025"
+  text: "Paper published in <em>Proc. ACM Hum.-Comput. Interact.</em> — 'Regulating Social Media: Surveying the Impact of Nepali Government's TikTok Ban.'"
+
+- date: "Oct 2025"
+  text: "Presented 'Delivering Inequality: Marginality in Quick Commerce Digital Labour Platforms' at 4S 2025 (Caste and Technoscience panel)."
+
+- date: "2024"
+  text: "First Place, Allegheny County Dept. of Human Services Case Competition — proposal on supporting refugees with disabilities."
