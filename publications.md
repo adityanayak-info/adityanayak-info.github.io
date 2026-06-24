@@ -32,11 +32,11 @@ permalink: /publications/
 
 ---
 
-## Conference Papers & Proceedings
+## Conference Presentations
 
 - **2026** — Aditya Nayak, Abdulaziz Alotaibi, and Aakash Gautam. "From Distrust to Relationality: Designing a Web Platform for Centering Community Experiences in Public-Sector AI." *Participatory AI Research and Practice Symposium (PAIRS'26)*. [pairs.site](https://www.pairs.site/)
 
-- **2025** — Aditya Nayak\*, Ashique Ali Thuppilikkat\*, and Aditi Vashistha\*. "Delivering Inequality: Marginality in Quick Commerce Digital Labour Platforms." In *Caste and Technoscience Panel*. Society for Social Studies of Science (4S). (\*equal contribution)
+- **2025** — Aditya Nayak\*, Ashique Ali Thuppilikkat\*, and Aditi Vashistha\*. "Delivering Inequality: Marginality in Quick Commerce Digital Labour Platforms." In *Caste and Technoscience Panel*. Society for Social Studies of Science (4S).
 
 - **2025** — Aditya Nayak, Aditi Vashistha, and Aakash Gautam. "Birth of Synthetic Agents: From 'World as Language' to 'Agency as Language.'" In *Chat Token Vector: Questioning Models of Language and Neo-Structuralism*. Ca' Foscari University, Venice. Hosted by European Research Commission project AI Models and Cambridge Digital Humanities. [Conference site](https://www.unive.it/web/en/14779/home)
 
