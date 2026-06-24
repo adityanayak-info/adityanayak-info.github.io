@@ -25,6 +25,44 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
+  <div class="project-card-body">
+    <h3>Older Workers and Generative AI in Bridge Employment</h3>
+    <p class="project-meta">With Aakash Gautam & Rama Adithya Varanasi · University of Pittsburgh · 2024–2026</p>
+    <p>How do older workers navigate the integration of generative AI tools in bridge employment (post-retirement work)? This project examines the concerns, strategic responses, and adaptive practices of older workers confronting AI in their workplaces, centering their experiences as knowledge rather than deficit. Published at CHIWORK 2026.</p>
+    <a href="https://doi.org/10.1145/3808045.3808070" target="_blank" rel="noopener">→ Read the paper</a>
+    <span class="project-tag">HCI</span><span class="project-tag">AI & Work</span><span class="project-tag">Older Adults</span>
+  </div>
+  <div class="project-card-img">
+    <img src="{{ '/assets/img/older-workers.jpg' | relative_url }}" alt="Older workers and AI project">
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-card-body">
+    <h3>Delivering Inequality: Quick Commerce and Digital Labour</h3>
+    <p class="project-meta">With Ashique Ali Thuppilikkat & Aditi Vashistha · 2025</p>
+    <p>An examination of marginality and caste within quick commerce digital labour platforms in India (e.g., 10-minute grocery delivery services). This project investigates how platform architectures reproduce and intensify pre-existing structural inequalities, using Science and Technology Studies frameworks alongside political economy. Presented at 4S 2025.</p>
+    <span class="project-tag">Digital Labour</span><span class="project-tag">Caste & Technology</span><span class="project-tag">STS</span>
+  </div>
+  <div class="project-card-img">
+    <img src="{{ '/assets/img/quick-commerce.jpg' | relative_url }}" alt="Quick commerce digital labour project">
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-card-body">
+    <h3>Datafication of Politics: Political Consultancy in India</h3>
+    <p class="project-meta">IIIT-Delhi · 2023</p>
+    <p>An investigation into how data-driven political consultancy firms operate in the Indian electoral context — examining the tools, techniques, and ethical implications of micro-targeted political communication and voter profiling. Presented at the International Symposium on Democracy in the Times of Digital Transformation, IIIT-Delhi.</p>
+    <span class="project-tag">Political Technology</span><span class="project-tag">Data Politics</span><span class="project-tag">India</span>
+  </div>
+  <div class="project-card-img">
+    <img src="{{ '/assets/img/datafication.jpg' | relative_url }}" alt="Datafication of politics project">
+  </div>
+</div>
+
+
+<div class="project-card">
 <h3>Older Workers and Generative AI in Bridge Employment</h3>
 <p class="project-meta">With Aakash Gautam & Rama Adithya Varanasi · University of Pittsburgh · 2024–2026</p>
 
