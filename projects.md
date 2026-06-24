@@ -11,15 +11,20 @@ permalink: /projects/
 ## Research Projects
 
 <div class="project-card">
-<h3>Designing for Community Trust in Public-Sector AI</h3>
-<p class="project-meta">With Abdulaziz Alotaibi & Aakash Gautam · University of Pittsburgh · 2025–Ongoing</p>
+  <div class="project-card-body">
+    
+    <h3>Designing for Community Trust in Public-Sector AI</h3>
+    <p class="project-meta">With Abdulaziz Alotaibi & Aakash Gautam · University of Pittsburgh · 2025–Ongoing</p>
 
-This project develops a web platform that centers community experiences — particularly those of communities historically harmed by algorithmic systems — in the design and evaluation of public-sector AI. The work interrogates conditions of distrust and proposes a relational approach to participatory AI design. Presented at PAIRS'26.
+    <p>This project develops a web platform that centers community experiences — particularly those of communities historically harmed by algorithmic systems — in the design and evaluation of public-sector AI. The work interrogates conditions of distrust and proposes a relational approach to participatory AI design. Presented at PAIRS'26.<p>
 
-<a href="https://www.pairs.site/" target="_blank" rel="noopener">→ PAIRS'26 symposium</a>
-<span class="project-tag">Participatory Design</span><span class="project-tag">Public-Sector AI</span><span class="project-tag">Community</span>
+    <a href="https://www.pairs.site/" target="_blank" rel="noopener">→ PAIRS'26 symposium</a>
+    <span class="project-tag">Participatory Design</span><span class="project-tag">Public-Sector AI</span>   <span class="project-tag">Community</span>
+  </div>
+  <div class="project-card-img">
+    <img src="{{ '/assets/img/project-community-ai.jpg' | relative_url }}" alt="Community AI project">
+  </div>
 </div>
-
 
 <div class="project-card">
 <h3>Older Workers and Generative AI in Bridge Employment</h3>
