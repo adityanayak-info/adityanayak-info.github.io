@@ -40,13 +40,15 @@ permalink: /
 
      <hr class="profile-rule">
 
+<p><strong>Research Interests:</strong></p>
+
 <div class="interest-tags">
-  <span class="interest-tag">HCI</span>
-  <span class="interest-tag">Participatory Design</span>
-  <span class="interest-tag">Public Sector AI</span>
-  <span class="interest-tag">Responsible AI</span>
-  <span class="interest-tag">Community Engagement</span>
-  <span class="interest-tag">FAccT</span>
+  <span class="interest-tag">HCI · </span>
+  <span class="interest-tag">Participatory Design · </span>
+  <span class="interest-tag">Public Sector AI · </span>
+  <span class="interest-tag">Responsible AI · </span>
+  <span class="interest-tag">Community Engagement · </span>
+  <span class="interest-tag">FAccT · </span>
   <span class="interest-tag">CSCW</span>
 </div>
       
