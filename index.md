@@ -120,5 +120,5 @@ Thesis: *Artificial Intelligence and the Changing Forms of Work*
 
 | Award | Year |
 |---|---|
-| SCI Fellowship, Dept. of Information Culture and Data Stewardship,<br> University of Pittsburgh | 2024–25 |
+| SCI Fellowship, Dept. of Information Culture and Data Stewardship,   <br> University of Pittsburgh | 2024–25 |
 | International Travel Grant, Chung-Ang University, Seoul | 2019 |
