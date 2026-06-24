@@ -506,6 +506,17 @@ hr.profile-rule {
 .course-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin-bottom: 1.5rem; table-layout: fixed; /* add this */
 }
 
+
+/* add these three rules */
+.course-table th:nth-child(1),
+.course-table td:nth-child(1) { width: 14%; }
+
+.course-table th:nth-child(2),
+.course-table td:nth-child(2) { width: 62%; }
+
+.course-table th:nth-child(3),
+.course-table td:nth-child(3) { width: 24%; }
+
 .course-table th {
   text-align: left;
   font-family: var(--font-body);
