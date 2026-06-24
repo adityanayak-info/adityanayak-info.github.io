@@ -84,8 +84,8 @@ permalink: /
 <div class="career-path">
   <div class="career-stages">
     <div class="stage">
-      <div class="stage-name">Philosophy &amp;<br> Social Theory</div>
-      <div class="stage-inst">Epistemology<br>Ethnography<br>Interpretive Methods</div>
+      <div class="stage-name">Philosophy &amp; Social Theory</div>
+      <div class="stage-inst">Epistemology · Ethnography<br>Interpretive Methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
@@ -94,8 +94,8 @@ permalink: /
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
-      <div class="stage-name">Design &amp; Development</div>
-      <div class="stage-inst">Responsible AI<br>Community-centred Design</div>
+      <div class="stage-name">HCI Design</div>
+      <div class="stage-inst">Responsible Technologies<br>Community-centred Design</div>
     </div>
   </div>
   <p class="career-tagline">Human-Computer Interaction Researcher</p>
