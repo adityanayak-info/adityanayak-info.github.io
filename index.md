@@ -40,7 +40,7 @@ permalink: /
 
      <hr class="profile-rule">
 
-<p><strong>Research Interests:</strong></p>
+<p><strong>Research Interests</strong></p>
 
 <div class="interest-tags">
   <span class="interest-tag">HCI · </span>
