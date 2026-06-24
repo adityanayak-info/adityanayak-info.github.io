@@ -272,6 +272,7 @@ a:hover { color: var(--burgundy); text-decoration: underline; }
   flex-wrap: wrap;
   justify-content: center;
   gap: 7px;
+  padding: 8px;
   margin-top: 11px;
 }
 
