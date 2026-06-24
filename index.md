@@ -94,7 +94,7 @@ permalink: /
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
-      <div class="stage-name">Sociotechnical Systems<br>Design</div>
+      <div class="stage-name">Sociotechnical Systems Design</div>
       <div class="stage-inst">Responsible Technologies<br>Community-centred Design<br>Capacity Building</div>
     </div>
   </div>
