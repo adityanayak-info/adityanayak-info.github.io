@@ -110,15 +110,14 @@ Thesis: *Artificial Intelligence and the Changing Forms of Work*
 
 ## Selected Honours
 
-- **First Position**, Allegheny County Dept. of Human Services Case Competition (2024) — *Supporting Refugees with Disabilities: Data-curation and Tracking of Disability Benefits*
+- **Awarded First Position**, Dept. of Human Services Allegheny County Case Competition (2024) — *Supporting Refugees with Disabilities: Data-curation and Tracking of Disability Benefits*
+- **Senior Research Fellowship** University Grants Commision, 2020-2023
+- **Junior Research Fellowship** University Grants Commission, 2018-2020
 - **National Eligibility Test** for Assistant Professor in Political Science, India (2018)
-- **Best Research Paper Award**, Politologue Inter-College Paper Presentation, Jesus and Mary College, DU (2015)
 
 ## Grants & Fellowships
 
 | Award | Year | Amount |
 |---|---|---|
-| SCI Fellowship, Dept. of Information, Culture and Data Stewardship, University of Pittsburgh | 2024–25 | $39,990 |
-| Senior Research Fellowship, University Grants Commission | 2020–23 | $22,500 |
-| Junior Research Fellowship, University Grants Commission | 2018–20 | $12,732 |
-| International Travel Grant, Chung-Ang University, Seoul | 2019 | $500 |
+| SCI Fellowship, Dept. of Information, Culture and Data Stewardship, University of Pittsburgh | 2024–25 |
+| International Travel Grant, Chung-Ang University, Seoul | 2019 |
