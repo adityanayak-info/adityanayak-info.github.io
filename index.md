@@ -44,11 +44,11 @@ permalink: /
   <!-- ── Right column: text only ── -->
   <div class="profile-text">
     <h1>Aditya Nayak</h1>
-    <p class="profile-subtitle">PhD Student · School of Computing and Information</p>
+    <p class="profile-subtitle">PhD Student · School of Computing and Information, University of Pittsburgh</p>
 
     <hr class="profile-rule">
 
-    <p>I am a PhD student at the <a class="inst-link" href="https://www.sci.pitt.edu" target="_blank">University of Pittsburgh</a>, working at the intersection of Human-Computer Interaction and the sociopolitical dimensions of technology. I use participatory design methods to co-design mechanisms for community-engagement for responsible technology development.</p>
+    <p>I am a PhD student at the <a class="inst-link" href="https://www.sci.pitt.edu" target="_blank">University of Pittsburgh</a>, working at the intersection of Human-Computer Interaction (HCI) and the sociopolitical dimensions of technology. I use participatory design methods to co-design mechanisms for community-engagement for responsible technology development.</p>
 
     <hr class="profile-rule">
 
