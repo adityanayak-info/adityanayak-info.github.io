@@ -438,7 +438,35 @@ hr.profile-rule {
   margin-bottom: 18px;
   background: #fefefe;
   transition: border-left-color 0.2s;
+  display: flex;           /* add this */
+  gap: 20px;               /* add this */
+  align-items: flex-start; /* add this */
 }
+
+.project-card-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.project-card-img {
+  flex-shrink: 0;
+  width: 150px;
+}
+
+.project-card-img img {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 6px;
+  filter: grayscale(100%);
+  transition: filter 0.4s ease;
+}
+
+.project-card:hover .project-card-img img {
+  filter: grayscale(0%);
+}
+
+
 .project-card:hover { border-left-color: var(--burgundy); }
 .project-card h3 { margin-top: 0; margin-bottom: 5px; font-size: 1.05rem; }
 .project-card .project-meta { font-size: 0.77rem; color: var(--text-muted); margin-bottom: 10px; font-style: italic; }
