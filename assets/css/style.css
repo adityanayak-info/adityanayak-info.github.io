@@ -73,7 +73,7 @@ img { max-width: 100%; height: auto; display: block; }
 .site-brand { flex-shrink: 0; }
 
 .site-name {
-  font-family: var(--font-display);
+  font-family: var(--font-body);
   font-size: 1.3rem;
   font-weight: 700;
   color: #fff;
