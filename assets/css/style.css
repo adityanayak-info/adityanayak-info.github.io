@@ -133,6 +133,7 @@ img { max-width: 100%; height: auto; display: block; }
   padding: 22px 18px;
   border-top: 3px solid var(--navy);
   text-align: right; /* add this */
+  margin-top: 60px;  /* adjust this value until it aligns */
 
 }
 
