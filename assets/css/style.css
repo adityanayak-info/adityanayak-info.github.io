@@ -651,7 +651,8 @@ hr.profile-rule {
 
 .home-hero {
   padding-top: 48px;
-  padding-bottom: 20px;
+  margin-top: 20px;  /* adjust to taste */
+  padding-bottom: 10px;
   border-bottom: 1px solid var(--border);
 }
 
