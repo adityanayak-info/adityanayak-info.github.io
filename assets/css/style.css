@@ -629,12 +629,16 @@ hr.profile-rule {
   .course-table { font-size: 0.78rem; }
 }
 
+.home-hero .profile-section {
+  margin-bottom: 0;
+}
+
 .home-hero {
   padding-top: 48px;
-  padding-bottom: 0;
+  padding-bottom: 20px;
   border-bottom: 1px solid var(--border);
 }
 
 .home-hero + .page-layout {
-  padding-top: 32px;
+  padding-top: 20px;
 }
