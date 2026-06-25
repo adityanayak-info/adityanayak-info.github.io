@@ -629,20 +629,11 @@ hr.profile-rule {
   /* Tables (teaching page) */
   .course-table { font-size: 0.78rem; }
 
-   .main-content div[style*="space-between"] {
-  flex-wrap: wrap;
-  gap: 8px;
+  .main-content div[style*="space-between"] { flex-wrap: wrap; gap: 8px; }
+  .main-content div[style*="space-between"] a { font-size: 0.68rem !important; padding: 4px 8px !important; }
+  .main-content div[style*="space-between"] svg { width: 12px !important; height: 12px !important; }
 }
 
-.main-content div[style*="space-between"] a {
-  font-size: 0.68rem !important;
-  padding: 4px 8px !important;
-}
-
-.main-content div[style*="space-between"] svg {
-  width: 12px !important;
-  height: 12px !important;
-}
 
 
 .home-hero .profile-section {
