@@ -628,3 +628,13 @@ hr.profile-rule {
   /* Tables (teaching page) */
   .course-table { font-size: 0.78rem; }
 }
+
+.home-hero {
+  padding-top: 48px;
+  padding-bottom: 36px;
+  border-bottom: 1px solid var(--border);
+}
+
+.home-hero + .page-layout {
+  padding-top: 32px;
+}
