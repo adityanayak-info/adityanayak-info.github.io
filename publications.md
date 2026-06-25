@@ -6,6 +6,10 @@ permalink: /publications/
 
 # Publications
 
+<a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar">
+   <svg viewBox="0 0 24 24" fill="#123C69" width="22" height="22" aria-hidden="true"><path d="M12 3 1 9l4 2.18V17l7 4 7-4v-5.82L23 9zm6.36 7L12 13.36 5.64 10 12 6.64zM17 15.56l-5 2.86-5-2.86v-3.73L12 14l5-2.17z"/></svg>
+ </a>
+
 ---
 
 ## Journal Articles
