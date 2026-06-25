@@ -6,13 +6,17 @@ permalink: /projects/
 
 <style>
 @media (max-width: 740px) {
-  .project-card          { flex-direction: row; }
-  .project-card-img      { width: 130px; flex-shrink: 0; }
-  .project-card-img img  { height: 100px; }
-  .project-card h3       { font-size: 1.05rem; }
-  .project-card p        { font-size: 0.91rem; }
-  .main-content h1       { font-size: 2.3rem; }
-  .main-content h2       { font-size: 0.72rem; }
+  /* Allow tables to scroll horizontally instead of collapsing */
+  .main-content { overflow-x: auto; }
+  .course-table  { min-width: 500px; font-size: 0.82rem; }
+
+  /* Keep heading sizes */
+  .main-content h1 { font-size: 2rem; }
+  .main-content h2 { font-size: 0.72rem; }
+  .main-content h3 { font-size: 1rem; }
+
+  /* Keep top button row in one line */
+  div[style*="space-between"] { flex-wrap: nowrap; }
 }
 </style>
 
