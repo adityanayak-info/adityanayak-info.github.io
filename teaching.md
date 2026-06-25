@@ -30,12 +30,6 @@ permalink: /teaching/
 Political Theory · Public Opinion and Survey Research · Comparative Politics · Dilemmas in Politics · Globalization and Political Economy
 
 
-### Administrative Responsibilities
-
-- **University Question Paper Setting** — Served on paper-setting committee for University of Delhi examinations
-- **Admission Committee 2022–23** — Member of college admissions committee
-- **Faculty Advisor**, Prakriti Society — Advised the college environmental society
-
 ---
 
 ## University of Pittsburgh
@@ -87,7 +81,6 @@ Political Theory · Public Opinion and Survey Research · Comparative Politics �
 
 ---
 
-
 ## Mentorship & Examination
 
 **Undergraduate Thesis External Examiner**
@@ -97,4 +90,12 @@ Evaluated the thesis *"Rethinking Politics with Arthasastra: Exploring the Inter
 - *Mantiq* — Inter-college Research Paper Presentation, Sabab Academic Journal, LSR
 - *Turncoat* — Inter-College Debate Competition, Department of Journalism, LSR
 - *India-Japan Youth Forum* — Inter-college debate on "Etiquettes in the Modern World," Global Youth
+
+--
+
+### Administrative Responsibilities
+
+- **University Question Paper Setting** — Served on paper-setting committee for University of Delhi examinations
+- **Admission Committee 2022–23** — Member of college admissions committee, LSR
+- **Faculty Advisor**, Prakriti Society, LSR — Advised the college environmental society
 
