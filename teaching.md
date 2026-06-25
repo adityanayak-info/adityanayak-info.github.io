@@ -48,12 +48,12 @@ Political Theory · Public Opinion and Survey Research · Comparative Politics �
   </thead>
   <tbody>
     <tr>
-      <td><span class="course-code">CS-0011</span></td>
+      <td><a href="https://courses.sci.pitt.edu/courses/view/CS-0011" target="_blank" rel="noopener"><span class="course-code">CS-0011</span></a></td>
       <td>Introduction to Computing for Scientists</td>
       <td>Lab Instructor</td>
     </tr>
     <tr>
-      <td><span class="course-code">CS-0012</span></td>
+      <td><a href="https://courses.sci.pitt.edu/courses/view/CS-12" target="_blank" rel="noopener"><span class="course-code">CS-012</span></a></td>
       <td>Introduction to Computing for the Humanities</td>
       <td>Lab Instructor</td>
     </tr>
@@ -72,7 +72,7 @@ Political Theory · Public Opinion and Survey Research · Comparative Politics �
   </thead>
   <tbody>
     <tr>
-      <td><span class="course-code">LIS-2970</span></td>
+      <td><a href="https://hcommons.org/groups/lis-2970-art-data-in-libraries-and-archives/" target="_blank" rel="noopener"><span class="course-code">LIS-2970</span></a></td>
       <td>Art + Data in Libraries and Archives</td>
       <td>Teaching Assistant</td>
     </tr>
