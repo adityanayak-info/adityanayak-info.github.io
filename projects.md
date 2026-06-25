@@ -6,17 +6,19 @@ permalink: /projects/
 
 <style>
 @media (max-width: 740px) {
-  /* Allow tables to scroll horizontally instead of collapsing */
-  .main-content { overflow-x: auto; }
-  .course-table  { min-width: 500px; font-size: 0.82rem; }
+  .main-content h1 { font-size: 2.3rem !important; }
+  .main-content h2 { font-size: 0.72rem !important; letter-spacing: 0.12em !important; }
+  .main-content h3 { font-size: 1.1rem !important; }
 
-  /* Keep heading sizes */
-  .main-content h1 { font-size: 2rem; }
-  .main-content h2 { font-size: 0.72rem; }
-  .main-content h3 { font-size: 1rem; }
+  .course-table { font-size: 0.9rem !important; }
+  .course-table th { font-size: 0.7rem !important; padding: 8px 12px 8px 0 !important; }
+  .course-table td { padding: 10px 12px 10px 0 !important; font-size: 0.9rem !important; }
+  .course-code { font-size: 0.79rem !important; }
 
-  /* Keep top button row in one line */
-  div[style*="space-between"] { flex-wrap: nowrap; }
+  .main-content div[style*="space-between"] { flex-wrap: nowrap !important; }
+  .main-content div[style*="space-between"] a { font-size: 0.78rem !important; padding: 6px 14px !important; }
+
+  .main-content { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 }
 </style>
 
