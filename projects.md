@@ -6,19 +6,25 @@ permalink: /projects/
 
 <style>
 @media (max-width: 740px) {
-  .main-content h1 { font-size: 2.3rem !important; }
-  .main-content h2 { font-size: 0.72rem !important; letter-spacing: 0.12em !important; }
-  .main-content h3 { font-size: 1.1rem !important; }
+  /* Keep project cards in horizontal row layout */
+  .project-card              { flex-direction: row !important; gap: 12px !important; }
+  .project-card-body         { flex: 1 !important; min-width: 0 !important; }
+  .project-card-img          { width: 100px !important; flex-shrink: 0 !important; }
+  .project-card-img img      { width: 100px !important; height: 80px !important; }
 
-  .course-table { font-size: 0.9rem !important; }
-  .course-table th { font-size: 0.7rem !important; padding: 8px 12px 8px 0 !important; }
-  .course-table td { padding: 10px 12px 10px 0 !important; font-size: 0.9rem !important; }
-  .course-code { font-size: 0.79rem !important; }
+  /* Keep text readable */
+  .project-card h3           { font-size: 0.95rem !important; margin-top: 0 !important; }
+  .project-card p            { font-size: 0.82rem !important; }
+  .project-card .project-meta{ font-size: 0.72rem !important; }
+  .project-tag               { font-size: 0.65rem !important; padding: 2px 7px !important; }
 
+  /* Keep headings desktop size */
+  .main-content h1           { font-size: 2.3rem !important; }
+  .main-content h2           { font-size: 0.72rem !important; letter-spacing: 0.12em !important; }
+
+  /* Keep top button row in one line */
   .main-content div[style*="space-between"] { flex-wrap: nowrap !important; }
-  .main-content div[style*="space-between"] a { font-size: 0.78rem !important; padding: 6px 14px !important; }
-
-  .main-content { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .main-content div[style*="space-between"] a { font-size: 0.68rem !important; padding: 4px 8px !important; }
 }
 </style>
 
