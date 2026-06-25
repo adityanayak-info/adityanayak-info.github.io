@@ -4,6 +4,19 @@ title: Projects
 permalink: /projects/
 ---
 
+<style>
+@media (max-width: 740px) {
+  .project-card          { flex-direction: row; }
+  .project-card-img      { width: 130px; flex-shrink: 0; }
+  .project-card-img img  { height: 100px; }
+  .project-card h3       { font-size: 1.05rem; }
+  .project-card p        { font-size: 0.91rem; }
+  .main-content h1       { font-size: 2.3rem; }
+  .main-content h2       { font-size: 0.72rem; }
+}
+</style>
+
+
 <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:1.5rem;">
   <h1 style="margin:0;">Projects</h1>
   <div style="display:flex;gap:8px;">
