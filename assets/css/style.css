@@ -594,4 +594,37 @@ hr.profile-rule {
 
   .career-stages { gap: 6px; }
   .cv-embed-wrap iframe { height: 600px; }
+
+     /* existing rules stay as they are, add these below them */
+
+  /* Page headings */
+  .main-content h1 { font-size: 1.4rem; }
+  .main-content h2 { font-size: 0.65rem; }
+  .main-content h3 { font-size: 0.95rem; }
+
+  /* Contact buttons under photo */
+  .contact-links a {
+    font-size: 0.68rem;
+    padding: 3px 9px;
+  }
+  .contact-links a svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  /* Publications page header buttons */
+  .main-content div[style*="space-between"] a {
+    font-size: 0.68rem;
+    padding: 4px 10px;
+  }
+
+  /* Pub list entries */
+  .pub-list li { font-size: 0.82rem; }
+
+  /* Project cards */
+  .project-card h3 { font-size: 0.95rem; }
+  .project-card p  { font-size: 0.82rem; }
+
+  /* Tables (teaching page) */
+  .course-table { font-size: 0.78rem; }
 }
