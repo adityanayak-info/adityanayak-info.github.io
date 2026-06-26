@@ -82,4 +82,32 @@ permalink: /publications/
 - **2023** — **"Escape, Technology and Method."** Module Coordinator, *Tractus-Politico-Technologicus: Machine, City, Disorder*. [Drawing on writings of Bruno Latour, Rosi Braidotti, Carl Mitcham, Norbert Weiner, Noel Gough, David Graeber & David Wengrow, Pablo Sendra, and Richard Sennett.]
 
 - **2019** — **"A Time for Love: A Panel Discussion on Temporality and Love."** Panel co-organiser, JNU. Panelists: Prof. Nivedita Menon, Vikram Aditya Sahai, and Dhiren Borisa.
+{: .pub-list
+
+---
+## Invited Talks & Panels
+
+- **2025** — **"Technology, Information Economy, and the Rise of Populist Narratives."** Department of Political Science, Lady Shri Ram College (LSR), University of Delhi. 28 March.
+
+- **2024** — **"Ethics of AI in Education: Balancing Innovation and Privacy Concerns."** National Conclave on *AI and Ethics: Perspectives from Industry and Academia*, India International Centre (IIC). 20 February.
+
+- **2023** — **"The Moving Image: Addressing Violence, Reframing Peace."** WISCOMP (Women in Security, Conflict Management and Peace). 5 December.
+
+- **2023** — **"A.I. Diplomacy: Navigating the Future Together."** India-UK Youth Forum, Global Youth. 22 April.
+
+- **2023** — **"India-Japan Relations: Growing Capabilities in QUAD and Beyond."** Indo-Pacific Quad Council, Global Youth Annual Summit. 28 April.
+
+- **2022** — **"A.I. and The Future of Geopolitics."** Department of Political Science, Lady Shri Ram College (LSR), University of Delhi. 15 September.
 {: .pub-list}
+
+## Jury Panels
+
+- **2023** — Jury Panel, *India-Japan Youth Forum*, Inter-college debate on "Etiquettes in the Modern World," Global Youth.
+
+- **2023** — Jury Panel, *Mantiq*, Inter-college Research Paper Presentation, Sabab Academic Journal, Dept. of Political Science, LSR.
+
+- **2023** — Jury Panel, *Turncoat* Inter-College Debate Competition, Department of Journalism, LSR.
+{: .pub-list}
+
+
+
