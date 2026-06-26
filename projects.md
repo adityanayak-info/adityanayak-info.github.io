@@ -114,7 +114,7 @@ permalink: /projects/
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
-        <a href="https://call-for-papers.sas.upenn.edu/cfp/2023/06/05/democracy-in-the-times-of-digital-transformations" target="_blank" rel="noopener">>→ Presented at the International Symposium on Democracy in the Times of Digital Transformation, IIIT-Delhi.</a>
+        <a href="https://call-for-papers.sas.upenn.edu/cfp/2023/06/05/democracy-in-the-times-of-digital-transformations" target="_blank" rel="noopener">→ Presented at the International Symposium on Democracy in the Times of Digital Transformation, IIIT-Delhi.</a>
       </div>
     </details>
   </div>
