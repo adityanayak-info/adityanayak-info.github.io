@@ -44,7 +44,7 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Epistemology and Philosophy of Technology</a></h3>
     <p class="project-meta">Jawaharlal Nehru University · 2018–2022</p>
-    <p>This body of work examines the philosophical underpinnings of artificial intelligence through the lens of political theory and critical epistemology. Drawing on traditions of continental philosophy, science and technology studies, and political economy, it investigates how AI reshapes labour, perception, governance, and the production of knowledge — arguing for inter-disciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
+    <p>This body of work examines the philosophical underpinnings of artificial intelligence through the lens of political theory and critical epistemology. It investigates how AI reshapes labour, perception, governance, and the production of knowledge — arguing for inter-disciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
     <span class="project-tag">Philosophy of Technology</span><span class="project-tag">Epistemology</span><span class="project-tag">AI & Society</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
