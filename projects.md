@@ -110,7 +110,7 @@ permalink: /projects/
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Datafication of Politics: Political Consultancy in India</a></h3>
     <p class="project-meta">IIIT-Delhi · 2023</p>
     <p>An investigation into how data-driven political consultancy firms operate in the Indian electoral context — examining the tools, techniques, and ethical implications of micro-targeted political communication and voter profiling.</p>
-    <span class="project-tag">Political Technology</span><span class="project-tag">Data Politics</span><span class="project-tag">India</span>
+    <span class="project-tag">Political Technology</span><span class="project-tag">Data &amp; Politics</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
@@ -132,7 +132,7 @@ permalink: /projects/
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">AI Governance — IIIT-Delhi</a></h3>
     <p class="project-meta">Research Associate · Indraprastha Institute of Information Technology, Delhi · Jan–July 2024</p>
     <p>Contributed to a project on AI governance with specific focus on the Indian policy landscape. Responsibilities included writing policy reports on AI regulation in India, developing curriculum materials on AI governance, and compiling political theory literature relevant to key issues within AI policy (autonomy, accountability, transparency, rights).</p>
-    <span class="project-tag">AI Policy</span><span class="project-tag">India</span><span class="project-tag">Curriculum Development</span>
+    <span class="project-tag">AI Policy</span><span class="project-tag">Curriculum Development</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
