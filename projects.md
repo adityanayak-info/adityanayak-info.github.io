@@ -25,12 +25,12 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Designing for Community Trust in Public Sector AI</a></h3>
     <p class="project-meta">With Abdulaziz Alotaibi & Aakash Gautam · University of Pittsburgh · 2025–Ongoing</p>
-    <p>This project seeks to develop participatory mechanisms that center community experiences — particularly those of communities historically marginalized in decision-making about algorithmic systems — in the design and evaluation of public sector AI. The work interrogates conditions of distrust and proposes a relational approach to participatory AI design. Presented at PAIRS'26.</p>
+    <p>This project seeks to develop participatory mechanisms that center community experiences — particularly those of communities historically marginalized in decision-making about algorithmic systems — in the design and evaluation of public sector AI. The work interrogates conditions of distrust and proposes a relational approach to participatory AI design.</p>
     <span class="project-tag">Participatory Design</span><span class="project-tag">Public-Sector AI</span><span class="project-tag">Community</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
-        <a href="https://www.pairs.site/" target="_blank" rel="noopener">→ PAIRS'26 symposium</a>
+        <a href="https://www.pairs.site/" target="_blank" rel="noopener">→ Presented at PAIRS'26 symposium</a>
       </div>
     </details>
   </div>
@@ -72,12 +72,12 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Older Workers and Generative AI in Bridge Employment</a></h3>
     <p class="project-meta">With Aakash Gautam & Rama Adithya Varanasi · University of Pittsburgh · 2024–2026</p>
-    <p>How do older workers navigate the integration of generative AI tools in bridge employment (work after career job but prior to full-retirement)? This project examines the concerns, strategic responses, and adaptive practices of older workers confronting AI in their workplaces, centering their experiences as knowledge rather than deficit. Published at CHIWORK 2026.</p>
+    <p>How do older workers navigate the integration of generative AI tools in bridge employment (work after career job but prior to full-retirement)? This project examines the concerns, strategic responses, and adaptive practices of older workers confronting AI in their workplaces, centering their experiences as knowledge rather than deficit.</p>
     <span class="project-tag">HCI</span><span class="project-tag">AI & Work</span><span class="project-tag">Older Adults</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
-        <a href="https://doi.org/10.1145/3808045.3808070" target="_blank" rel="noopener">→ CHIWORK'26: Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment</a>
+        <a href="https://doi.org/10.1145/3808045.3808070" target="_blank" rel="noopener">→ Paper at CHIWORK'26: Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment</a>
       </div>
     </details>
   </div>
@@ -90,12 +90,13 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Delivering Inequality: Quick Commerce and Digital Labour</a></h3>
     <p class="project-meta">With Ashique Ali Thuppilikkat & Aditi Vashistha · 2025</p>
-    <p>An examination of marginality and caste within quick commerce digital labour platforms in India (e.g., 10-minute grocery delivery services). This project investigates how platform architectures reproduce and intensify pre-existing structural inequalities, using Science and Technology Studies frameworks alongside political economy. Presented at 4S 2025 Open Panel, and ACM Critical Computing Conference'26.</p>
+    <p>An examination of marginality and caste within quick commerce digital labour platforms in India (e.g., 10-minute grocery delivery services). This project investigates how platform architectures reproduce and intensify pre-existing structural inequalities, using Science and Technology Studies frameworks alongside political economy.</p>
     <span class="project-tag">Digital Labour</span><span class="project-tag">Caste & Technology</span><span class="project-tag">STS</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
-        <p style="font-size:0.8rem;color:var(--text-muted);margin:0;">Coming soon</p>
+        <p>→ Presented at 4S 2025 Open Panel</p>
+        <a href="https://criticalcomputing.cc/" target="_blank" rel="noopener">→ Presented at ACM Critical Computing Conference'26.</a>
       </div>
     </details>
   </div>
@@ -108,12 +109,12 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Datafication of Politics: Political Consultancy in India</a></h3>
     <p class="project-meta">IIIT-Delhi · 2023</p>
-    <p>An investigation into how data-driven political consultancy firms operate in the Indian electoral context — examining the tools, techniques, and ethical implications of micro-targeted political communication and voter profiling. Presented at the International Symposium on Democracy in the Times of Digital Transformation, IIIT-Delhi.</p>
+    <p>An investigation into how data-driven political consultancy firms operate in the Indian electoral context — examining the tools, techniques, and ethical implications of micro-targeted political communication and voter profiling.</p>
     <span class="project-tag">Political Technology</span><span class="project-tag">Data Politics</span><span class="project-tag">India</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
-        <p style="font-size:0.8rem;color:var(--text-muted);margin:0;">Coming soon</p>
+        <a href="https://call-for-papers.sas.upenn.edu/cfp/2023/06/05/democracy-in-the-times-of-digital-transformations" target="_blank" rel="noopener">>→ Presented at the International Symposium on Democracy in the Times of Digital Transformation, IIIT-Delhi.</a>
       </div>
     </details>
   </div>
