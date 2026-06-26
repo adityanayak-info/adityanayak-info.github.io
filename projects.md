@@ -26,7 +26,7 @@ permalink: /projects/
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Designing for Community Trust in Public Sector AI</a></h3>
     <p class="project-meta">With Abdulaziz Alotaibi & Aakash Gautam · University of Pittsburgh · 2025–Ongoing</p>
     <p>This project seeks to develop participatory mechanisms that center community experiences — particularly those of communities historically marginalized in decision-making about algorithmic systems — in the design and evaluation of public sector AI. The work interrogates conditions of distrust and proposes a relational approach to participatory AI design.</p>
-    <span class="project-tag">Participatory Design</span><span class="project-tag">Public-Sector AI</span><span class="project-tag">Community</span>
+    <span class="project-tag">Participatory Design</span><span class="project-tag">Public-Sector AI</span><span class="project-tag">Community-centred Design</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
