@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 permalink: /projects/
+desktop_only: true
 ---
 
 <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:1.5rem;">
