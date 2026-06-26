@@ -839,4 +839,12 @@ hr.profile-rule {
   transform: translateY(0);
 }
 
+.photo-hover-wrap.active .photo-duotone {
+  opacity: 1;
+}
+
+.photo-hover-wrap.active .photo-caption {
+  transform: translateY(0);
+}
+
 
