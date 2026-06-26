@@ -504,17 +504,20 @@ hr.profile-rule {
 }
 
 .project-outputs {
-  margin: 10px 0 8px;
-  border: 1px solid var(--border);
-  border-radius: 4px;
+  margin: 10px 0 0;
+  border: none;
+  border-top: 1px solid var(--border);
+  border-radius: 0;
   font-size: 0.85rem;
-  position: relative;  /* add this */
-  z-index: 1;          /* add this */
-  background: var(--cream);
+  position: relative;
+  z-index: 1;
+  background: #f0f1f3;
+  margin-left: -22px;
+  margin-right: -22px;
 }
 
 .project-outputs summary {
-  padding: 7px 12px;
+  padding: 7px 22px;
   font-weight: 600;
   font-size: 0.8rem;
   color: var(--navy);
@@ -522,8 +525,13 @@ hr.profile-rule {
   user-select: none;
   letter-spacing: 0.02em;
   list-style: none;
-  background: var(--cream);
-  border-radius: 4px;
+  background: #f0f1f3;
+  border-radius: 0;
+}
+
+.project-outputs[open] summary {
+  border-bottom: 1px solid var(--border);
+  border-radius: 0;
 }
 
 .project-outputs summary::after {
@@ -537,9 +545,9 @@ hr.profile-rule {
 }
 
 .project-outputs-content {
-  padding: 8px 12px 10px;
-  background: var(--cream);
-  border-radius: 0 0 4px 4px;
+  padding: 8px 22px 10px;
+  background: #f0f1f3;
+  border-radius: 0;
   display: flex;
   flex-direction: column;
   gap: 6px;
@@ -548,7 +556,6 @@ hr.profile-rule {
 .project-outputs-content a {
   font-size: 0.83rem;
 }
-
 
 
 /* ============================================================
