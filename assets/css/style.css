@@ -535,13 +535,13 @@ hr.profile-rule {
 }
 
 .project-outputs summary::before {
-  content: ' ▸';
+  content: ' ▸ ';
   font-size: 1rem;
   color: var(--burgundy);
 }
 
 .project-outputs[open] summary::before {
-  content: ' ▾';
+  content: ' ▾ ';
   font-size: 1rem;
   color: var(--burgundy);
 }
