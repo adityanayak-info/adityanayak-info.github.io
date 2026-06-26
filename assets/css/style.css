@@ -694,6 +694,8 @@ hr.profile-rule {
   .main-content div[style*="space-between"] { flex-wrap: wrap; gap: 8px; }
   .main-content div[style*="space-between"] a { font-size: 0.68rem !important; padding: 4px 8px !important; }
   .main-content div[style*="space-between"] svg { width: 12px !important; height: 12px !important; }
+
+  .left-sidebar { display: none; }
 }
 
 
@@ -712,3 +714,62 @@ hr.profile-rule {
 .home-hero + .page-layout {
   padding-top: 20px;
 }
+
+
+
+/* ── Left sidebar (non-homepage pages) ── */
+.left-sidebar {
+  width: 190px;
+  flex-shrink: 0;
+  position: sticky;
+  top: calc(var(--header-height) + 20px);
+  align-self: flex-start;
+}
+
+.left-sidebar-profile {
+  background: var(--bg-sidebar);
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--navy);
+  border-radius: 0 0 8px 8px;
+  padding: 14px;
+  text-align: center;
+}
+
+.left-sidebar-profile img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
+  margin-bottom: 12px;
+}
+
+.left-sidebar-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.left-sidebar-buttons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+  border: 1px solid var(--slate);
+  border-radius: 50%;
+  transition: all 0.15s;
+  text-decoration: none;
+}
+
+.left-sidebar-buttons a:hover {
+  background: var(--navy);
+  border-color: var(--navy);
+}
+
+.left-sidebar-buttons a:hover svg {
+  fill: white;
+  stroke: white;
+}
+
+
