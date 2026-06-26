@@ -536,12 +536,14 @@ hr.profile-rule {
 
 .project-outputs summary::before {
   content: ' ▸';
-  font-size: 0.7rem;
+  font-size: 1rem;
   color: var(--burgundy);
 }
 
 .project-outputs[open] summary::before {
   content: ' ▾';
+  font-size: 1rem;
+  color: var(--burgundy);
 }
 
 .project-outputs-content {
