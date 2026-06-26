@@ -39,6 +39,35 @@ permalink: /projects/
   </div>
 </div>
 
+
+<div class="project-card">
+  <div class="project-card-body">
+    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Epistemology and Philosophy of Technology</a></h3>
+    <p class="project-meta">Jawaharlal Nehru University · 2018–2022</p>
+    <p>This body of work examines the philosophical underpinnings of artificial intelligence through the lens of political theory and critical epistemology. Drawing on traditions of continental philosophy, science and technology studies, and political economy, it investigates how AI reshapes labour, perception, governance, and the production of knowledge — arguing for trans-disciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
+    <span class="project-tag">Philosophy of Technology</span><span class="project-tag">Epistemology</span><span class="project-tag">AI & Society</span>
+    <details class="project-outputs">
+      <summary>Project Outputs</summary>
+      <div class="project-outputs-content">
+        <a href="#" target="_blank" rel="noopener">→ MPhil. Thesis — "Artificial Intelligence and the Changing Forms of Work"</a>
+        <p style="font-size:0.78rem;font-weight:600;color:var(--navy);margin:0 0 6px;">Journal Articles</p>
+        <a href="https://doi.org/10.46397/JAIH.9.4" target="_blank" rel="noopener">→ Socio-Political Implications of Data-Centric AI and the Need for Trans-Disciplinary Framework (2021)</a>
+        <a href="https://doi.org/10.46397/JAIH.8.1" target="_blank" rel="noopener">→ Affective Labour in the Age of Algorithms and its Political Implications (2021)</a>
+        <a href="https://doi.org/10.46397/JAIH.7.1" target="_blank" rel="noopener">→ Boredom, Time-Perception and Algorithmic Governmentality (2021)</a>
+        <a href="https://doi.org/10.46397/JAIH.6.2" target="_blank" rel="noopener">→ Mental-Health and A.I. — A Paradigm of Human Mechanisation (2020)</a>
+        <a href="https://doi.org/10.46397/JAIH.5.3" target="_blank" rel="noopener">→ Artificial Intelligence, Automation, and Changing Forms of Work (2020)</a>
+        <a href="https://doi.org/10.46397/jaih.4.4" target="_blank" rel="noopener">→ Deep Learning — Shifting the Telos from Singularity to Perception (2019)</a>
+      </div>
+    </details>
+  </div>
+  <div class="project-card-img">
+    <img src="{{ '/assets/img/philosophy.jpg' | relative_url }}" alt="Epistemology and Philosophy of Technology">
+  </div>
+</div>
+
+
+
+
 <div class="project-card">
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Older Workers and Generative AI in Bridge Employment</a></h3>
