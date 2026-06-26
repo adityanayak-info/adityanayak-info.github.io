@@ -44,7 +44,7 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Epistemology and Philosophy of Technology</a></h3>
     <p class="project-meta">Jawaharlal Nehru University · 2018–2022</p>
-    <p>This body of work examines the philosophical underpinnings of artificial intelligence through the lens of political theory and critical epistemology. Drawing on traditions of continental philosophy, science and technology studies, and political economy, it investigates how AI reshapes labour, perception, governance, and the production of knowledge — arguing for trans-disciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
+    <p>This body of work examines the philosophical underpinnings of artificial intelligence through the lens of political theory and critical epistemology. Drawing on traditions of continental philosophy, science and technology studies, and political economy, it investigates how AI reshapes labour, perception, governance, and the production of knowledge — arguing for inter-disciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
     <span class="project-tag">Philosophy of Technology</span><span class="project-tag">Epistemology</span><span class="project-tag">AI & Society</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
@@ -72,7 +72,7 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Older Workers and Generative AI in Bridge Employment</a></h3>
     <p class="project-meta">With Aakash Gautam & Rama Adithya Varanasi · University of Pittsburgh · 2024–2026</p>
-    <p>How do older workers navigate the integration of generative AI tools in bridge employment (post-retirement work)? This project examines the concerns, strategic responses, and adaptive practices of older workers confronting AI in their workplaces, centering their experiences as knowledge rather than deficit. Published at CHIWORK 2026.</p>
+    <p>How do older workers navigate the integration of generative AI tools in bridge employment (work after career job but prior to full-retirement)? This project examines the concerns, strategic responses, and adaptive practices of older workers confronting AI in their workplaces, centering their experiences as knowledge rather than deficit. Published at CHIWORK 2026.</p>
     <span class="project-tag">HCI</span><span class="project-tag">AI & Work</span><span class="project-tag">Older Adults</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
