@@ -151,7 +151,7 @@ permalink: /projects/
 <div class="project-card">
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Krushi Karma Naturals</a></h3>
-    <p class="project-meta">Technology & Operations Lead · Manipur, India · 2018–2020</p>
+    <p class="project-meta">With Winson RK (Founder) · Aditya Nayak (Co-Founder and Technology & Operations Lead) · Manipur, India · 2018–2020</p>
     <p>A social entrepreneurship project that aggregated approximately 2,500 families of indigenous small farmers in Manipur in coordination with Mission Organic Value Chain Development for North East India (MOVCD-NER). The project focused on empowerment of farming communities through micro-credit access, education, and primary healthcare. Registered as a Private Limited company after 2020.</p>
     <span class="project-tag">Social Entrepreneurship</span><span class="project-tag">Manipur</span><span class="project-tag">Agriculture</span>
     <details class="project-outputs">
