@@ -508,6 +508,8 @@ hr.profile-rule {
   border: 1px solid var(--border);
   border-radius: 4px;
   font-size: 0.85rem;
+  position: relative;  /* add this */
+  z-index: 1;          /* add this */
 }
 
 .project-outputs summary {
