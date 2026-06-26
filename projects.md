@@ -77,7 +77,7 @@ permalink: /projects/
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
-        <a href="https://doi.org/10.1145/3808045.3808070" target="_blank" rel="noopener">→ Read the paper</a>
+        <a href="https://doi.org/10.1145/3808045.3808070" target="_blank" rel="noopener">→ CHIWORK'26: Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment</a>
       </div>
     </details>
   </div>
@@ -90,7 +90,7 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Delivering Inequality: Quick Commerce and Digital Labour</a></h3>
     <p class="project-meta">With Ashique Ali Thuppilikkat & Aditi Vashistha · 2025</p>
-    <p>An examination of marginality and caste within quick commerce digital labour platforms in India (e.g., 10-minute grocery delivery services). This project investigates how platform architectures reproduce and intensify pre-existing structural inequalities, using Science and Technology Studies frameworks alongside political economy. Presented at 4S 2025.</p>
+    <p>An examination of marginality and caste within quick commerce digital labour platforms in India (e.g., 10-minute grocery delivery services). This project investigates how platform architectures reproduce and intensify pre-existing structural inequalities, using Science and Technology Studies frameworks alongside political economy. Presented at 4S 2025 Open Panel, and ACM Critical Computing Conference'26.</p>
     <span class="project-tag">Digital Labour</span><span class="project-tag">Caste & Technology</span><span class="project-tag">STS</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
