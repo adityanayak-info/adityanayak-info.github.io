@@ -786,3 +786,57 @@ hr.profile-rule {
 }
 
 
+/* ── Image hover for better accessibility ── */
+
+.photo-hover-wrap {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  width: 320px;
+  height: 390px;
+  flex-shrink: 0;
+}
+
+.photo-hover-wrap .photo-default,
+.photo-hover-wrap .photo-duotone {
+  width: 320px;
+  height: 390px;
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+  transition: opacity 0.4s ease;
+}
+
+.photo-hover-wrap .photo-duotone {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.photo-hover-wrap:hover .photo-duotone {
+  opacity: 1;
+}
+
+.photo-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(18, 60, 105, 0.88);
+  color: rgba(255, 255, 255, 0.92);
+  font-size: 0.72rem;
+  font-family: var(--font-body);
+  padding: 10px 14px;
+  text-align: center;
+  line-height: 1.45;
+  transform: translateY(100%);
+  transition: transform 0.4s ease;
+  z-index: 2;
+}
+
+.photo-hover-wrap:hover .photo-caption {
+  transform: translateY(0);
+}
+
+
