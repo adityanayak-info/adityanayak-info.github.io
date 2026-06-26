@@ -25,9 +25,15 @@ permalink: /teaching/
 
 **Assistant Professor** · Department of Political Science · January 2022 – November 2023
 
-### Courses Taught
+### Courses Taught (Undergraduate)
 
-Political Theory · Public Opinion and Survey Research · Comparative Politics · Dilemmas in Politics · Globalization and Political Economy
+- Political Theory
+- Public Opinion and Survey Research
+- Comparative Politics
+- Dilemmas in Politics
+- Globalization and Political Economy
+
+
 
 
 ---
