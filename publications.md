@@ -82,7 +82,7 @@ permalink: /publications/
 - **2023** — **"Escape, Technology and Method."** Module Coordinator, *Tractus-Politico-Technologicus: Machine, City, Disorder*. [Drawing on writings of Bruno Latour, Rosi Braidotti, Carl Mitcham, Norbert Weiner, Noel Gough, David Graeber & David Wengrow, Pablo Sendra, and Richard Sennett.]
 
 - **2019** — **"A Time for Love: A Panel Discussion on Temporality and Love."** Panel co-organiser, JNU. Panelists: Prof. Nivedita Menon, Vikram Aditya Sahai, and Dhiren Borisa.
-{: .pub-list
+{: .pub-list}
 
 ---
 
