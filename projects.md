@@ -35,7 +35,7 @@ permalink: /projects/
     </details>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/algohub.jpg' | relative_url }}" alt="Community AI project">
+    <img src="{{ '/assets/img/algohub.png' | relative_url }}" alt="Community AI project">
   </div>
 </div>
 
