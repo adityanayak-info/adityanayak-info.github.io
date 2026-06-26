@@ -224,5 +224,15 @@
     </div>
   </footer>
 
+  <script>
+    document.querySelectorAll('.photo-hover-wrap').forEach(function(el) {
+      el.addEventListener('click', function() {
+        this.classList.toggle('active');
+      });
+    });
+  </script>
+
+
+      
 </body>
 </html>
