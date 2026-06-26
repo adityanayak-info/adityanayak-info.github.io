@@ -510,6 +510,7 @@ hr.profile-rule {
   font-size: 0.85rem;
   position: relative;  /* add this */
   z-index: 1;          /* add this */
+  background: var(--cream);
 }
 
 .project-outputs summary {
@@ -521,6 +522,8 @@ hr.profile-rule {
   user-select: none;
   letter-spacing: 0.02em;
   list-style: none;
+  background: var(--cream);
+  border-radius: 4px;
 }
 
 .project-outputs summary::after {
@@ -535,7 +538,8 @@ hr.profile-rule {
 
 .project-outputs-content {
   padding: 8px 12px 10px;
-  border-top: 1px solid var(--border);
+  background: var(--cream);
+  border-radius: 0 0 4px 4px;
   display: flex;
   flex-direction: column;
   gap: 6px;
@@ -544,6 +548,7 @@ hr.profile-rule {
 .project-outputs-content a {
   font-size: 0.83rem;
 }
+
 
 
 /* ============================================================
