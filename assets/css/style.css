@@ -534,13 +534,13 @@ hr.profile-rule {
   border-radius: 0;
 }
 
-.project-outputs summary::after {
+.project-outputs summary::before {
   content: ' ▸';
   font-size: 0.7rem;
   color: var(--burgundy);
 }
 
-.project-outputs[open] summary::after {
+.project-outputs[open] summary::before {
   content: ' ▾';
 }
 
