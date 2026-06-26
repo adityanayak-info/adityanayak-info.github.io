@@ -61,7 +61,7 @@ permalink: /projects/
     </details>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/philosophy.png' | relative_url }}" alt="Epistemology and Philosophy of Technology">
+    <img src="{{ '/assets/img/philosophy.jpg' | relative_url }}" alt="Epistemology and Philosophy of Technology">
   </div>
 </div>
 
