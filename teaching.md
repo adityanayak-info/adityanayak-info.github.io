@@ -54,6 +54,7 @@ permalink: /teaching/
 #### Teaching Assistant
 
 - <a href="https://hcommons.org/groups/lis-2970-art-data-in-libraries-and-archives/" target="_blank" rel="noopener"><span class="course-code">LIS-2970</span></a> Art + Data in Libraries and Archives
+
 ---
 
 ## Mentorship & Evaluation
