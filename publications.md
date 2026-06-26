@@ -85,6 +85,7 @@ permalink: /publications/
 {: .pub-list
 
 ---
+
 ## Invited Talks & Panels
 
 - **2025** — **"Technology, Information Economy, and the Rise of Populist Narratives."** Department of Political Science, Lady Shri Ram College (LSR), University of Delhi. 28 March.
