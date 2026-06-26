@@ -729,10 +729,9 @@ hr.profile-rule {
 .left-sidebar-profile {
   background: var(--bg-sidebar);
   border: 1px solid var(--border);
-  border-top: 3px solid var(--navy);
-  border-radius: 0 0 8px 8px;
+  border-radius: 8px;
   padding: 14px;
-  text-align: center;
+  text-align: left;
 }
 
 .left-sidebar-profile img {
@@ -746,18 +745,21 @@ hr.profile-rule {
 
 .left-sidebar-buttons {
   display: flex;
-  justify-content: center;
-  gap: 10px;
+  flex-direction: column;
+  gap: 8px;
   margin-top: 10px;
 }
 
 .left-sidebar-buttons a {
   display: inline-flex;
   align-items: center;
-  justify-content: center;
-  padding: 6px;
+  gap: 7px;
+  padding: 5px 12px;
   border: 1px solid var(--slate);
-  border-radius: 50%;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--navy);
   transition: all 0.15s;
   text-decoration: none;
 }
@@ -765,11 +767,17 @@ hr.profile-rule {
 .left-sidebar-buttons a:hover {
   background: var(--navy);
   border-color: var(--navy);
+  color: white;
+  text-decoration: none;
 }
 
 .left-sidebar-buttons a:hover svg {
   fill: white;
   stroke: white;
+}
+
+.left-sidebar .sidebar-card {
+  text-align: left;
 }
 
 
