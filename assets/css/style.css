@@ -696,6 +696,7 @@ hr.profile-rule {
   .main-content div[style*="space-between"] svg { width: 12px !important; height: 12px !important; }
 
   .left-sidebar { display: none; }
+  .page-header-buttons { display: none; }
 }
 
 
