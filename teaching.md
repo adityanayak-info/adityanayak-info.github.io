@@ -81,7 +81,7 @@ Political Theory · Public Opinion and Survey Research · Comparative Politics �
 
 ---
 
-## Mentorship & Examination
+## Mentorship & Evaluation
 
 **Undergraduate Thesis External Examiner**
 Evaluated the thesis *"Rethinking Politics with Arthasastra: Exploring the Interplay of Dharma and Artha in Kautilyan Thought"* — Department of Political Science, Ramjas College, University of Delhi.
