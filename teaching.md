@@ -21,7 +21,10 @@ permalink: /teaching/
 ---
 
 
-## Lady Shri Ram College, University of Delhi
+<h2 class="institution-heading">
+  Lady Shri Ram College, University of Delhi
+  <img src="{{ '/assets/img/lsr-logo.png' | relative_url }}" alt="Lady Shri Ram College" style="height:24px;width:auto;margin-left:auto;">
+</h2>
 
 <h3 class="teaching-role">Assistant Professor</h3>
 <p class="teaching-meta">Department of Political Science · January 2022 – November 2023</p>
@@ -39,7 +42,10 @@ permalink: /teaching/
 
 ---
 
-## University of Pittsburgh
+<h2 class="institution-heading">
+  University of Pittsburgh
+  <img src="{{ '/assets/img/pitt-logo.png' | relative_url }}" alt="University of Pittsburgh" style="height:24px;width:auto;margin-left:auto;">
+</h2>
 
 <h3 class="teaching-role">Graduate Teaching Assistant</h3> 
 <p class="teaching-meta">January 2026 – Present</p>
