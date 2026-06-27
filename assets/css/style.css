@@ -187,6 +187,15 @@ img { max-width: 100%; height: auto; display: block; }
   text-decoration: underline;
 }
 
+.news-date {
+  text-align: right;
+}
+
+.news-link {
+  display: block;
+  text-align: right;
+}
+
 /* ============================================================
    TYPOGRAPHY
    ============================================================ */
