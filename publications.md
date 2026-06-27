@@ -148,7 +148,7 @@ permalink: /publications/
 - **2022** — **"A.I. and The Future of Geopolitics."** Department of Political Science, Lady Shri Ram College (LSR), University of Delhi. 15 September.
 {: .pub-list}
 
-<details class="pub-section" style="margin-top:12px;">
+<details class="pub-section" open style="margin-top:12px;">
 <summary>Jury Panels</summary>
 <div class="pub-section-content" markdown="1">
 - **2023** — Jury Panel, *India-Japan Youth Forum*, Inter-college debate on "Etiquettes in the Modern World," Global Youth.
