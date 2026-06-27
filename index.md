@@ -65,7 +65,7 @@ permalink: /
   </div>
 
   <div class="sk-b-row sk-b-burg">
-    <div class="sk-b-cat"><h4>NLP</h4><span>Natural Language Processing</span></div>
+    <div class="sk-b-cat"><h4>NLP</h4></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
         <div class="sk-b-tool"><img src="{{ '/assets/img/spacy-logo.png' | relative_url }}" alt="spaCy" style="width:20px;height:20px;object-fit:contain;">spaCy</div>
