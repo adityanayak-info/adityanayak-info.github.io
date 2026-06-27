@@ -20,7 +20,7 @@ permalink: /
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
-      <div class="stage-name">Research Approach</div>
+      <div class="stage-name">Reflexive Research</div>
       <div class="stage-inst">Action Research<br>Participatory Design<br>Qualitative Methods</div>
     </div>
     <div class="stage-arrow">→</div>
