@@ -5,11 +5,6 @@
 # "link" and "link_text" are optional — remove them if not needed.
 # ============================================================
 
-- date: "June 2027 Test"
-  text: "Test update"
-  link: "Test URL"
-  link_text: "text for the URL testing"
-
 - date: "Oct 2026"
   text: "Organizing open panel at 4S 2026: 'From Barriers to Bridges: Infrastructuring AI Literacy for Civic Inclusion.'"
 
