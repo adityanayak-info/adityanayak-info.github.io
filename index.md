@@ -73,7 +73,7 @@ permalink: /
       </div>
     </div>
   </div>
-
+<!--
   <div class="sk-b-row">
     <div class="sk-b-cat"><h4>Statistical Analysis</h4></div>
     <div class="sk-b-right">
@@ -84,7 +84,7 @@ permalink: /
       </div>
     </div>
   </div>
-
+-->
   <div class="sk-b-row sk-b-burg">
     <div class="sk-b-cat"><h4>Systems Design</h4></div>
     <div class="sk-b-right">
@@ -107,7 +107,7 @@ permalink: /
 
 ## Education
 
-**PhD** · School of Computing and Information, University of Pittsburgh *(Pursuing)*<br>
+**PhD** · <strong>School of Computing and Information, University of Pittsburgh</strong> *(Pursuing)*<br>
 Courses: Foundations in HCI; Public Interest Technology; Social Computing; Data-Centric Computing; FATE in AI; Psychology of Learning and Development.
 
 **Master of Philosophy** · Centre for Comparative Politics and Political Theory, Jawaharlal Nehru University<br>
