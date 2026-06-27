@@ -625,7 +625,7 @@ hr.profile-rule {
 /* ============================================================
    FOOTER
    ============================================================ */
-.site-footer { background: var(--navy); color: rgba(255,255,255,0.5); padding: 22px 0; margin-top: auto; }
+.site-footer { background: var(--navy); color: rgba(255,255,255,0.5); padding: 22px 0; margin-top: auto; width: 100%;}
 .site-footer p { font-size: 0.8rem; margin: 0; text-align: center; }
 .site-footer a { color: rgba(255,255,255,0.75); }
 .site-footer a:hover { color: #fff; text-decoration: none; }
