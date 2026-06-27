@@ -39,7 +39,7 @@ permalink: /
 <div class="sk-b-section">
 
   <div class="sk-b-row sk-b-burg">
-    <div class="sk-b-cat"><h4>Data Analysis & Visualization</h4></div>
+    <div class="sk-b-cat"><h4>Data Analysis<br>& Visualization</h4></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
         <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">Python</div>
