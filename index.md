@@ -90,7 +90,7 @@ permalink: /
 </div>
 
 <div class="skill-collab">
-  I have worked in inter-disciplinary teams with colleagues across <strong>Computer Science</strong>, <strong>Information Science</strong>, and <strong>Policy</strong> domain expertise.
+  I have worked in interdisciplinary teams for system development and testing, with colleagues across <strong>Computer Science</strong>, <strong>Information Science</strong>, and <strong>Policy</strong> domains.
 </div>
 
 
