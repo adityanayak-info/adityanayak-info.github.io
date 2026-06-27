@@ -50,6 +50,21 @@ permalink: /publications/
 }
 
 .pub-section-content .pub-list { margin-bottom: 0; }
+
+.pub-section-content .pub-list li {
+  padding-left: 0;
+  border-left: none;
+  margin-bottom: 6px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.pub-section-content .pub-list li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+  
 </style>
 
 <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:1.5rem;">
