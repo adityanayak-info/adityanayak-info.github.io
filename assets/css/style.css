@@ -980,6 +980,8 @@ hr.profile-rule {
 .sk-b-tag { font-size: 0.68rem; background: var(--peach); color: var(--navy); padding: 2px 9px; border-radius: 12px; font-weight: 500; }
 
 .sk-b-section .sk-b-tag {
+  padding: 2px 7px;
+  font-size: 0.65rem;
   background: #2a2a2a;
   color: #ffffff;
   font-weight: 400;
