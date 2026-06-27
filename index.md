@@ -20,13 +20,13 @@ permalink: /
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
-      <div class="stage-name">Reflexive Research</div>
-      <div class="stage-inst">Action Research<br>Participatory Design<br>Qualitative Methods</div>
+      <div class="stage-name">Reflexive Methods</div>
+      <div class="stage-inst">action research<br>participatory design<br>qualitative methods</div>
     </div>
     <div class="stage-arrow">→</div>
     <div class="stage">
       <div class="stage-name">Sociotechnical Systems Design</div>
-      <div class="stage-inst">Responsible Technologies<br>Community-centred Design<br>Capacity Building</div>
+      <div class="stage-inst">responsible technologies<br>community-centred design<br>capacity building</div>
     </div>
   </div>
   <p class="career-tagline">Human-Computer Interaction Researcher</p>
