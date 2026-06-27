@@ -23,7 +23,7 @@ permalink: /teaching/
 
 ## Lady Shri Ram College, University of Delhi
 
-**Assistant Professor** · Department of Political Science · January 2022 – November 2023
+<h3 class="teaching-role">Assistant Professor</h3> · Department of Political Science · January 2022 – November 2023
 
 ### Courses Taught (Undergraduate)
 
@@ -40,7 +40,7 @@ permalink: /teaching/
 
 ## University of Pittsburgh
 
-**Graduate Teaching Assistant** · January 2026 – Present
+<h3 class="teaching-role">Graduate Teaching Assistant</h3><h3 class="teaching-role">Graduate Teaching Assistant</h3> · January 2026 – Present
 
 ### Department of Computer Science
 
