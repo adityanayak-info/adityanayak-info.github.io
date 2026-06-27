@@ -42,9 +42,10 @@ permalink: /
     <div class="sk-b-cat"><h4>Python</h4><span>Data Analysis & Visualization</span></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="{{ '/assets/img/' | relative_url }}python-original.svg" alt="Python">Python</div>
-        <div class="sk-b-tool"><img src="{{ '/assets/img/' | relative_url }}pandas-original.svg" alt="Pandas">Pandas</div>
-        <div class="sk-b-tool"><img src="{{ '/assets/img/' | relative_url }}numpy-original.svg" alt="NumPy">NumPy</div>
+        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">Python</div>
+        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas">Pandas</div>
+        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy">NumPy</div>
+        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib">Matplotlib</div>
         <div class="sk-b-tool"><span class="sk-b-badge" style="background:#F7931E">Sk</span>Scikit-Learn</div>
         <div class="sk-b-tool"><span class="sk-b-badge" style="background:#4CBBB9">Sns</span>Seaborn</div>
         <div class="sk-b-tool"><img src="{{ '/assets/img/' | relative_url }}matplotlib-original.svg" alt="Matplotlib">Matplotlib</div>
