@@ -235,6 +235,11 @@ h1, h2, h3, h4 { font-family: var(--font-display); color: var(--navy); line-heig
 a { color: var(--burgundy); text-decoration: none; transition: color 0.15s; }
 a:hover { color: var(--navy); text-decoration: underline; }
 
+.teaching-role {
+  font-family: var(--font-display);
+  color: var(--burgundy);
+}
+
 /* ============================================================
    HOME — PROFILE SECTION
    Left column: photo + affiliation + buttons
