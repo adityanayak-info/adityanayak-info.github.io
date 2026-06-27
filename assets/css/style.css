@@ -954,7 +954,7 @@ hr.profile-rule {
 }
 .sk-b-row.sk-b-burg { border-left-color: var(--burgundy); }
 .sk-b-cat {
-  min-width: 140px;
+  min-width: 110px;
   flex-shrink: 0;
   padding-right: 14px;
   border-right: 1px solid var(--border);
