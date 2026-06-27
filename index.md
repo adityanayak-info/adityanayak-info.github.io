@@ -33,58 +33,59 @@ permalink: /
 </div>
 
 
+
 ## Skills & Methods
 
-<div class="sk-c-grid">
+<div class="sk-b-section">
 
-  <div class="sk-c-card">
-    <div class="sk-c-head"><h4>Python</h4><span>Data Analysis & Visualization</span></div>
-    <div class="sk-c-body">
-      <div class="sk-c-tools">
-        <div class="sk-c-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"><span class="sk-c-tn">Python</span></div>
-        <div class="sk-c-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas"><span class="sk-c-tn">Pandas</span></div>
-        <div class="sk-c-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy"><span class="sk-c-tn">NumPy</span></div>
-        <div class="sk-c-tool"><span class="sk-c-badge" style="background:#F7931E">Sk</span><span class="sk-c-tn">Scikit-Learn</span></div>
-        <div class="sk-c-tool"><span class="sk-c-badge" style="background:#4CBBB9">Sns</span><span class="sk-c-tn">Seaborn</span></div>
-        <div class="sk-c-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"><span class="sk-c-tn">Matplotlib</span></div>
+  <div class="sk-b-row">
+    <div class="sk-b-cat"><h4>Python</h4><span>Data Analysis & Visualization</span></div>
+    <div class="sk-b-right">
+      <div class="sk-b-tools">
+        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">Python</div>
+        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas">Pandas</div>
+        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy">NumPy</div>
+        <div class="sk-b-tool"><span class="sk-b-badge" style="background:#F7931E">Sk</span>Scikit-Learn</div>
+        <div class="sk-b-tool"><span class="sk-b-badge" style="background:#4CBBB9">Sns</span>Seaborn</div>
+        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib">Matplotlib</div>
       </div>
     </div>
   </div>
 
-  <div class="sk-c-card sk-c-burg">
-    <div class="sk-c-head"><h4>Stata</h4><span>Statistical Analysis</span></div>
-    <div class="sk-c-body">
-      <div class="sk-c-tools">
-        <div class="sk-c-tool"><span class="sk-c-badge" style="background:#1A5FA6;font-size:0.45rem">Stata</span><span class="sk-c-tn">Stata</span></div>
+  <div class="sk-b-row sk-b-burg">
+    <div class="sk-b-cat"><h4>Stata</h4><span>Statistical Analysis</span></div>
+    <div class="sk-b-right">
+      <div class="sk-b-tools">
+        <div class="sk-b-tool"><span class="sk-b-badge" style="background:#1A5FA6;font-size:0.45rem">Stata</span>Stata</div>
       </div>
-      <div class="sk-c-tags">
-        <span class="sk-c-tag">Linear Regression</span>
-        <span class="sk-c-tag">Multiple Regression</span>
-      </div>
-    </div>
-  </div>
-
-  <div class="sk-c-card sk-c-burg">
-    <div class="sk-c-head"><h4>Qualitative Analysis</h4><span>Research Methods</span></div>
-    <div class="sk-c-body">
-      <div class="sk-c-tools">
-        <div class="sk-c-tool"><span class="sk-c-badge" style="background:#1D7B5E;font-size:0.44rem;letter-spacing:-.3px">MXQDA</span><span class="sk-c-tn">MaxQDA</span></div>
-        <div class="sk-c-tool"><span class="sk-c-badge" style="background:#3B6FA6;font-size:0.45rem">NVivo</span><span class="sk-c-tn">NVivo</span></div>
-      </div>
-      <div class="sk-c-tags">
-        <span class="sk-c-tag">Reflexive Thematic Analysis</span>
-        <span class="sk-c-tag">Semi-structured Interviews</span>
+      <div class="sk-b-tags">
+        <span class="sk-b-tag">Linear Regression</span>
+        <span class="sk-b-tag">Multiple Regression</span>
       </div>
     </div>
   </div>
 
-  <div class="sk-c-card">
-    <div class="sk-c-head"><h4>Systems Design</h4><span>Design Methods</span></div>
-    <div class="sk-c-body">
-      <div class="sk-c-tags">
-        <span class="sk-c-tag">Participatory Design</span>
-        <span class="sk-c-tag">Prototyping</span>
-        <span class="sk-c-tag">Usability Testing</span>
+  <div class="sk-b-row">
+    <div class="sk-b-cat"><h4>Qualitative Analysis</h4><span>Research Methods</span></div>
+    <div class="sk-b-right">
+      <div class="sk-b-tools">
+        <div class="sk-b-tool"><span class="sk-b-badge" style="background:#1D7B5E;font-size:0.44rem;letter-spacing:-.3px">MXQDA</span>MaxQDA</div>
+        <div class="sk-b-tool"><span class="sk-b-badge" style="background:#3B6FA6;font-size:0.45rem">NVivo</span>NVivo</div>
+      </div>
+      <div class="sk-b-tags">
+        <span class="sk-b-tag">Reflexive Thematic Analysis</span>
+        <span class="sk-b-tag">Semi-structured Interviews</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="sk-b-row sk-b-burg">
+    <div class="sk-b-cat"><h4>Systems Design</h4><span>Design Methods</span></div>
+    <div class="sk-b-right">
+      <div class="sk-b-tags">
+        <span class="sk-b-tag">Participatory Design</span>
+        <span class="sk-b-tag">Prototyping</span>
+        <span class="sk-b-tag">Usability Testing</span>
       </div>
     </div>
   </div>
