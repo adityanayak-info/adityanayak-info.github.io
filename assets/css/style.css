@@ -396,7 +396,7 @@ hr.profile-rule {
   margin-bottom: 5px;
 }
 
-.stage-inst { font-size: 0.69rem; color: var(--text-muted); line-height: 1.4; }
+.stage-inst { font-size: 1rem; color: var(--text-muted); line-height: 1.4; }
 
 .stage-arrow {
   font-size: 1.2rem;
