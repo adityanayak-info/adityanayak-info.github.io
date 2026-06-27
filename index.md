@@ -42,12 +42,12 @@ permalink: /
     <div class="sk-b-cat"><h4>Python</h4><span>Data Analysis & Visualization</span></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">Python</div>
-        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas">Pandas</div>
-        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy">NumPy</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/' | relative_url }}python-original.svg" alt="Python">Python</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/' | relative_url }}pandas-original.svg" alt="Pandas">Pandas</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/' | relative_url }}numpy-original.svg" alt="NumPy">NumPy</div>
         <div class="sk-b-tool"><span class="sk-b-badge" style="background:#F7931E">Sk</span>Scikit-Learn</div>
         <div class="sk-b-tool"><span class="sk-b-badge" style="background:#4CBBB9">Sns</span>Seaborn</div>
-        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib">Matplotlib</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/' | relative_url }}matplotlib-original.svg" alt="Matplotlib">Matplotlib</div>
       </div>
     </div>
   </div>
@@ -56,9 +56,7 @@ permalink: /
     <div class="sk-b-cat"><h4>Stata</h4><span>Statistical Analysis</span></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
-        <div class="sk-b-tool"><span class="sk-b-badge" style="background:#1A5FA6;font-size:0.45rem">Stata</span>Stata</div>
-      </div>
-      <div class="sk-b-tags">
+        <div class="sk-b-tool"><img src="{{ '/assets/img/stata-logo.png' | relative_url }}" alt="Stata" style="height:22px;width:auto;">Stata</div>
         <span class="sk-b-tag">Linear Regression</span>
         <span class="sk-b-tag">Multiple Regression</span>
       </div>
@@ -69,10 +67,8 @@ permalink: /
     <div class="sk-b-cat"><h4>Qualitative Analysis</h4><span>Research Methods</span></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
-        <div class="sk-b-tool"><span class="sk-b-badge" style="background:#1D7B5E;font-size:0.44rem;letter-spacing:-.3px">MXQDA</span>MaxQDA</div>
-        <div class="sk-b-tool"><span class="sk-b-badge" style="background:#3B6FA6;font-size:0.45rem">NVivo</span>NVivo</div>
-      </div>
-      <div class="sk-b-tags">
+        <div class="sk-b-tool"><img src="{{ '/assets/img/maxqda-logo.png' | relative_url }}" alt="MaxQDA" style="width:22px;height:22px;object-fit:contain;">MaxQDA</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/nvivo-logo.png' | relative_url }}" alt="NVivo" style="width:22px;height:22px;object-fit:contain;">NVivo</div>
         <span class="sk-b-tag">Reflexive Thematic Analysis</span>
         <span class="sk-b-tag">Semi-structured Interviews</span>
       </div>
@@ -82,7 +78,7 @@ permalink: /
   <div class="sk-b-row sk-b-burg">
     <div class="sk-b-cat"><h4>Systems Design</h4><span>Design Methods</span></div>
     <div class="sk-b-right">
-      <div class="sk-b-tags">
+      <div class="sk-b-tools">
         <span class="sk-b-tag">Participatory Design</span>
         <span class="sk-b-tag">Prototyping</span>
         <span class="sk-b-tag">Usability Testing</span>
@@ -93,7 +89,7 @@ permalink: /
 </div>
 
 <div class="skill-collab">
-  I have worked in inter-disciplinary teams with colleagues across <strong>Computer Science</strong>, <strong>Information Science</strong>, and <strong>Policy</strong> domain expertise.<br> We developed low-fidelity prototypes of interactive web applications, and conducted usability testing to move towards high-fidelity prototypes.
+  I have worked in inter-disciplinary teams with colleagues across <strong>Computer Science</strong>, <strong>Information Science</strong>, and <strong>Policy</strong> domain expertise.
 </div>
 
 
