@@ -902,6 +902,7 @@ hr.profile-rule {
   margin-bottom: 2px;
   padding-bottom: 2px;
   border-bottom: 1px solid var(--border);
+  margin-left: -16px;
 }
 
 .pub-section-content .pub-list li:last-child {
