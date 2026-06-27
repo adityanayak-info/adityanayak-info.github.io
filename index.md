@@ -55,7 +55,7 @@ permalink: /
   
 
   <div class="sk-b-row">
-    <div class="sk-b-cat"><h4>Qualitative Analysis</h4><span>Research Methods</span></div>
+    <div class="sk-b-cat"><h4>Qualitative Analysis</h4></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
         <div class="sk-b-tool"><img src="{{ '/assets/img/maxqda-logo.png' | relative_url }}" alt="MaxQDA" style="width:22px;height:22px;object-fit:contain;">MaxQDA</div>
@@ -78,7 +78,7 @@ permalink: /
   </div>
 
   <div class="sk-b-row">
-    <div class="sk-b-cat"><h4>Systems Design</h4><span>Design Methods</span></div>
+    <div class="sk-b-cat"><h4>Systems Design</h4></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
         <span class="sk-b-tag">Participatory Design</span>
