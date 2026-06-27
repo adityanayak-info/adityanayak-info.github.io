@@ -39,7 +39,7 @@ permalink: /
 <div class="sk-b-section">
 
   <div class="sk-b-row sk-b-burg">
-    <div class="sk-b-cat"><h4>Python</h4><span>Data Analysis & Visualization</span></div>
+    <div class="sk-b-cat"><h4>Data Analysis & Visualization</h4></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
         <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">Python</div>
@@ -67,7 +67,7 @@ permalink: /
   </div>
 
   <div class="sk-b-row sk-b-burg">
-    <div class="sk-b-cat"><h4>Stata</h4><span>Statistical Analysis</span></div>
+    <div class="sk-b-cat"><h4>Statistical Analysis</h4></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
         <div class="sk-b-tool"><img src="{{ '/assets/img/stata-logo.png' | relative_url }}" alt="Stata" style="height:22px;width:auto;"></div>
