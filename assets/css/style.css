@@ -415,6 +415,10 @@ hr.profile-rule {
   padding-top: 15px;
 }
 
+.career-tagline {
+  font-family: 'Dancing Script', cursive;
+}
+
 /* ============================================================
    PUBLICATIONS
    ============================================================ */
