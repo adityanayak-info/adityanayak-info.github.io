@@ -240,6 +240,11 @@ a:hover { color: var(--navy); text-decoration: underline; }
   color: var(--burgundy);
 }
 
+.teaching-meta {
+  color: var(--slate);
+  font-size: 0.88rem;
+}
+
 /* ============================================================
    HOME — PROFILE SECTION
    Left column: photo + affiliation + buttons
