@@ -633,6 +633,12 @@ hr.profile-rule {
   white-space: nowrap;
 }
 
+.institution-heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 /* ============================================================
    Interest Tags
    ============================================================ */
