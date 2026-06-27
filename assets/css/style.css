@@ -962,6 +962,8 @@ hr.profile-rule {
   flex-shrink: 0;
   padding-right: 14px;
   border-right: 1px solid var(--border);
+  overflow: hidden;
+  word-break: break-word;
 }
 
 .sk-b-cat h4 {
