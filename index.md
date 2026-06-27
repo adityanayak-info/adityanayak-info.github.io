@@ -69,7 +69,7 @@ permalink: /
     <div class="sk-b-right">
       <div class="sk-b-tools">
         <div class="sk-b-tool"><img src="{{ '/assets/img/spacy-logo.png' | relative_url }}" alt="spaCy" style="width:20px;height:20px;object-fit:contain;">spaCy</div>
-        <div class="sk-b-tool"><img src="{{ '/assets/img/huggingface-logo.png' | relative_url }}" alt="Hugging Face" style="width:20px;height:20px;object-fit:contain;">Hugging Face</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/hf-logo.png' | relative_url }}" alt="Hugging Face" style="width:20px;height:20px;object-fit:contain;">Hugging Face</div>
       </div>
     </div>
   </div>
