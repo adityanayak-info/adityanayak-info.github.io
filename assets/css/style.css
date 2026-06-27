@@ -177,6 +177,16 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .news-link:hover { color: var(--burgundy); text-decoration: underline; }
 
+
+.sidebar-card {
+  text-align: justify;
+}
+
+.sidebar-heading {
+  text-align: center;
+  text-decoration: underline;
+}
+
 /* ============================================================
    TYPOGRAPHY
    ============================================================ */
