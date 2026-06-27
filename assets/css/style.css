@@ -942,6 +942,7 @@ hr.profile-rule {
 /* ── Skills and Methods  ── */
 
 .sk-b-section { margin: 1.5rem 0; }
+
 .sk-b-row {
   display: flex;
   align-items: flex-start;
@@ -952,13 +953,17 @@ hr.profile-rule {
   border-left: 3px solid var(--navy);
   margin-bottom: 8px;
 }
+
 .sk-b-row.sk-b-burg { border-left-color: var(--burgundy); }
+
 .sk-b-cat {
-  min-width: 110px;
+  flex: 0 0 160px;
+  width: 160px;
   flex-shrink: 0;
   padding-right: 14px;
   border-right: 1px solid var(--border);
 }
+
 .sk-b-cat h4 {
   font-family: var(--font-display);
   color: var(--navy);
