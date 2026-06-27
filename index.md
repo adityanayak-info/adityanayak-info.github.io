@@ -99,7 +99,7 @@ permalink: /
 </div>
 
 <div class="skill-collab">
-  I have worked in interdisciplinary teams for system development and testing, with colleagues across <strong>Computer Science</strong>, <strong>Information Science</strong>, and <strong>Policy</strong> domains.
+  In my research projects, I have worked in interdisciplinary teams working towards system development and testing, with colleagues across <strong>Computer Science</strong>, <strong>Information Science</strong>, and <strong>Policy</strong> domains.
 </div>
 
 
