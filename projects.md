@@ -91,7 +91,7 @@ permalink: /projects/
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Delivering Inequality: Quick Commerce and Digital Labour</a></h3>
     <p class="project-meta">With Ashique Ali Thuppilikkat & Aditi Vashistha · 2025</p>
     <p>An examination of marginality and caste within quick commerce digital labour platforms in India (e.g., 10-minute grocery delivery services). This project investigates how platform architectures reproduce and intensify pre-existing structural inequalities, using Science and Technology Studies frameworks alongside political economy.</p>
-    <span class="project-tag">Digital Labour</span><span class="project-tag">Caste & Technology</span><span class="project-tag">STS</span>
+    <span class="project-tag">Caste & Technology</span><span class="project-tag">STS</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
