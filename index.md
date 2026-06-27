@@ -56,7 +56,7 @@ permalink: /
     <div class="sk-b-cat"><h4>Stata</h4><span>Statistical Analysis</span></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="{{ '/assets/img/stata-logo.png' | relative_url }}" alt="Stata" style="height:22px;width:auto;">Stata</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/stata-logo.png' | relative_url }}" alt="Stata" style="height:22px;width:auto;"></div>
         <span class="sk-b-tag">Linear Regression</span>
         <span class="sk-b-tag">Multiple Regression</span>
       </div>
