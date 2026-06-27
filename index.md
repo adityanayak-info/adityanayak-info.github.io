@@ -32,6 +32,72 @@ permalink: /
   <p class="career-tagline">Human-Computer Interaction Researcher</p>
 </div>
 
+
+## Skills & Methods
+
+<div class="sk-c-grid">
+
+  <div class="sk-c-card">
+    <div class="sk-c-head"><h4>Python</h4><span>Data Analysis & Visualization</span></div>
+    <div class="sk-c-body">
+      <div class="sk-c-tools">
+        <div class="sk-c-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"><span class="sk-c-tn">Python</span></div>
+        <div class="sk-c-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas"><span class="sk-c-tn">Pandas</span></div>
+        <div class="sk-c-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy"><span class="sk-c-tn">NumPy</span></div>
+        <div class="sk-c-tool"><span class="sk-c-badge" style="background:#F7931E">Sk</span><span class="sk-c-tn">Scikit-Learn</span></div>
+        <div class="sk-c-tool"><span class="sk-c-badge" style="background:#4CBBB9">Sns</span><span class="sk-c-tn">Seaborn</span></div>
+        <div class="sk-c-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"><span class="sk-c-tn">Matplotlib</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sk-c-card sk-c-burg">
+    <div class="sk-c-head"><h4>Stata</h4><span>Statistical Analysis</span></div>
+    <div class="sk-c-body">
+      <div class="sk-c-tools">
+        <div class="sk-c-tool"><span class="sk-c-badge" style="background:#1A5FA6;font-size:0.45rem">Stata</span><span class="sk-c-tn">Stata</span></div>
+      </div>
+      <div class="sk-c-tags">
+        <span class="sk-c-tag">Linear Regression</span>
+        <span class="sk-c-tag">Multiple Regression</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="sk-c-card sk-c-burg">
+    <div class="sk-c-head"><h4>Qualitative Analysis</h4><span>Research Methods</span></div>
+    <div class="sk-c-body">
+      <div class="sk-c-tools">
+        <div class="sk-c-tool"><span class="sk-c-badge" style="background:#1D7B5E;font-size:0.44rem;letter-spacing:-.3px">MXQDA</span><span class="sk-c-tn">MaxQDA</span></div>
+        <div class="sk-c-tool"><span class="sk-c-badge" style="background:#3B6FA6;font-size:0.45rem">NVivo</span><span class="sk-c-tn">NVivo</span></div>
+      </div>
+      <div class="sk-c-tags">
+        <span class="sk-c-tag">Reflexive Thematic Analysis</span>
+        <span class="sk-c-tag">Semi-structured Interviews</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="sk-c-card">
+    <div class="sk-c-head"><h4>Systems Design</h4><span>Design Methods</span></div>
+    <div class="sk-c-body">
+      <div class="sk-c-tags">
+        <span class="sk-c-tag">Participatory Design</span>
+        <span class="sk-c-tag">Prototyping</span>
+        <span class="sk-c-tag">Usability Testing</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="skill-collab">
+  I have worked in inter-disciplinary teams with colleagues across <strong>Computer Science</strong>, <strong>Information Science</strong>, and <strong>Policy</strong> domain expertise.<br> We developed low-fidelity prototypes of interactive web applications, and conducted usability testing to move towards high-fidelity prototypes.
+</div>
+
+
+
+
 ## Education
 
 **PhD** · School of Computing and Information, University of Pittsburgh *(Pursuing)*<br>
