@@ -128,7 +128,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 .sidebar-card {
-  background: var(--cream);
+  background: #f4f6fb;
   border-radius: 4px;
   padding: 22px 18px;
   border-top: 3px solid var(--navy);
