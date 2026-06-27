@@ -24,7 +24,7 @@ permalink: /teaching/
 ## Lady Shri Ram College, University of Delhi
 
 <h3 class="teaching-role">Assistant Professor</h3>
-<p class="teaching-meta">· Department of Political Science · January 2022 – November 2023</p>
+<p class="teaching-meta">Department of Political Science · January 2022 – November 2023</p>
 
 ### Courses Taught (Undergraduate)
 
