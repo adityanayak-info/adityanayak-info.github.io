@@ -23,7 +23,7 @@ permalink: /teaching/
 
 <h2 class="institution-heading">
   Lady Shri Ram College, University of Delhi
-  <img src="{{ '/assets/img/lsr-logo.png' | relative_url }}" alt="Lady Shri Ram College" style="height:24px;width:auto;margin-left:auto;">
+  <img src="{{ '/assets/img/lsr-logo.jpg' | relative_url }}" alt="Lady Shri Ram College" style="height:24px;width:auto;margin-left:auto;">
 </h2>
 
 <h3 class="teaching-role">Assistant Professor</h3>
