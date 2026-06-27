@@ -38,7 +38,7 @@ permalink: /
 
 <div class="sk-b-section">
 
-  <div class="sk-b-row">
+  <div class="sk-b-row sk-b-burg">
     <div class="sk-b-cat"><h4>Python</h4><span>Data Analysis & Visualization</span></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
@@ -77,7 +77,7 @@ permalink: /
     </div>
   </div>
 
-  <div class="sk-b-row sk-b-burg">
+  <div class="sk-b-row">
     <div class="sk-b-cat"><h4>Systems Design</h4><span>Design Methods</span></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
