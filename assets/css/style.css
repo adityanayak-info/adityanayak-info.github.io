@@ -365,11 +365,15 @@ hr.profile-rule {
    HOME — CAREER PATH DIAGRAM
    ============================================================ */
 .career-path {
-  background: var(--cream);
+  background: transparent;
   border-radius: 8px;
   padding: 30px 36px;
   margin: 1.5rem 0;
   text-align: center;
+}
+
+.career-path h3 {
+  color: var(--burgundy);
 }
 
 .career-stages {
