@@ -48,7 +48,6 @@ permalink: /
         <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib">Matplotlib</div>
         <div class="sk-b-tool"><span class="sk-b-badge" style="background:#F7931E">Sk</span>Scikit-Learn</div>
         <div class="sk-b-tool"><span class="sk-b-badge" style="background:#4CBBB9">Sns</span>Seaborn</div>
-        <div class="sk-b-tool"><img src="{{ '/assets/img/' | relative_url }}matplotlib-original.svg" alt="Matplotlib">Matplotlib</div>
       </div>
     </div>
   </div>
