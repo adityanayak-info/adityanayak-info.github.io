@@ -46,8 +46,8 @@ permalink: /
         <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas">Pandas</div>
         <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy">NumPy</div>
         <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib">Matplotlib</div>
-        <div class="sk-b-tool"><span class="sk-b-badge" style="background:#F7931E">Sk</span>Scikit-Learn</div>
-        <div class="sk-b-tool"><span class="sk-b-badge" style="background:#4CBBB9">Sns</span>Seaborn</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/sklearn-logo.png' | relative_url }}" alt="Scikit-Learn" style="height:20px;width:auto;">Scikit-Learn</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/seaborn-logo.svg' | relative_url }}" alt="Seaborn" style="width:20px;height:20px;">Seaborn</div>
       </div>
     </div>
   </div>
