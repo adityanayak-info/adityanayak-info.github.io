@@ -12,7 +12,6 @@ permalink: /
        <img src="{{ '/assets/img/background.svg' | relative_url }}" alt="My background">
      ════════════════════════════════════════════════════════════ -->
 
-## My Research Background
 
 <img src="{{ '/assets/img/researchbackground.svg' | relative_url }}" alt="Research background diagram" style="width:100%;max-width:700px;display:block;margin:1.5rem auto;">
 
