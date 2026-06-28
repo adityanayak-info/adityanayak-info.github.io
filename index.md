@@ -43,6 +43,30 @@ permalink: /
 <div class="sk-b-section">
 
   <div class="sk-b-row sk-b-burg">
+    <div class="sk-b-cat"><h4>Qualitative Analysis</h4></div>
+    <div class="sk-b-right">
+      <div class="sk-b-tools">
+        <div class="sk-b-tool"><img src="{{ '/assets/img/maxqda-logo.png' | relative_url }}" alt="MaxQDA" style="width:22px;height:22px;object-fit:contain;">MaxQDA</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/nvivo-logo.png' | relative_url }}" alt="NVivo" style="width:19px;height:19px;object-fit:contain;">NVivo</div>
+        <span class="sk-b-tag">Reflexive Thematic Analysis</span>
+        <span class="sk-b-tag">Semi-structured Interview</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="sk-b-row">
+    <div class="sk-b-cat"><h4>Systems Design</h4></div>
+    <div class="sk-b-right">
+      <div class="sk-b-tools">
+        <span class="sk-b-tag">Participatory Design</span>
+        <span class="sk-b-tag">Prototyping</span>
+        <span class="sk-b-tag">Usability Testing</span>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="sk-b-row sk-b-burg">
     <div class="sk-b-cat"><h4>Data Analysis<br>& Visualization</h4></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
@@ -56,19 +80,9 @@ permalink: /
     </div>
   </div>
 
-  <div class="sk-b-row">
-    <div class="sk-b-cat"><h4>Qualitative Analysis</h4></div>
-    <div class="sk-b-right">
-      <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="{{ '/assets/img/maxqda-logo.png' | relative_url }}" alt="MaxQDA" style="width:22px;height:22px;object-fit:contain;">MaxQDA</div>
-        <div class="sk-b-tool"><img src="{{ '/assets/img/nvivo-logo.png' | relative_url }}" alt="NVivo" style="width:19px;height:19px;object-fit:contain;">NVivo</div>
-        <span class="sk-b-tag">Reflexive Thematic Analysis</span>
-        <span class="sk-b-tag">Semi-structured Interview</span>
-      </div>
-    </div>
-  </div>
 
-  <div class="sk-b-row sk-b-burg">
+
+  <div class="sk-b-row">
     <div class="sk-b-cat"><h4>NLP</h4></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
@@ -89,16 +103,7 @@ permalink: /
     </div>
   </div>
 -->
-  <div class="sk-b-row sk-b-burg">
-    <div class="sk-b-cat"><h4>Systems Design</h4></div>
-    <div class="sk-b-right">
-      <div class="sk-b-tools">
-        <span class="sk-b-tag">Participatory Design</span>
-        <span class="sk-b-tag">Prototyping</span>
-        <span class="sk-b-tag">Usability Testing</span>
-      </div>
-    </div>
-  </div>
+
 
 </div>
 
