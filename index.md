@@ -114,7 +114,7 @@ permalink: /
 **PhD** · <strong>School of Computing and Information, University of Pittsburgh</strong> *(Pursuing)*<br>
 Courses: Foundations in HCI; Public Interest Technology; Social Computing; Data-Centric Computing; FATE in AI; Psychology of Learning and Development.
 
-**Master of Philosophy** · <strong><strong>Centre for Comparative Politics and Political Theory, Jawaharlal Nehru University</strong> <br>
+**Master of Philosophy** · <strong>Centre for Comparative Politics and Political Theory, Jawaharlal Nehru University</strong> <br>
 Thesis: *'Artificial Intelligence and the Changing Forms of Work'* (2021)
 
 ## Selected Honours
