@@ -20,28 +20,6 @@ permalink: /teaching/
 
 ---
 
-
-<h2 class="institution-heading">
-  Lady Shri Ram College, University of Delhi
-  <img src="{{ '/assets/img/lsr-logo.jpg' | relative_url }}" alt="Lady Shri Ram College" style="height:28px;width:auto;margin-left:auto;">
-</h2>
-
-<h3 class="teaching-role">Assistant Professor</h3>
-<p class="teaching-meta">Department of Political Science · January 2022 – November 2023</p>
-
-### Courses Taught (Undergraduate)
-
-- Political Theory
-- Public Opinion and Survey Research
-- Comparative Politics
-- Dilemmas in Politics
-- Globalization and Political Economy
-
-
-
-
----
-
 <h2 class="institution-heading">
   University of Pittsburgh
   <img src="{{ '/assets/img/pitt-logo.png' | relative_url }}" alt="University of Pittsburgh" style="height:24px;width:auto;margin-left:auto;">
@@ -62,6 +40,24 @@ permalink: /teaching/
 #### Teaching Assistant
 
 - <a href="https://hcommons.org/groups/lis-2970-art-data-in-libraries-and-archives/" target="_blank" rel="noopener"><span class="course-code">LIS-2970</span></a> Art + Data in Libraries and Archives
+
+---
+
+<h2 class="institution-heading">
+  Lady Shri Ram College, University of Delhi
+  <img src="{{ '/assets/img/lsr-logo.jpg' | relative_url }}" alt="Lady Shri Ram College" style="height:28px;width:auto;margin-left:auto;">
+</h2>
+
+<h3 class="teaching-role">Assistant Professor</h3>
+<p class="teaching-meta">Department of Political Science · January 2022 – November 2023</p>
+
+### Courses Taught (Undergraduate)
+
+- Political Theory
+- Public Opinion and Survey Research
+- Comparative Politics
+- Dilemmas in Politics
+- Globalization and Political Economy
 
 ---
 
