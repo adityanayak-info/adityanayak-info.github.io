@@ -119,8 +119,33 @@ permalink: /
     </div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="{{ '/assets/img/spacy-logo.png' | relative_url }}" alt="spaCy"
+        <div class="sk-b-tool"><img src="{{ '/assets/img/spacy-logo.png' | relative_url }}" alt="spaCy" style="width:20px;height:20px;object-fit:contain;">spaCy</div>
+        <div class="sk-b-tool"><img src="{{ '/assets/img/hf-logo.png' | relative_url }}" alt="Hugging Face" style="width:20px;height:20px;object-fit:contain;">Hugging Face</div>
+      </div>
+    </div>
+  </div>
 
+<!--
+  <div class="sk-b-row">
+    <div class="sk-b-cat">
+      <h4>Statistical Analysis</h4>
+      <div class="skill-dots">
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot"></span>
+        <span class="skill-dot"></span>
+      </div>
+    </div>
+    <div class="sk-b-right">
+      <div class="sk-b-tools">
+        <div class="sk-b-tool"><img src="{{ '/assets/img/stata-logo.png' | relative_url }}" alt="Stata" style="height:22px;width:auto;"></div>
+        <span class="sk-b-tag">Linear Regression</span>
+        <span class="sk-b-tag">Multiple Regression</span>
+      </div>
+    </div>
+  </div>
+-->
 
 </div>
 
