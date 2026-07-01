@@ -13,7 +13,10 @@ permalink: /
      ════════════════════════════════════════════════════════════ -->
 
 
-<img src="{{ '/assets/img/researchbackground.svg' | relative_url }}" alt="Research background diagram" style="width:100%;max-width:700px;display:block;margin:1.5rem auto;">
+<div class="diagram-hover-wrap">
+  <img class="diagram-base" src="{{ '/assets/img/researchbackground.svg' | relative_url }}" alt="Research background diagram">
+  <img class="diagram-full" src="{{ '/assets/img/researchbackground_details.svg' | relative_url }}" alt="Research background diagram with full detail" aria-hidden="true">
+</div>
 
 <!--
 <div class="career-path">
