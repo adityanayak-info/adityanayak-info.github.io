@@ -740,6 +740,10 @@ hr.profile-rule {
   .profile-text {
   text-align: justify;
   }
+  .profile-text h1,
+  .profile-text .profile-subtitle {
+     text-align: center;
+  }
 
   .photo-col { width: 200px; }
   .photo-col img, .photo-initials { width: 200px; height: 240px; }
