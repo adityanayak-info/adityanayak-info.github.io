@@ -1022,6 +1022,29 @@ hr.profile-rule {
   align-items: center;
 }
 
+.skill-dots {
+  display: flex;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.skill-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #d0d0d0;
+  flex-shrink: 0;
+}
+
+.skill-dot.full {
+  background: var(--burgundy);
+}
+
+.skill-dot.half {
+  background: linear-gradient(90deg, var(--burgundy) 50%, #d0d0d0 50%);
+}
+
+
 /* ── Template C — Bold header tiles ── */
 .sk-c-grid {
   display: grid;
