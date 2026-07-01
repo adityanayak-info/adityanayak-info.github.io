@@ -415,6 +415,30 @@ hr.profile-rule {
   padding-top: 15px;
 }
 
+.diagram-hover-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 720px;
+  margin: 1.5rem 0;
+}
+
+.diagram-hover-wrap img {
+  width: 100%;
+  display: block;
+}
+
+.diagram-full {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+.diagram-hover-wrap:hover .diagram-full {
+  opacity: 1;
+}
+
 
 /* ============================================================
    PUBLICATIONS
