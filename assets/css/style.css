@@ -333,6 +333,32 @@ a:hover { color: var(--navy); text-decoration: underline; }
 .contact-links a:hover svg { fill: #fff; }
 .contact-links a svg { flex-shrink: 0; transition: fill 0.15s; }
 
+[data-tooltip] {
+  position: relative;
+}
+
+[data-tooltip]::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--navy);
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: 500;
+  padding: 3px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+[data-tooltip]:hover::after {
+  opacity: 1;
+}
+
 /* ── Right column ── */
 .profile-text { flex: 1; padding-top: 2px; }
 
