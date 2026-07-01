@@ -711,6 +711,10 @@ hr.profile-rule {
   .profile-text { text-align: center; }
   hr.profile-rule { margin: 14px auto; }
 
+  .profile-text {
+  text-align: justify;
+  }
+
   .photo-col { width: 200px; }
   .photo-col img, .photo-initials { width: 200px; height: 240px; }
 
