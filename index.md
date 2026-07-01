@@ -43,7 +43,16 @@ permalink: /
 <div class="sk-b-section">
 
   <div class="sk-b-row sk-b-burg">
-    <div class="sk-b-cat"><h4>Qualitative Analysis</h4></div>
+    <div class="sk-b-cat">
+      <h4>Qualitative Analysis</h4>
+      <div class="skill-dots">
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot half"></span>
+      </div>
+    </div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
         <div class="sk-b-tool"><img src="{{ '/assets/img/maxqda-logo.png' | relative_url }}" alt="MaxQDA" style="width:22px;height:22px;object-fit:contain;">MaxQDA</div>
@@ -55,7 +64,16 @@ permalink: /
   </div>
 
   <div class="sk-b-row">
-    <div class="sk-b-cat"><h4>Systems Design</h4></div>
+    <div class="sk-b-cat">
+      <h4>Systems Design</h4>
+      <div class="skill-dots">
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot"></span>
+      </div>
+    </div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
         <span class="sk-b-tag">Participatory Design</span>
@@ -65,9 +83,17 @@ permalink: /
     </div>
   </div>
 
-
   <div class="sk-b-row sk-b-burg">
-    <div class="sk-b-cat"><h4>Data Analysis<br>& Visualization</h4></div>
+    <div class="sk-b-cat">
+      <h4>Data Analysis<br>& Visualization</h4>
+      <div class="skill-dots">
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot"></span>
+        <span class="skill-dot"></span>
+      </div>
+    </div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
         <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">Python</div>
@@ -80,29 +106,20 @@ permalink: /
     </div>
   </div>
 
-
-
   <div class="sk-b-row">
-    <div class="sk-b-cat"><h4>NLP</h4></div>
-    <div class="sk-b-right">
-      <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="{{ '/assets/img/spacy-logo.png' | relative_url }}" alt="spaCy" style="width:20px;height:20px;object-fit:contain;">spaCy</div>
-        <div class="sk-b-tool"><img src="{{ '/assets/img/hf-logo.png' | relative_url }}" alt="Hugging Face" style="width:20px;height:20px;object-fit:contain;">Hugging Face</div>
+    <div class="sk-b-cat">
+      <h4>NLP</h4>
+      <div class="skill-dots">
+        <span class="skill-dot full"></span>
+        <span class="skill-dot full"></span>
+        <span class="skill-dot half"></span>
+        <span class="skill-dot"></span>
+        <span class="skill-dot"></span>
       </div>
     </div>
-  </div>
-<!--
-  <div class="sk-b-row">
-    <div class="sk-b-cat"><h4>Statistical Analysis</h4></div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="{{ '/assets/img/stata-logo.png' | relative_url }}" alt="Stata" style="height:22px;width:auto;"></div>
-        <span class="sk-b-tag">Linear Regression</span>
-        <span class="sk-b-tag">Multiple Regression</span>
-      </div>
-    </div>
-  </div>
--->
+        <div class="sk-b-tool"><img src="{{ '/assets/img/spacy-logo.png' | relative_url }}" alt="spaCy"
 
 
 </div>
