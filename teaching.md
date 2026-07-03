@@ -26,7 +26,7 @@ permalink: /teaching/
 </h2>
 
 <h3 class="teaching-role">Graduate Teaching Assistant</h3> 
-<p class="teaching-meta">School of Compuuting and Information · January 2026 – Present</p>
+<p class="teaching-meta">School of Computing and Information · January 2026 – Present</p>
 
 ### Department of Computer Science
 
