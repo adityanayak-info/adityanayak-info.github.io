@@ -520,7 +520,7 @@ hr.profile-rule {
    PROJECTS
    ============================================================ */
 .project-card {
-  border: 1px solid var(--cream);
+  border: 1px solid var(--slate);
   border-left: 4px solid var(--navy);
   border-radius: 0 6px 6px 0;
   padding: 20px 22px;
