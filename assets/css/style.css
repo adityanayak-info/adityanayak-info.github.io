@@ -580,7 +580,7 @@ hr.profile-rule {
   font-size: 0.7rem;
   font-weight: 500;
   color: var(--navy);
-  background: var(--peach);
+  background: #e8edf5;
   padding: 1px 7px;
   border-radius: 12px;
   margin-right: 5px;
@@ -707,7 +707,7 @@ hr.profile-rule {
   font-size: 0.7rem;
   font-weight: 500;
   color: var(--navy);
-  background: var(--peach);
+  background: #e8edf5;
   padding: 2px 8px;
   border-radius: 20px;
 }
