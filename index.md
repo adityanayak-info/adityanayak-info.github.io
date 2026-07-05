@@ -17,7 +17,6 @@ permalink: /
   <img class="diagram-full" src="{{ '/assets/img/researchbackground_details.svg' | relative_url }}" alt="Research background diagram with full detail" aria-hidden="true">
 </div>
 
-
 <!--
 <div class="career-path">
   <div class="career-stages">
