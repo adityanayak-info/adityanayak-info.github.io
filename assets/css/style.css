@@ -239,12 +239,16 @@ a:hover { color: var(--navy); text-decoration: underline; }
 .teaching-role {
   font-family: var(--font-display);
   color: var(--burgundy);
+  margin-bottom: 0.2rem;
 }
 
 .teaching-meta {
   color: var(--slate);
   font-size: 0.88rem;
+  margin-bottom: 0;
 }
+
+
 
 /* ============================================================
    HOME — PROFILE SECTION
