@@ -872,7 +872,7 @@ hr.profile-rule {
   align-items: flex-start;
   gap: 16px;
   padding: 11px 16px;
-  background: var(--white);
+  background: var(--bg);
   border: 1px solid var(--border);
   border-left: 3px solid var(--navy);
   margin-bottom: 8px;
