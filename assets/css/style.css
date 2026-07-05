@@ -467,7 +467,7 @@ hr.profile-rule {
 }
 
 .diagram-base {
-  transition: opacity 0.6s ease;
+  transition: opacity 1.2s ease;
 }
 
 .diagram-hover-wrap:hover .diagram-base {
