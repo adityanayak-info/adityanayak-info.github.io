@@ -834,6 +834,17 @@ hr.profile-rule {
   padding-top: 20px;
 }
 
+.profile-text h1 {
+  margin-bottom: 0.5rem;
+}
+
+.profile-subtitle {
+  margin-bottom: 1.2rem;
+}
+
+hr.profile-rule {
+  margin: 1.8rem 0;
+}
 
 
 /* ── Left sidebar (non-homepage pages) ── */
