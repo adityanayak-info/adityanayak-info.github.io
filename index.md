@@ -8,7 +8,7 @@ permalink: /
 
 <!-- ═══════════════════════════════════════════════════════════
      CAREER PATH — edit stage-name and stage-inst text below.
-     You can also replace this entire block with an SVG image:
+     You can also replace this entire block with an PNG image:
        <img src="{{ '/assets/img/background.svg' | relative_url }}" alt="My background">
      ════════════════════════════════════════════════════════════ -->
 
