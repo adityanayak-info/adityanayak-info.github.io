@@ -761,8 +761,8 @@ hr.profile-rule {
 }
 
 .left-sidebar-profile {
-  background: var(--bg-sidebar);
-  border: 1px solid var(--border);
+  background: transparent;
+  border: none;
   border-radius: 8px;
   padding: 14px;
   text-align: left;
