@@ -12,7 +12,6 @@ permalink: /
        <img src="{{ '/assets/img/background.svg' | relative_url }}" alt="My background">
      ════════════════════════════════════════════════════════════ -->
 
-
 <div class="diagram-hover-wrap">
   <img class="diagram-base" src="{{ '/assets/img/researchbackground.svg' | relative_url }}" alt="Research background diagram">
   <img class="diagram-full" src="{{ '/assets/img/researchbackground_details.svg' | relative_url }}" alt="Research background diagram with full detail" aria-hidden="true">
