@@ -40,6 +40,7 @@ permalink: /
 </div>
 -->
 
+
 ## Skills & Methods
 
 <div class="sk-b-section">
