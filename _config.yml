@@ -17,7 +17,7 @@ author:
 # If your repo is named  username.github.io  (root), leave baseurl empty.
 # If your repo is named  something-else,  set: baseurl: "/something-else"
 baseurl: ""
-url: "https://yourusername.github.io"             # ← Replace with your GitHub Pages URL
+url: "https://adityanayak-info.github.io"             # ← Replace with your GitHub Pages URL
 
 # ── Build Settings ───────────────────────────────────────────
 markdown: kramdown
