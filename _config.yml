@@ -18,7 +18,11 @@ author:
 # If your repo is named  something-else,  set: baseurl: "/something-else"
 baseurl: ""
 url: "https://adityanayak-info.github.io"             # ← Replace with your GitHub Pages URL
-image: /assets/img/og-image.png
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/og-image.png
 # ── Build Settings ───────────────────────────────────────────
 markdown: kramdown
 kramdown:
