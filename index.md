@@ -60,8 +60,8 @@ permalink: /
     </div>
     <div class="sk-b-right">
       <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="{{ '/assets/img/maxqda-logo.png' | relative_url }}" alt="MaxQDA" style="width:22px;height:22px;object-fit:contain;">MaxQDA</div>
-        <div class="sk-b-tool"><img src="{{ '/assets/img/nvivo-logo.png' | relative_url }}" alt="NVivo" style="width:19px;height:19px;object-fit:contain;">NVivo</div>
+        <div class="sk-b-tool"><!-- <img src="{{ '/assets/img/maxqda-logo.png' | relative_url }}" alt="MaxQDA" style="width:22px;height:22px;object-fit:contain;"> -->MaxQDA</div>
+        <div class="sk-b-tool"><!-- <img src="{{ '/assets/img/nvivo-logo.png' | relative_url }}" alt="NVivo" style="width:19px;height:19px;object-fit:contain;"> -->NVivo</div>
         <span class="sk-b-tag">Reflexive Thematic Analysis</span>
         <span class="sk-b-tag">Semi-structured Interview</span>
       </div>
@@ -91,66 +91,7 @@ permalink: /
   <div class="sk-b-row sk-b-burg">
     <div class="sk-b-cat">
       <h4>Data Analysis<br>& Visualization</h4>
-      <div class="skill-dots">
-        <span class="skill-dot full"></span>
-        <span class="skill-dot full"></span>
-        <span class="skill-dot full"></span>
-        <span class="skill-dot"></span>
-        <span class="skill-dot"></span>
-      </div>
-    </div>
-    <div class="sk-b-right">
-      <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">Python</div>
-        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas">Pandas</div>
-        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy">NumPy</div>
-        <div class="sk-b-tool"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib">Matplotlib</div>
-        <div class="sk-b-tool"><img src="{{ '/assets/img/sklearn-logo.png' | relative_url }}" alt="Scikit-Learn" style="height:20px;width:auto;">sklearn</div>
-        <div class="sk-b-tool"><img src="{{ '/assets/img/seaborn-logo.svg' | relative_url }}" alt="Seaborn" style="width:20px;height:20px;">Seaborn</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="sk-b-row">
-    <div class="sk-b-cat">
-      <h4>NLP</h4>
-      <div class="skill-dots">
-        <span class="skill-dot full"></span>
-        <span class="skill-dot full"></span>
-        <span class="skill-dot half"></span>
-        <span class="skill-dot"></span>
-        <span class="skill-dot"></span>
-      </div>
-    </div>
-    <div class="sk-b-right">
-      <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="{{ '/assets/img/spacy-logo.png' | relative_url }}" alt="spaCy" style="width:20px;height:20px;object-fit:contain;">spaCy</div>
-        <div class="sk-b-tool"><img src="{{ '/assets/img/hf-logo.png' | relative_url }}" alt="Hugging Face" style="width:20px;height:20px;object-fit:contain;">Hugging Face</div>
-      </div>
-    </div>
-  </div>
-
-<!--
-  <div class="sk-b-row">
-    <div class="sk-b-cat">
-      <h4>Statistical Analysis</h4>
-      <div class="skill-dots">
-        <span class="skill-dot full"></span>
-        <span class="skill-dot full"></span>
-        <span class="skill-dot full"></span>
-        <span class="skill-dot"></span>
-        <span class="skill-dot"></span>
-      </div>
-    </div>
-    <div class="sk-b-right">
-      <div class="sk-b-tools">
-        <div class="sk-b-tool"><img src="{{ '/assets/img/stata-logo.png' | relative_url }}" alt="Stata" style="height:22px;width:auto;"></div>
-        <span class="sk-b-tag">Linear Regression</span>
-        <span class="sk-b-tag">Multiple Regression</span>
-      </div>
-    </div>
-  </div>
--->
+      <div
 
 </div>
 
