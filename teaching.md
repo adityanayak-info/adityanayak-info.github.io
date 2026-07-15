@@ -59,6 +59,7 @@ permalink: /teaching/
     <div class="tl-tags">
       <span class="tl-tag tl-tag-plain">Political Theory</span>
       <span class="tl-tag tl-tag-plain">Public Opinion and Survey Research</span>
+      <span class="tl-tag tl-tag-plain">Legal Literacy</span>
       <span class="tl-tag tl-tag-plain">Comparative Politics</span>
       <span class="tl-tag tl-tag-plain">Dilemmas in Politics</span>
       <span class="tl-tag tl-tag-plain">Globalization and Political Economy</span>
