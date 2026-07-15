@@ -33,7 +33,7 @@ permalink: /teaching/
     <div class="tl-dept">Department of Computer Science <span class="tl-position">· Lab Instructor</span></div>
     <div class="tl-tags">
       <a class="tl-tag" href="https://courses.sci.pitt.edu/courses/view/CS-0011" target="_blank" rel="noopener"><span class="course-code">CS-0011</span> Introduction to Computing for Scientists</a>
-      <a class="tl-tag" href="https://courses.sci.pitt.edu/courses/view/CS-12" target="_blank" rel="noopener"><span class="course-code">CS-012</span> Introduction to Computing for the Humanities</a>
+      <a class="tl-tag" href="https://courses.sci.pitt.edu/courses/view/CS-12" target="_blank" rel="noopener"><span class="course-code">CS-0012</span> Introduction to Computing for the Humanities</a>
     </div>
   </div>
   <div class="tl-entry">
