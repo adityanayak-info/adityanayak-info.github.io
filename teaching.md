@@ -24,40 +24,47 @@ permalink: /teaching/
   University of Pittsburgh
   <img src="{{ '/assets/img/pitt-logo.png' | relative_url }}" alt="University of Pittsburgh" style="height:24px;width:auto;margin-left:auto;">
 </h2>
-
-<h3 class="teaching-role">Graduate Teaching Assistant</h3> 
+<h3 class="teaching-role">Graduate Teaching Assistant</h3>
 <p class="teaching-meta">School of Computing and Information · January 2026 – Present</p>
 
-### Department of Computer Science
-
-#### Lab Instructor
-
-- <a href="https://courses.sci.pitt.edu/courses/view/CS-0011" target="_blank" rel="noopener"><span class="course-code">CS-0011</span></a> Introduction to Computing for Scientists
-- <a href="https://courses.sci.pitt.edu/courses/view/CS-12" target="_blank" rel="noopener"><span class="course-code">CS-012</span></a> Introduction to Computing for the Humanities
-
-### Department of Information Culture and Data Stewardship
-
-#### Teaching Assistant
-
-- <a href="https://hcommons.org/groups/lis-2970-art-data-in-libraries-and-archives/" target="_blank" rel="noopener"><span class="course-code">LIS-2970</span></a> Art + Data in Libraries and Archives
-
+<div class="teaching-timeline">
+  <div class="tl-entry">
+    <span class="tl-dot"></span>
+    <div class="tl-dept">Department of Computer Science <span class="tl-position">· Lab Instructor</span></div>
+    <div class="tl-tags">
+      <a class="tl-tag" href="https://courses.sci.pitt.edu/courses/view/CS-0011" target="_blank" rel="noopener"><span class="course-code">CS-0011</span> Introduction to Computing for Scientists</a>
+      <a class="tl-tag" href="https://courses.sci.pitt.edu/courses/view/CS-12" target="_blank" rel="noopener"><span class="course-code">CS-012</span> Introduction to Computing for the Humanities</a>
+    </div>
+  </div>
+  <div class="tl-entry">
+    <span class="tl-dot"></span>
+    <div class="tl-dept">Department of Information Culture and Data Stewardship <span class="tl-position">· Teaching Assistant</span></div>
+    <div class="tl-tags">
+      <a class="tl-tag" href="https://hcommons.org/groups/lis-2970-art-data-in-libraries-and-archives/" target="_blank" rel="noopener"><span class="course-code">LIS-2970</span> Art + Data in Libraries and Archives</a>
+    </div>
+  </div>
+</div>
 ---
-
 <h2 class="institution-heading">
   Lady Shri Ram College, University of Delhi
   <img src="{{ '/assets/img/lsr-logo.jpg' | relative_url }}" alt="Lady Shri Ram College" style="height:28px;width:auto;margin-left:auto;">
 </h2>
-
 <h3 class="teaching-role">Assistant Professor</h3>
 <p class="teaching-meta">Department of Political Science · January 2022 – November 2023</p>
 
-### Courses Taught (Undergraduate)
-
-- Political Theory
-- Public Opinion and Survey Research
-- Comparative Politics
-- Dilemmas in Politics
-- Globalization and Political Economy
+<div class="teaching-timeline">
+  <div class="tl-entry">
+    <span class="tl-dot tl-dot-navy"></span>
+    <div class="tl-dept">Courses Taught (Undergraduate)</div>
+    <div class="tl-tags">
+      <span class="tl-tag tl-tag-plain">Political Theory</span>
+      <span class="tl-tag tl-tag-plain">Public Opinion and Survey Research</span>
+      <span class="tl-tag tl-tag-plain">Comparative Politics</span>
+      <span class="tl-tag tl-tag-plain">Dilemmas in Politics</span>
+      <span class="tl-tag tl-tag-plain">Globalization and Political Economy</span>
+    </div>
+  </div>
+</div>
 
 ---
 
