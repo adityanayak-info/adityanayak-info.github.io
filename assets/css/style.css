@@ -671,6 +671,13 @@ hr.profile-rule {
 
 .project-outputs-content a { font-size: 0.83rem; }
 
+.output-group-label{
+  font-size:0.78rem;
+  font-weight:600;
+  color:var(--navy);
+  margin:10px 0 6px;
+}
+
 /* ============================================================
    TEACHING
    ============================================================ */
