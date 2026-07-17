@@ -86,6 +86,8 @@ permalink: /projects/
   </div>
 </div>
 
+<!--
+
 <div class="project-card">
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Delivering Inequality: Quick Commerce and Digital Labour</a></h3>
@@ -122,7 +124,7 @@ permalink: /projects/
     <img src="{{ '/assets/img/consultancy.jpg' | relative_url }}" alt="Datafication of politics project">
   </div>
 </div>
-
+-->
 ---
 
 ## Policy & Governance Work
