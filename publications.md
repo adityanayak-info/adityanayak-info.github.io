@@ -22,6 +22,9 @@ permalink: /publications/
 <details class="pub-section" open>
 <summary>Journal Articles</summary>
 <div class="pub-section-content" markdown="1">
+
+- **2026** - Aditya Nayak\*, Aditi Vashistha\*, Alissa Centivany, and Aakash Gautam. **"Appearing Legitimate is Not Enough: Synthetic Agents, Personhood, and Legitimacy in Representational Processes"** In *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society* [AIES-26], October, 2026 (Upcoming)
+  
 - **2026** — Aditya Nayak, Aakash Gautam, and Rama Adithya Varanasi. **"Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment."** In *Proceedings of the 5th Annual Symposium on Human-Computer Interaction for Work (CHIWORK '26)*, Article 17, 1–16. Association for Computing Machinery. [DOI: 10.1145/3808045.3808070](https://doi.org/10.1145/3808045.3808070)
 
 - **2025** — Prerana Khatiwada, Alejandro Ciuba, Aditya Nayak, Aakash Gautam, and Matthew Louis Mauriello. **"Regulating Social Media: Surveying the Impact of Nepali Government's TikTok Ban."** *Proc. ACM Hum.-Comput. Interact.* 9, 7, Article CSCW467. [DOI: 10.1145/3757648](https://doi.org/10.1145/3757648)
