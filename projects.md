@@ -23,7 +23,7 @@ permalink: /projects/
 
 <p class="projects-intro">
   My work develops <em>participatory design for responsible technologies</em> across three
-  registers — designing for community participation in public sector AI,
+  registers: designing for community participation in public sector AI,
   the study of how people sustain individual and collective agency amid technology disruption, and the
   epistemological foundations of technology underlying the empirical work.
 </p>
