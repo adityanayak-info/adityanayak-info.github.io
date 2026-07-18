@@ -39,7 +39,6 @@ permalink: /projects/
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
         <a href="https://www.pairs.site/" target="_blank" rel="noopener">→ Presented at PAIRS'26: "From Distrust to Relationality: Designing a Web Platform for Centering Community Experiences in Public-Sector AI"</a>
-        <a href="#" target="_blank" rel="noopener">→ Forthcoming at AIES'26: "Appearing Legitimate is Not Enough: Synthetic Agents, Personhood, and Legitimacy in Representational Processes"</a>
         <p class="output-group-label">Workshops</p>
         <a href="https://www.4sonline.org/" target="_blank" rel="noopener">→ 2026 — "From Barriers to Bridges: Infrastructuring AI Literacy for Civic Inclusion." Open Panel organiser, Society for Social Studies of Science (4S 2026).</a>
       </div>
