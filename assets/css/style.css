@@ -682,7 +682,6 @@ hr.profile-rule {
   font-size:0.95rem;
   line-height:1.65;
   color:var(--slate);
-  max-width:60ch;
   margin:0 0 2.5rem;
   text-align:justify;
 }
