@@ -143,7 +143,7 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" class="project-card-link" target="_blank" rel="noopener">Governing AI: Curriculum &amp; Policy — IIIT-Delhi</a></h3>
+    <h3><a href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" class="project-card-link" target="_blank" rel="noopener">Global Policy Landscape and Theoretical Foundations of Governability</a></h3>
     <p class="project-meta">Research Associate · AI Governance Project, IIIT-Delhi · Jan–July 2024</p>
     <p>As Research Associate I contributed to the design of a graduate and undergraduate course, <em>Governing AI: Policy, History, Theory</em> — developing core readings that shaped the curriculum and situating AI regulation within its political, historical, and theoretical context, from the global regulatory landscape (EU, US, China, India) to the conceptual history of AI and the political theory of algorithmic systems and democratic agency. I also developed concept notes and convened panelists for two panels on AI governance.</p>
     <span class="project-tag">Curriculum Development</span><span class="project-tag">AI Policy</span><span class="project-tag">Political Theory of AI</span>
