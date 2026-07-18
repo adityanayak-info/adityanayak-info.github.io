@@ -72,7 +72,7 @@ permalink: /projects/
 <div class="project-card">
   <div class="project-card-body">
     <h3><a href="http://aihumanities.org/en/aihri/introduction/" class="project-card-link" target="_blank" rel="noopener">Epistemology and Philosophy of Technology</a></h3>
-    <p class="project-meta">JNU · AI Humanities Research Institute, Chung-Ang University · 2018–2022</p>
+    <p class="project-meta">JNU · AI Humanities Research Institute, Chung-Ang University, Korea · 2018–2022</p>
     <p>The philosophical foundation for my current empirical and design works. This body of work examines the underpinnings of artificial intelligence through political theory and critical epistemology. It asks how AI reshapes labour, perception, governance, and the production of knowledge, and argues for interdisciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
     <span class="project-tag">Philosophy of Technology</span><span class="project-tag">Critical Epistemology</span><span class="project-tag">Political Theory</span><span class="project-tag">AI &amp; Society</span>
     <details class="project-outputs">
@@ -144,7 +144,7 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" class="project-card-link" target="_blank" rel="noopener">Global Policy Landscape and Theoretical Foundations of Governability</a></h3>
+    <h3><a href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" class="project-card-link" target="_blank" rel="noopener">Global AI Policy Landscape and Theoretical Foundations of Governability</a></h3>
     <p class="project-meta">Research Associate · AI Governance Project, IIIT-Delhi · Jan–July 2024</p>
     <p>As Research Associate I contributed to the design of a graduate and undergraduate course, <em>Governing AI: Policy, History, Theory</em> — developing core readings that shaped the curriculum and situating AI regulation within its political, historical, and theoretical context, from the global regulatory landscape (EU, US, China, India) to the conceptual history of AI and the political theory of algorithmic systems and democratic agency. I also developed concept notes and convened panelists for two panels on AI governance.</p>
     <span class="project-tag">Curriculum Development</span><span class="project-tag">AI Policy</span><span class="project-tag">Political Theory of AI</span>
