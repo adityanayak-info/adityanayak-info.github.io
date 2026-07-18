@@ -21,55 +21,65 @@ permalink: /projects/
 
 ## Research Projects
 
+<p class="projects-intro">
+  My work develops <em>participatory design for responsible technologies</em> across three
+  registers — designing for community participation in public sector AI,
+  the study of how people sustain individual and collective agency amid technology disruption, and the
+  epistemological foundations of technology underlying the empirical work.
+</p>
+
+
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Designing for Community Trust in Public Sector AI</a></h3>
-    <p class="project-meta">With Abdulaziz Alotaibi & Aakash Gautam · University of Pittsburgh · 2025–Ongoing</p>
-    <p>This project seeks to develop participatory mechanisms that center community experiences — particularly those historically marginalized in decision-making about algorithmic systems — in the design and evaluation of public sector AI. The work interrogates conditions of distrust and proposes a relational approach to participatory AI design.</p>
-    <span class="project-tag">Participatory Design</span><span class="project-tag">Public-Sector AI</span><span class="project-tag">Community-centred Design</span>
+    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Infrastructuring Community Engagement in the Public-Sector AI</a></h3>
+    <p class="project-meta">Doctoral Research · Advised by Aakash Gautam · University of Pittsburgh · 2024–Ongoing</p>
+    <p>My doctoral research asks how community participation can be meaningfully centered in the development and deployment of public sector AI. My research approaches the problem with a relational lens for designing participatory mechanisms that build community engagement through existing intermediaries in the information ecosystem of AI development and deployment.</p>
+    <span class="project-tag">Participatory Design</span><span class="project-tag">Public Sector AI</span><span class="project-tag">Community-centred Design</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
-        <a href="https://www.pairs.site/" target="_blank" rel="noopener">→ Presented at PAIRS'26 symposium</a>
+        <a href="https://www.pairs.site/" target="_blank" rel="noopener">→ Presented at PAIRS'26: "From Distrust to Relationality: Designing a Web Platform for Centering Community Experiences in Public-Sector AI"</a>
+        <a href="#" target="_blank" rel="noopener">→ Forthcoming at AIES'26: "Appearing Legitimate is Not Enough: Synthetic Agents, Personhood, and Legitimacy in Representational Processes"</a>
+        <p class="output-group-label">Workshops</p>
+        <a href="https://www.4sonline.org/" target="_blank" rel="noopener">→ 2026 — "From Barriers to Bridges: Infrastructuring AI Literacy for Civic Inclusion." Open Panel organiser, Society for Social Studies of Science (4S 2026).</a>
       </div>
     </details>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/algohub.jpg' | relative_url }}" alt="Community AI project">
+    <img src="{{ '/assets/img/algohub.jpg' | relative_url }}" alt="Community participation in public-sector AI">
   </div>
 </div>
 
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Older Workers and Generative AI in Bridge Employment</a></h3>
-    <p class="project-meta">With Aakash Gautam & Rama Adithya Varanasi · University of Pittsburgh · 2024–2026</p>
-    <p>How do older workers navigate the integration of generative AI tools in bridge employment (work after career job but prior to full-retirement)? This project examines the concerns, strategic responses, and adaptive practices of older workers confronting AI in their workplaces, centering their experiences as knowledge rather than deficit.</p>
-    <span class="project-tag">HCI</span><span class="project-tag">AI & Work</span><span class="project-tag">Older Adults</span>
+    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">AI Resilience: Individual and Collective Agency</a></h3>
+    <p>This project develops <em>AI resilience</em> as the capacity to recognize, absorb, and strategically contest AI-driven disruption while sustaining <em>individual and collective agency</em>. Through interpretive empirical investigation, it traces how workers engage in <em>boundary work</em> — deliberately demarcating and protecting their contributions — to preserve agency as generative AI is deployed into their workplaces, and advances a <em>responsible AI</em> perspective in which resilience is supported not only individually but through collective (meso-level) and structural (macro-level) arrangements. A related strand carries the same concern with resilience in collective agency into representational settings, examining how the deployment of synthetic agents in place of human participants erodes collective agency and raises concerns for responsible AI deployment where legitimate participation is at stake and proposing soft and hard boundaries that protect human voices from displacement.</p>
+    <span class="project-tag">AI Resilience</span><span class="project-tag">Responsible AI</span><span class="project-tag">Technology Deployment</span><span class="project-tag">Individual &amp; Collective Agency</span><span class="project-tag">Boundary Work</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
-        <a href="https://doi.org/10.1145/3808045.3808070" target="_blank" rel="noopener">→ Paper at CHIWORK'26: Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment</a>
+        <a href="https://doi.org/10.1145/3808045.3808070" target="_blank" rel="noopener">→ Paper at CHIWORK'26: "Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment"</a>
+        <a href="#" target="_blank" rel="noopener">→ Forthcoming at AIES'26: "Appearing Legitimate is Not Enough: Synthetic Agents, Personhood, and Legitimacy in Representational Processes"</a>
       </div>
     </details>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/olderworkers.png' | relative_url }}" alt="Older workers and AI project">
+    <img src="{{ '/assets/img/olderworkers.png' | relative_url }}" alt="AI resilience, responsible AI, and individual and collective agency"/>
   </div>
 </div>
 
-
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Epistemology and Philosophy of Technology</a></h3>
+    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Foundations: Critical Epistemology and Philosophy of AI</a></h3>
     <p class="project-meta">Jawaharlal Nehru University · 2018–2022</p>
-    <p>This body of work examines the philosophical underpinnings of artificial intelligence through the lens of political theory and critical epistemology. It investigates how AI reshapes labour, perception, governance, and the production of knowledge — arguing for inter-disciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
-    <span class="project-tag">Philosophy of Technology</span><span class="project-tag">Epistemology</span><span class="project-tag">AI & Society</span>
+    <p>The philosophical foundation for my current empirical and design works. This body of work examines the underpinnings of artificial intelligence through political theory and critical epistemology. It asks how AI reshapes labour, perception, governance, and the production of knowledge, and arguing for interdisciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
+    <span class="project-tag">Philosophy of Technology</span><span class="project-tag">Critical Epistemology</span><span class="project-tag">Political Theory</span><span class="project-tag">AI &amp; Society</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
-        <a href="#" target="_blank" rel="noopener">→ MPhil. Thesis — "Artificial Intelligence and the Changing Forms of Work"</a>
-        <p style="font-size:0.78rem;font-weight:600;color:var(--navy);margin:0 0 6px;">Journal Articles</p>
+        <a href="#" target="_blank" rel="noopener">→ M.Phil. Thesis — "Artificial Intelligence and the Changing Forms of Work"</a>
+        <p class="output-group-label">Journal Articles</p>
         <a href="https://doi.org/10.46397/JAIH.9.4" target="_blank" rel="noopener">→ Socio-Political Implications of Data-Centric AI and the Need for Trans-Disciplinary Framework (2021)</a>
         <a href="https://doi.org/10.46397/JAIH.8.1" target="_blank" rel="noopener">→ Affective Labour in the Age of Algorithms and its Political Implications (2021)</a>
         <a href="https://doi.org/10.46397/JAIH.7.1" target="_blank" rel="noopener">→ Boredom, Time-Perception and Algorithmic Governmentality (2021)</a>
@@ -80,9 +90,11 @@ permalink: /projects/
     </details>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/philosophy.png' | relative_url }}" alt="Epistemology and Philosophy of Technology">
+    <img src="{{ '/assets/img/philosophy.png' | relative_url }}" alt="Critical epistemology and philosophy of AI">
   </div>
 </div>
+
+
 
 
 
@@ -127,23 +139,26 @@ permalink: /projects/
 -->
 ---
 
-## Policy & Governance Work
+## Policy & Curriculum
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">AI Governance — IIIT-Delhi</a></h3>
-    <p class="project-meta">Research Associate · Indraprastha Institute of Information Technology, Delhi · Jan–July 2024</p>
-    <p>Contributed to a project on AI governance with specific focus on the Indian policy landscape. Responsibilities included writing policy reports on AI regulation in India, developing curriculum materials on AI governance, and compiling political theory literature relevant to key issues within AI policy (autonomy, accountability, transparency, rights).</p>
-    <span class="project-tag">AI Policy</span><span class="project-tag">Curriculum Development</span>
+    <h3><a href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" class="project-card-link" target="_blank" rel="noopener">Governing AI: Curriculum &amp; Policy — IIIT-Delhi</a></h3>
+    <p class="project-meta">Research Associate · AI Governance Project, Dept. of Social Sciences &amp; Humanities, IIIT-Delhi · Jan–July 2024</p>
+    <p>As Research Associate on the AI Governance project at IIIT-Delhi, I contributed to the design of a graduate and undergraduate course, <em>Governing AI: Policy, History, Theory</em> — developing core readings that shaped the curriculum and situating AI regulation within its political, historical, and theoretical context, from the global regulatory landscape (EU, US, China, India) to the conceptual history of AI and the political theory of algorithmic systems and democratic agency. I also developed concept notes and convened panelists for two panels on AI governance.</p>
+    <span class="project-tag">Curriculum Development</span><span class="project-tag">AI Policy</span><span class="project-tag">Political Theory of AI</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
-        <p style="font-size:0.8rem;color:var(--text-muted);margin:0;">Coming soon</p>
+        <a href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" target="_blank" rel="noopener">→ Course: "Governing AI: Policy, History, Theory", IIIT-Delhi</a>
+        <p class="output-group-label">Related Panels</p>
+        <a href="https://compass.acm.org/panels/" target="_blank" rel="noopener">→ "Exploring Challenges and Future Trajectory of AI Governance," ACM COMPASS 2023</a>
+        <a href="https://iiitd.ac.in/ddc2024/" target="_blank" rel="noopener">→ "Just Institutions for AI Governance" (Panel 3), Digital Delhi Conclave 2023</a>
       </div>
     </details>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/iiit.jpg' | relative_url }}" alt="AI Governance IIIT-Delhi project">
+    <img src="{{ '/assets/img/iiit.jpg' | relative_url }}" alt="Governing AI curriculum and policy, IIIT-Delhi">
   </div>
 </div>
 
@@ -153,10 +168,10 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Krushi Karma Naturals</a></h3>
-    <p class="project-meta">With Winson RK (Founder) · Aditya Nayak (Co-Founder · Technology & Operations Lead) · Manipur, India · 2018–2020</p>
-    <p>A social entrepreneurship project that aggregated approximately 2,500 families of indigenous small farmers in Manipur in coordination with Mission Organic Value Chain Development for North East India (MOVCD-NER). The project focused on empowerment of farming communities through micro-credit access, education, and primary healthcare. Registered as a Private Limited company after 2020.</p>
-    <span class="project-tag">Social Entrepreneurship</span><span class="project-tag">Manipur</span><span class="project-tag">Agriculture</span>
+    <h3><a href="https://www.facebook.com/krushinaturals826" class="project-card-link" target="_blank" rel="noopener">Krushi Karma Naturals</a></h3>
+    <p class="project-meta">With Winson RK (Founder) · Aditya Nayak (Co-Founder · Technology &amp; Operations Lead) · Manipur, India · 2018–2020</p>
+    <p>A community-technology and social-entrepreneurship initiative I co-founded and led on the technology and operations side, coordinating roughly 2,500 indigenous small-farming families in Manipur — in partnership with MOVCD-NER — to bring their produce to metropolitan markets. Working under real infrastructural constraints, I built the everyday coordination systems for procurement, logistics, and warehousing, run through low-bandwidth, off-the-shelf tools such as mobile messaging and shared spreadsheets. This experience of building sociotechnical infrastructure with and for a underserved community is the practitioner foundation from which my participatory, community-engaged approach to technology was inspired.</p>
+    <span class="project-tag">Community Infrastructuring</span><span class="project-tag">Cooperative Organizing</span><span class="project-tag">Community-Engaged Practice</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
@@ -165,6 +180,6 @@ permalink: /projects/
     </details>
   </div>
   <div class="project-card-img">
-    <img src="{{ '/assets/img/krushikarma.jpg' | relative_url }}" alt="Krushi Karma Naturals project">
+    <img src="{{ '/assets/img/krushikarma.jpg' | relative_url }}" alt="Krushi Karma Naturals — community infrastructuring in Manipur">
   </div>
 </div>
