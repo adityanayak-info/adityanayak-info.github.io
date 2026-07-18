@@ -76,8 +76,6 @@ permalink: /teaching/
 <h3 class="teaching-role">Governing AI: Policy, History, Theory</h3>
 <p class="teaching-meta">Research Associate · AI Governance Project, IIIT-Delhi · Jan–July 2024</p>
 
-<p>As Research Associate, I contributed to the design of this graduate and undergraduate course, developing the core readings that shaped the curriculum. The course situates AI regulation within its political, historical, and theoretical context across four parts: the conceptual scheme of AI and governance; the global regulatory landscape (EU, US, China, India); the conceptual history of AI; and the political theory of algorithmic systems and democratic agency.</p>
-
 <div class="teaching-timeline">
   <div class="tl-entry">
     <span class="tl-dot tl-dot-navy"></span>
@@ -87,6 +85,10 @@ permalink: /teaching/
     </div>
   </div>
 </div>
+
+<p>As Research Associate, I contributed to the design of this graduate and undergraduate course, developing the core readings that shaped the curriculum. The course situates AI regulation within its political, historical, and theoretical context across four parts: the conceptual scheme of AI and governance; the global regulatory landscape (EU, US, China, India); the conceptual history of AI; and the political theory of algorithmic systems and democratic agency.</p>
+
+
 
 ## Mentorship & Evaluation
 
