@@ -681,8 +681,8 @@ hr.profile-rule {
 .projects-intro{
   font-size:0.95rem;
   line-height:1.65;
-  color:var(--slate);
-  margin:0 0 2.5rem;
+  color:var(--navy);
+  margin:0 0 3rem;
   text-align:justify;
 }
 
