@@ -69,6 +69,25 @@ permalink: /teaching/
 
 ---
 
+---
+
+## Curriculum Development
+
+<h3 class="teaching-role">Governing AI: Policy, History, Theory</h3>
+<p class="teaching-meta">Research Associate · AI Governance Project, IIIT-Delhi · Jan–July 2024</p>
+
+<p>As Research Associate, I contributed to the design of this graduate and undergraduate course, developing the core readings that shaped the curriculum. The course situates AI regulation within its political, historical, and theoretical context across four parts: the conceptual scheme of AI and governance; the global regulatory landscape (EU, US, China, India); the conceptual history of AI; and the political theory of algorithmic systems and democratic agency.</p>
+
+<div class="teaching-timeline">
+  <div class="tl-entry">
+    <span class="tl-dot tl-dot-navy"></span>
+    <div class="tl-dept">Course Syllabus</div>
+    <div class="tl-tags">
+      <a class="tl-tag" href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" target="_blank" rel="noopener"><span class="course-code">SSH 341/541</span> Governing AI: Policy, History, Theory</a>
+    </div>
+  </div>
+</div>
+
 ## Mentorship & Evaluation
 
 **Undergraduate Thesis External Examiner**
