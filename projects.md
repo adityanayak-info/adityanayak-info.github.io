@@ -71,14 +71,16 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Epistemology and Philosophy of Technology</a></h3>
-    <p class="project-meta">Jawaharlal Nehru University · 2018–2022</p>
+    <h3><a href="http://aihumanities.org/en/aihri/introduction/" class="project-card-link" target="_blank" rel="noopener">Epistemology and Philosophy of Technology</a></h3>
+    <p class="project-meta">JNU · AI Humanities Research Institute, Chung-Ang University · 2018–2022</p>
     <p>The philosophical foundation for my current empirical and design works. This body of work examines the underpinnings of artificial intelligence through political theory and critical epistemology. It asks how AI reshapes labour, perception, governance, and the production of knowledge, and argues for interdisciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
     <span class="project-tag">Philosophy of Technology</span><span class="project-tag">Critical Epistemology</span><span class="project-tag">Political Theory</span><span class="project-tag">AI &amp; Society</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
         <a href="#" target="_blank" rel="noopener">→ M.Phil. Thesis — "Artificial Intelligence and the Changing Forms of Work"</a>
+        <p class="output-group-label">Editorial Service</p>
+        <a href="http://aihumanities.org/en/journal/jaih/" target="_blank" rel="noopener">→ Editorial Board Member, Journal of AI Humanities (JAIH), Chung-Ang University — since 2022</a>
         <p class="output-group-label">Journal Articles</p>
         <a href="https://doi.org/10.46397/JAIH.9.4" target="_blank" rel="noopener">→ Socio-Political Implications of Data-Centric AI and the Need for Trans-Disciplinary Framework (2021)</a>
         <a href="https://doi.org/10.46397/JAIH.8.1" target="_blank" rel="noopener">→ Affective Labour in the Age of Algorithms and its Political Implications (2021)</a>
@@ -93,7 +95,6 @@ permalink: /projects/
     <img src="{{ '/assets/img/philosophy.png' | relative_url }}" alt="Critical epistemology and philosophy of AI">
   </div>
 </div>
-
 
 
 
