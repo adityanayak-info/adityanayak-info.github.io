@@ -679,7 +679,7 @@ hr.profile-rule {
 }
 
 .projects-intro{
-  font-size:1.06rem;
+  font-size:0.75rem;
   line-height:1.6;
   color:var(--navy);
   max-width:60ch;
