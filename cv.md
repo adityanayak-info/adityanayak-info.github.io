@@ -37,7 +37,7 @@ permalink: /cv/
 
 <div class="cv-embed-wrap">
   <iframe
-    src="https://drive.google.com/file/d/1Q_Fyvx5BJp_CEUwSYY0CbHtAVNiMPWhO/preview"
+    src="https://drive.google.com/file/d/1ZOKvyYpJZGZQgrB5DQZ8AET12KSChKwf/view?usp=sharing"
     title="Aditya Nayak — Curriculum Vitae"
     allow="autoplay"
     loading="lazy">
