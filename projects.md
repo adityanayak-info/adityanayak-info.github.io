@@ -73,7 +73,7 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Epistemology and Philosophy of AI</a></h3>
     <p class="project-meta">Jawaharlal Nehru University · 2018–2022</p>
-    <p>The philosophical foundation for my current empirical and design works. This body of work examines the underpinnings of artificial intelligence through political theory and critical epistemology. It asks how AI reshapes labour, perception, governance, and the production of knowledge, and arguing for interdisciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
+    <p>The philosophical foundation for my current empirical and design works. This body of work examines the underpinnings of artificial intelligence through political theory and critical epistemology. It asks how AI reshapes labour, perception, governance, and the production of knowledge, and argues for interdisciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
     <span class="project-tag">Philosophy of Technology</span><span class="project-tag">Critical Epistemology</span><span class="project-tag">Political Theory</span><span class="project-tag">AI &amp; Society</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
@@ -170,7 +170,7 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="https://www.facebook.com/krushinaturals826" class="project-card-link" target="_blank" rel="noopener">Krushi Karma Naturals</a></h3>
     <p class="project-meta">With Winson RK (Founder) · Aditya Nayak (Co-Founder · Technology &amp; Operations Lead) · Manipur, India · 2018–2020</p>
-    <p>A community-technology and social-entrepreneurship initiative I co-founded and led on the technology and operations side, coordinating roughly 2,500 indigenous small-farming families in Manipur — in partnership with MOVCD-NER — to bring their produce to metropolitan markets. Working under real infrastructural constraints, I built the everyday coordination systems for procurement, logistics, and warehousing, run through low-bandwidth, off-the-shelf tools such as mobile messaging and shared spreadsheets. This experience of building sociotechnical infrastructure with and for a underserved community is the practitioner foundation from which my participatory, community-engaged approach to technology was inspired.</p>
+    <p>A community-technology and social-entrepreneurship initiative I co-founded and led on the technology and operations side, coordinating roughly 2,500 indigenous small-farming families in Manipur — in partnership with MOVCD-NER — to bring their produce to metropolitan markets. Working under real infrastructural constraints, I built the everyday coordination systems for procurement, logistics, and warehousing, run through low-bandwidth, off-the-shelf tools such as mobile messaging and shared spreadsheets. This experience of building sociotechnical infrastructure with and for an underserved community is the practitioner foundation from which my participatory, community-engaged approach to technology was inspired.</p>
     <span class="project-tag">Community Infrastructuring</span><span class="project-tag">Cooperative Organizing</span><span class="project-tag">Community-Engaged Practice</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
