@@ -153,8 +153,8 @@ permalink: /projects/
       <div class="project-outputs-content">
         <a href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" target="_blank" rel="noopener">→ Course: "Governing AI: Policy, History, Theory", IIIT-Delhi</a>
         <p class="output-group-label">Related Panels</p>
-        <a href="https://compass.acm.org/panels/" target="_blank" rel="noopener">→ "Exploring Challenges and Future Trajectory of AI Governance," ACM COMPASS 2023</a>
-        <a href="https://iiitd.ac.in/ddc2024/" target="_blank" rel="noopener">→ "Just Institutions for AI Governance" (Panel 3), Digital Delhi Conclave 2023</a>
+        <a href="https://compass.acm.org/panels/" target="_blank" rel="noopener">→ ACM COMPASS 2023 "Exploring Challenges and Future Trajectory of AI Governance,"</a>
+        <a href="https://iiitd.ac.in/ddc2024/" target="_blank" rel="noopener">→Digital Delhi Conclave 2023 "Just Institutions for AI Governance"</a>
       </div>
     </details>
   </div>
