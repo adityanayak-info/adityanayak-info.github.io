@@ -683,7 +683,7 @@ hr.profile-rule {
   line-height:1.6;
   color:var(--navy);
   max-width:60ch;
-  margin:0 0 2rem;
+  margin:0 0 2.5rem;
   padding-left:14px;
   border-left:3px solid var(--burgundy);
 }
