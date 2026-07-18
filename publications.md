@@ -77,7 +77,7 @@ permalink: /publications/
 
 - **2025** — **"Principles and Performance Metrics Makerspace."** Workshop volunteer, *ACM EAAMO — Equity and Access in Algorithms, Mechanisms, and Optimization*. Coordinated the "AI Procurement" table.
 
-- **2025** — **"Powering Progress through Data."** Workshop volunteer, *PRJS 2025*, organized by CAASI.
+- **2025** — **"Powering Progress through Data."** Workshop volunteer, *PRJS 2025*, organized by Centre for Analaytical Approaches to Social Innovation (CAASI), Univ. of Pittsburgh.
 
 - **2025** — **"Diagrammatic Technique for Co-Design in Academic Research."** *Winter School in Science and Technology Studies (STS)*, organized by IIT Delhi and STS-India Network.
 
