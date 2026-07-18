@@ -20,8 +20,9 @@ permalink: /cv/
 
 <div class="cv-actions">
   <!-- Replace the # below with your actual Google Drive share link or direct PDF URL -->
-  <a class="btn btn-primary" href="https://drive.google.com/file/d/1Q_Fyvx5BJp_CEUwSYY0CbHtAVNiMPWhO/view?usp=sharing" target="_blank" rel="noopener">Download PDF</a>
+  <a class="btn btn-primary" href="https://drive.google.com/uc?export=download&id=1vRQH2L6NBDGCro6wcpaUmBqgBCqJ5npG" target="_blank" rel="noopener">Download PDF</a>
 </div>
+
 
 <!-- ═══════════════════════════════════════════════════════════
      GOOGLE DRIVE PDF EMBED
@@ -37,7 +38,7 @@ permalink: /cv/
 
 <div class="cv-embed-wrap">
   <iframe
-    src="https://drive.google.com/file/d/1ZOKvyYpJZGZQgrB5DQZ8AET12KSChKwf/preview"
+    src="https://drive.google.com/file/d/1vRQH2L6NBDGCro6wcpaUmBqgBCqJ5npG/preview"
     title="Aditya Nayak — Curriculum Vitae"
     allow="autoplay"
     loading="lazy">
