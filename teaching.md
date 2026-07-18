@@ -90,7 +90,13 @@ permalink: /teaching/
 
 
 
-## Mentorship & Evaluation
+## Mentorship & Supervision
+
+**Interactive Platform for Research** · 2026–Present
+Supervising an undergraduate student (Department of Computer Science, University of Pittsburgh) building the interactive platform for my doctoral research, applying natural language processing (spaCy, HuggingFace Transformers) to classify and organize text and surface themes.
+
+**Algorithm-Simulation Tool** · 2026–Present
+Supervising an undergraduate student (Department of Computer Science, University of Pittsburgh) developing a simulation tool for participatory learning workshops.
 
 **Undergraduate Thesis External Examiner**
 Evaluated the thesis *"Rethinking Politics with Arthasastra: Exploring the Interplay of Dharma and Artha in Kautilyan Thought"* — Department of Political Science, Ramjas College, University of Delhi.
