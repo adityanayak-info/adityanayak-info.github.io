@@ -37,14 +37,14 @@ permalink: /cv/
 
 <div class="cv-embed-wrap">
   <iframe
-    src="https://drive.google.com/file/d/1ZOKvyYpJZGZQgrB5DQZ8AET12KSChKwf/view?usp=sharing"
+    src="https://drive.google.com/file/d/1ZOKvyYpJZGZQgrB5DQZ8AET12KSChKwf/preview"
     title="Aditya Nayak — Curriculum Vitae"
     allow="autoplay"
     loading="lazy">
   </iframe>
 </div>
 
-*Last updated: June 2026*
+*Last updated: July 2026*
 
 ---
 
