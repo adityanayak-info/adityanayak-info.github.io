@@ -20,7 +20,7 @@ permalink: /publications/
 </div>
 
 <details class="pub-section" open>
-<summary>Journal Articles</summary>
+<summary>Conference Proceedings and Journal Articles</summary>
 <div class="pub-section-content" markdown="1">
 
 - **2026** - Aditya Nayak\*, Aditi Vashistha\*, Alissa Centivany, and Aakash Gautam. **"Appearing Legitimate is Not Enough: Synthetic Agents, Personhood, and Legitimacy in Representational Processes"** In *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society* [AIES-26], October, 2026 (Upcoming)
