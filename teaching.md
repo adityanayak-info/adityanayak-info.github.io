@@ -69,7 +69,6 @@ permalink: /teaching/
 
 ---
 
----
 
 ## Curriculum Development
 
