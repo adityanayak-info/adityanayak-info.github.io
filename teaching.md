@@ -44,7 +44,8 @@ permalink: /teaching/
     </div>
   </div>
 </div>
----
+
+
 <h2 class="institution-heading">
   Lady Shri Ram College, University of Delhi
   <img src="{{ '/assets/img/lsr-logo.jpg' | relative_url }}" alt="Lady Shri Ram College" style="height:28px;width:auto;margin-left:auto;">
@@ -66,8 +67,6 @@ permalink: /teaching/
     </div>
   </div>
 </div>
-
----
 
 
 ## Curriculum Development
