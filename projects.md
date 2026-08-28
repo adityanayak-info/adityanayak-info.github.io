@@ -31,7 +31,7 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">Community Engagement in Public Sector AI</a></h3>
+    <h3><a href="#" class="project-card-link">Community Engagement in Public Sector AI</a></h3>
     <p class="project-meta">Doctoral Research · Advised by Aakash Gautam · University of Pittsburgh · 2024–Ongoing</p>
     <p>My doctoral research asks how community participation can be meaningfully centered in the development and deployment of public sector AI. My research approaches the problem with a relational lens for designing participatory mechanisms that build community engagement through existing intermediaries in the information ecosystem of AI development and deployment.</p>
     <span class="project-tag">Participatory Design</span><span class="project-tag">Public Sector AI</span><span class="project-tag">Community-centred Design</span>
@@ -52,7 +52,7 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" class="project-card-link" target="_blank" rel="noopener">AI Resilience: Individual and Collective Agency</a></h3>
+    <h3><a href="#" class="project-card-link">AI Resilience: Individual and Collective Agency</a></h3>
     <p class="project-meta">Human–AI Interaction · University of Pittsburgh · 2024–2026</p>
     <p>This project develops <em>AI resilience</em> as the capacity to recognize, absorb, and strategically contest AI-driven disruption while sustaining <em>individual and collective agency</em>. It traces how workers engage in <em>boundary work</em>, deliberately demarcating and protecting their situated knowledge to preserve agency as generative AI is deployed into their workplaces. A related strand examines how the deployment of synthetic agents in place of human participants erodes collective agency and raises concerns for responsible AI deployment where legitimate participation is at stake and proposes soft and hard boundaries that protect human voices from displacement.</p>
     <span class="project-tag">AI Resilience</span><span class="project-tag">Responsible AI</span><span class="project-tag">Technology Deployment</span><span class="project-tag">Individual &amp; Collective Agency</span><span class="project-tag">Boundary Work</span>
@@ -71,7 +71,7 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="http://aihumanities.org/en/aihri/introduction/" class="project-card-link" target="_blank" rel="noopener">Epistemology and Philosophy of Technology</a></h3>
+    <h3><a href="#" class="project-card-link">Epistemology and Philosophy of Technology</a></h3>
     <p class="project-meta">JNU · AI Humanities Research Institute, Chung-Ang University, Korea · 2018–2022</p>
     <p>The philosophical foundation for my current empirical and design works. This body of work examines the underpinnings of artificial intelligence through political theory and critical epistemology. It asks how AI reshapes labour, perception, governance, and the production of knowledge, and argues for interdisciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
     <span class="project-tag">Philosophy of Technology</span><span class="project-tag">Critical Epistemology</span><span class="project-tag">Political Theory</span><span class="project-tag">AI &amp; Society</span>
@@ -144,7 +144,7 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" class="project-card-link" target="_blank" rel="noopener">Global AI Policy Landscape and Theoretical Foundations of Governability</a></h3>
+    <h3><a href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" target="_blank" rel="noopener">Global AI Policy Landscape and Theoretical Foundations of Governability</a></h3>
     <p class="project-meta">Research Associate · AI Governance Project, IIIT-Delhi · Jan–July 2024</p>
     <p>As Research Associate I contributed to the design of a graduate and undergraduate course, <em>Governing AI: Policy, History, Theory</em> — developing core readings that shaped the curriculum and situating AI regulation within its political, historical, and theoretical context, from the global regulatory landscape (EU, US, China, India) to the conceptual history of AI and the political theory of algorithmic systems and democratic agency. I also developed concept notes and convened panelists for two panels on AI governance.</p>
     <span class="project-tag">Curriculum Development</span><span class="project-tag">AI Policy</span><span class="project-tag">Political Theory of AI</span>
@@ -169,7 +169,7 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="https://www.facebook.com/krushinaturals826" class="project-card-link" target="_blank" rel="noopener">Krushi Karma Naturals</a></h3>
+    <h3><a href="https://www.facebook.com/krushinaturals826" target="_blank" rel="noopener">Krushi Karma Naturals</a></h3>
     <p class="project-meta">With Winson RK (Founder) · Aditya Nayak (Co-Founder · Technology &amp; Operations Lead) · Manipur, India · 2018–2020</p>
     <p>A community-technology and social-entrepreneurship initiative I co-founded and led on the technology and operations side, coordinating roughly 2,500 indigenous small-farming families in Manipur — in partnership with MOVCD-NER — to bring their produce to metropolitan markets. Working under real infrastructural constraints, I built the everyday coordination systems for procurement, logistics, and warehousing, run through low-bandwidth, off-the-shelf tools such as mobile messaging and shared spreadsheets. This experience of building sociotechnical infrastructure with and for an underserved community is the practitioner foundation that inspired my participatory, community-engaged approach to technology.</p>
     <span class="project-tag">Community Infrastructuring</span><span class="project-tag">Cooperative Organizing</span><span class="project-tag">Community-Engaged Practice</span>
@@ -184,3 +184,13 @@ permalink: /projects/
     <img src="{{ '/assets/img/krushikarma.jpg' | relative_url }}" alt="Krushi Karma Naturals — community infrastructuring in Manipur">
   </div>
 </div>
+
+<script>
+document.querySelectorAll('.project-card-link').forEach(function (link) {
+  link.addEventListener('click', function (e) {
+    e.preventDefault();
+    var details = this.closest('.project-card-body').querySelector('.project-outputs');
+    if (details) details.open = !details.open;
+  });
+});
+</script>
