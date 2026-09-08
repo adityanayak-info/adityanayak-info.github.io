@@ -2,7 +2,7 @@
 # SITE CONFIGURATION
 # ============================================================
 title: "Aditya Nayak"
-tagline: "HCI Researcher, University of Pittsburgh"   # ← NEW: seo-tag appends this on the homepage
+tagline: "HCI Researcher, University of Pittsburgh" 
 description: >-                                        
   HCI researcher at the STIW Lab, University of Pittsburgh, using
   participatory design to build community-centered mechanisms for
@@ -12,11 +12,11 @@ description: >-
 author:
   name: "Aditya Nayak"
   email: "aditya.nayak@pitt.edu"
-  linkedin: "https://www.linkedin.com/in/adityanayak826/"                    # ← FILLED IN
-  scholar: "https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en"    # ← FILLED IN
+  linkedin: "https://www.linkedin.com/in/adityanayak826/"                    
+  scholar: "https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en"    
 
 # ── Entity disambiguation (emits sameAs in JSON-LD) ─────────
-social:                                                # ← NEW
+social:                                                
   name: "Aditya Nayak"
   links:
     - "https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en"
