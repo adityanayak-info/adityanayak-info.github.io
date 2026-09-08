@@ -811,6 +811,13 @@ hr.profile-rule {
   margin-right: 4px;
 }
 
+.tl-course-list li {
+  font-size: 0.85rem;
+  color: var(--navy);
+  margin-bottom: 4px;
+  line-height: 1.4;
+}
+
 
 
 /* ============================================================
