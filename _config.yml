@@ -1,38 +1,47 @@
 # ============================================================
 # SITE CONFIGURATION
-# Edit the fields below to customise your website.
 # ============================================================
-
 title: "Aditya Nayak"
-description: "PhD Student · School of Computing and Information · University of Pittsburgh"
+tagline: "HCI Researcher, University of Pittsburgh"   # ← NEW: seo-tag appends this on the homepage
+description: >-                                        # ← REWRITTEN for search snippets
+  HCI researcher at the STIW Lab, University of Pittsburgh, using
+  participatory design to build community-centered mechanisms for
+  public-sector AI and responsible technology.
 
 # ── Contact & Profile Links ─────────────────────────────────
 author:
   name: "Aditya Nayak"
   email: "aditya.nayak@pitt.edu"
-  linkedin: "https://www.linkedin.com/in/"       # ← Add your LinkedIn profile URL
-  scholar: "https://scholar.google.com/"          # ← Add your Google Scholar URL
+  linkedin: "https://www.linkedin.com/in/adityanayak826/"                    # ← FILLED IN
+  scholar: "https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en"    # ← FILLED IN
 
-# ── GitHub Pages Deployment ──────────────────────────────────
-# If your repo is named  username.github.io  (root), leave baseurl empty.
-# If your repo is named  something-else,  set: baseurl: "/something-else"
+# ── Entity disambiguation (emits sameAs in JSON-LD) ─────────
+social:                                                # ← NEW
+  name: "Aditya Nayak"
+  links:
+    - "https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en"
+    - "https://www.linkedin.com/in/adityanayak826/"
+    - "https://www.researchgate.net/profile/Aditya-Nayak-9"
+    - "https://pitt.academia.edu/AdityaNayak"
+
+# ── GitHub Pages Deployment ─────────────────────────────────
 baseurl: ""
-url: "https://adityanayak-info.github.io"             # ← Replace with your GitHub Pages URL
+url: "https://adityanayak-info.github.io"
+
 defaults:
   - scope:
       path: ""
     values:
       image: /assets/img/og-image.png
-# ── Build Settings ───────────────────────────────────────────
+
+# ── Build Settings ──────────────────────────────────────────
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-
 exclude:
   - Gemfile
   - Gemfile.lock
