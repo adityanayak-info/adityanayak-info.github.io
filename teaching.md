@@ -31,17 +31,17 @@ permalink: /teaching/
   <div class="tl-entry">
     <span class="tl-dot"></span>
     <div class="tl-dept">Department of Computer Science <span class="tl-position">· Lab Recitations</span></div>
-    <div class="tl-tags">
-      <a class="tl-tag" href="https://courses.sci.pitt.edu/courses/view/CS-0011" target="_blank" rel="noopener"><span class="course-code">CS-0011</span> Introduction to Computing for Scientists</a>
-      <a class="tl-tag" href="https://courses.sci.pitt.edu/courses/view/CS-12" target="_blank" rel="noopener"><span class="course-code">CS-0012</span> Introduction to Computing for the Humanities</a>
-    </div>
+    <ul class="tl-course-list">
+      <li><a href="https://courses.sci.pitt.edu/courses/view/CS-0011" target="_blank" rel="noopener"><span class="course-code">CS-0011</span> Introduction to Computing for Scientists</a></li>
+      <li><a href="https://courses.sci.pitt.edu/courses/view/CS-12" target="_blank" rel="noopener"><span class="course-code">CS-0012</span> Introduction to Computing for the Humanities</a></li>
+    </ul>
   </div>
   <div class="tl-entry">
     <span class="tl-dot"></span>
     <div class="tl-dept">Department of Information Culture and Data Stewardship <span class="tl-position">· Teaching Assistant</span></div>
-    <div class="tl-tags">
-      <a class="tl-tag" href="https://hcommons.org/groups/lis-2970-art-data-in-libraries-and-archives/" target="_blank" rel="noopener"><span class="course-code">LIS-2970</span> Art + Data in Libraries and Archives</a>
-    </div>
+    <ul class="tl-course-list">
+      <li><a href="https://hcommons.org/groups/lis-2970-art-data-in-libraries-and-archives/" target="_blank" rel="noopener"><span class="course-code">LIS-2970</span> Art + Data in Libraries and Archives</a></li>
+    </ul>
   </div>
 </div>
 
@@ -57,14 +57,14 @@ permalink: /teaching/
   <div class="tl-entry">
     <span class="tl-dot tl-dot-navy"></span>
     <div class="tl-dept">Courses Taught (Undergraduate)</div>
-    <div class="tl-tags">
-      <span class="tl-tag tl-tag-plain">Political Theory</span>
-      <span class="tl-tag tl-tag-plain">Public Opinion and Survey Research</span>
-      <span class="tl-tag tl-tag-plain">Legal Literacy</span>
-      <span class="tl-tag tl-tag-plain">Comparative Politics</span>
-      <span class="tl-tag tl-tag-plain">Dilemmas in Politics</span>
-      <span class="tl-tag tl-tag-plain">Globalization and Political Economy</span>
-    </div>
+    <ul class="tl-course-list">
+      <li>Political Theory</li>
+      <li>Public Opinion and Survey Research</li>
+      <li>Legal Literacy</li>
+      <li>Comparative Politics</li>
+      <li>Dilemmas in Politics</li>
+      <li>Globalization and Political Economy</li>
+    </ul>
   </div>
 </div>
 
@@ -78,9 +78,9 @@ permalink: /teaching/
   <div class="tl-entry">
     <span class="tl-dot tl-dot-navy"></span>
     <div class="tl-dept">Course Syllabus</div>
-    <div class="tl-tags">
-      <a class="tl-tag" href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" target="_blank" rel="noopener"><span class="course-code">SSH 341/541</span> Governing AI: Policy, History, Theory</a>
-    </div>
+    <ul class="tl-course-list">
+      <li><a href="https://techtree.iiitd.edu.in/viewDescription/filename?=SSH341" target="_blank" rel="noopener"><span class="course-code">SSH 341/541</span> Governing AI: Policy, History, Theory</a></li>
+    </ul>
   </div>
 </div>
 
@@ -104,4 +104,3 @@ Evaluated the thesis *"Rethinking Politics with Arthasastra: Exploring the Inter
 - **University Question Paper Setting** — Served on paper-setting committee for University of Delhi examinations
 - **Admission Committee 2022–23** — Member of college admissions committee, LSR
 - **Faculty Advisor**, Prakriti Society, LSR — Advised the college environmental society
-
