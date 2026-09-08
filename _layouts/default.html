@@ -27,7 +27,7 @@
   <!-- FALLBACK Person schema. Uncomment ONLY if
        curl -s https://adityanayak-info.github.io/ | grep '"@type"'
        returns something other than "Person". -->
-  {% comment %}
+  <!-- Person schema — disambiguates from other Aditya Nayaks. -->
   {% if page.url == '/' %}
   <script type="application/ld+json">
   {
@@ -51,6 +51,7 @@
       "Computer-Supported Cooperative Work"
     ],
     "sameAs": [
+      "https://orcid.org/XXXX-XXXX-XXXX-XXXX",
       "https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en",
       "https://www.linkedin.com/in/adityanayak826/",
       "https://www.researchgate.net/profile/Aditya-Nayak-9",
@@ -59,7 +60,6 @@
   }
   </script>
   {% endif %}
-  {% endcomment %}
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-RPQRD8PD6W"></script>
