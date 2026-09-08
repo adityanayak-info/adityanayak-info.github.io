@@ -782,39 +782,36 @@ hr.profile-rule {
   color: var(--slate);
 }
 
-.tl-tags {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
+.tl-course-list {
+  margin: 6px 0 0;
+  padding-left: 20px;
+  list-style: disc;
 }
 
-.tl-tag {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 0.78rem;
+.tl-course-list li {
+  font-size: 0.85rem;
+  color: var(--slate);
+  margin-bottom: 4px;
+  line-height: 1.4;
+}
+
+.tl-course-list a {
   color: var(--navy);
-  background: var(--bg);
-  border: 1px solid var(--slate);
-  padding: 4px 12px;
-  border-radius: 14px;
   text-decoration: none;
-  transition: border-color 0.15s ease;
 }
 
-.tl-tag:hover {
-  border-color: var(--burgundy);
+.tl-course-list a:hover {
+  text-decoration: underline;
 }
 
-.tl-tag-plain {
-  cursor: default;
-}
-
-.tl-tag .course-code {
+.tl-course-list .course-code {
   font-family: monospace;
   color: var(--burgundy);
   font-weight: 600;
+  margin-right: 4px;
 }
+
+
 
 /* ============================================================
    INTEREST TAGS
