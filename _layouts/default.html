@@ -3,8 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="{% if page.desktop_only %}width=1024{% else %}width=device-width, initial-scale=1.0{% endif %}">
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <title>{% if page.title and page.title != 'Home' %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+
+  <!-- SEO — jekyll-seo-tag owns <title>, description, og:*, twitter:*, JSON-LD.
+       Do NOT add manual <title> or <meta name="description"> here.
+       Configure via title / tagline / description / social in _config.yml. -->
+  {% seo %}
 
   <!-- Fonts: Crimson Pro (headings) + Inter (body) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -12,7 +15,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&family=Dancing+Script&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  {% seo %}
 
   <meta name="google-site-verification" content="5CZTX9Pg1uzk_rBVX9_XwJyGLT8wVFbvQXD_rKbtZTM" />
 
@@ -22,8 +24,44 @@
   <link rel="apple-touch-icon" href="{{ '/favicon-180.png' | relative_url }}">
   <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
 
+  <!-- FALLBACK Person schema. Uncomment ONLY if
+       curl -s https://adityanayak-info.github.io/ | grep '"@type"'
+       returns something other than "Person". -->
+  {% comment %}
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Aditya Nayak",
+    "url": "https://adityanayak-info.github.io",
+    "image": "https://adityanayak-info.github.io/assets/img/FIMS.jpg",
+    "jobTitle": "PhD Student",
+    "email": "mailto:aditya.nayak@pitt.edu",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "School of Computing and Information, University of Pittsburgh",
+      "url": "https://www.sci.pitt.edu"
+    },
+    "knowsAbout": [
+      "Human-Computer Interaction",
+      "Participatory Design",
+      "Public Sector AI",
+      "Responsible AI",
+      "Computer-Supported Cooperative Work"
+    ],
+    "sameAs": [
+      "https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en",
+      "https://www.linkedin.com/in/adityanayak826/",
+      "https://www.researchgate.net/profile/Aditya-Nayak-9",
+      "https://pitt.academia.edu/AdityaNayak"
+    ]
+  }
+  </script>
+  {% endif %}
+  {% endcomment %}
 
-    <!-- Google tag (gtag.js) -->
+  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-RPQRD8PD6W"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -33,7 +71,6 @@
     gtag('config', 'G-RPQRD8PD6W');
   </script>
 
-  
 </head>
 <body>
 
@@ -45,7 +82,9 @@
 
       <div class="site-brand">
         <a href="{{ '/' | relative_url }}" class="site-name">{{ site.title }}</a>
-        <span class="site-tagline">{{ site.description }}</span>
+        <!-- Hardcoded: site.description is now a longer, keyword-bearing
+             string written for search snippets, too long for the header. -->
+        <span class="site-tagline">PhD Student · School of Computing and Information · University of Pittsburgh</span>
       </div>
 
       <nav class="site-nav" aria-label="Main navigation">
@@ -63,7 +102,7 @@
 
         <a href="{{ '/cv/' | relative_url }}"
           {% if page.url contains '/cv' %}class="active"{% endif %}>CV</a>
-        
+
       </nav>
 
     </div>
@@ -76,7 +115,6 @@
       <!-- ═══════════════════════════════════════════
            HOMEPAGE PROFILE — full width, above sidebar
            Edit bio paragraphs, links and photo here.
-           To change photo: update the src path below.
       ════════════════════════════════════════════ -->
       <div class="home-hero">
         <div class="profile-section">
@@ -86,16 +124,17 @@
             <div class="photo-hover-wrap">
               <img class="photo-default" src="{{ '/assets/img/FIMS.jpg' | relative_url }}" alt="Aditya Nayak, PhD Student at the School of Computing and Information, University of Pittsburgh, standing outdoors near a university building.">
               <img class="photo-duotone" src="{{ '/assets/img/FIMS_duotone.jpg' | relative_url }}" alt="" aria-hidden="true">
-              <div class="photo-caption">alt: Aditya Nayak, PhD Student at the School of Computing and Information, University of Pittsburgh, standing outdoors near a university building.</div>
+              <!-- Dropped the literal "alt:" prefix — Google was indexing it
+                   and serving it verbatim in search snippets. -->
+              <div class="photo-caption">Aditya Nayak · School of Computing and Information, University of Pittsburgh</div>
             </div>
 
             <div class="contact-links">
-              
+
               <a href="https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar" data-tooltip="Google Scholar">
                 <svg viewBox="0 0 24 24" fill="#123C69" width="22" height="22" aria-hidden="true"><path d="M12 3 1 9l4 2.18V17l7 4 7-4v-5.82L23 9zm6.36 7L12 13.36 5.64 10 12 6.64zM17 15.56l-5 2.86-5-2.86v-3.73L12 14l5-2.17z"/></svg>
               </a>
-              
-          
+
               <a href="https://www.linkedin.com/in/adityanayak826/" target="_blank" rel="noopener" aria-label="LinkedIn" data-tooltip="LinkedIn">
                 <svg viewBox="0 0 24 24" fill="#123C69" width="22" height="22" aria-hidden="true"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg>
               </a>
@@ -104,13 +143,10 @@
                 <svg viewBox="0 0 24 24" fill="none" stroke="#123C69" stroke-width="2" width="22" height="22" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
               </a>
 
-              
-
             </div>
           </div>
 
           <!-- ── Right column: name + bio ── -->
-          <!-- Edit your bio paragraphs below -->
           <div class="profile-text">
             <h1>Aditya Nayak</h1>
             <p class="profile-subtitle">PhD Student · School of Computing and Information, University of Pittsburgh</p>
@@ -142,8 +178,6 @@
 
       <!-- ═══════════════════════════════════════════
            TWO-COLUMN LAYOUT
-           Sidebar starts here — below the profile on homepage,
-           from the top on all other pages.
       ════════════════════════════════════════════ -->
       <div class="page-layout">
 
@@ -163,14 +197,14 @@
           <svg viewBox="0 0 24 24" fill="#123C69" width="16" height="16" aria-hidden="true"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg>
           LinkedIn
         </a>
-        
+
         <a href="mailto:aditya.nayak@pitt.edu" aria-label="Email">
           <svg viewBox="0 0 24 24" fill="none" stroke="#123C69" stroke-width="2" width="16" height="16" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
           Email
         </a>
 
       </div>
-      
+
     </div>
     <div class="sidebar-card" style="margin-top:16px;">
       <h3 class="sidebar-heading">Recent Updates</h3>
@@ -212,6 +246,8 @@
 
   <!-- ═══════════════════════════════════════════
        FOOTER
+       Links resolve from site.author.linkedin / .scholar in _config.yml —
+       make sure those are full profile URLs, not bare placeholders.
   ════════════════════════════════════════════ -->
   <footer class="site-footer">
     <div class="wrapper">
@@ -235,7 +271,5 @@
     });
   </script>
 
-
-      
 </body>
 </html>
