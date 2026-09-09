@@ -54,7 +54,7 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="#" class="project-card-link">AI Resilience: Individual and Collective Agency</a></h3>
     <p class="project-meta">Human–AI Interaction · University of Pittsburgh · 2024–2026</p>
-    <p>This project develops <em>AI resilience</em> as the capacity to recognize, absorb, and strategically contest AI-driven disruption while sustaining <em>individual and collective agency</em>. It traces how workers engage in <em>boundary work</em>, deliberately demarcating and protecting their situated knowledge to preserve agency as generative AI is deployed into their workplaces. A related strand examines how the deployment of synthetic agents in place of human participants erodes collective agency and raises concerns for responsible AI deployment where legitimate participation is at stake and proposes soft and hard boundaries that protect human voices from displacement.</p>
+    <p>This project develops <em>AI resilience</em> as the capacity to recognize, absorb, and strategically contest AI-driven disruption while sustaining <em>individual and collective agency</em>. It examines how people build on their situated knowledge to interact with AI systems entering their workplaces, and proposes process evaluation for deployment of synthetic agents in institutions whose legitimacy depends on human participation.</p>
     <span class="project-tag">AI Resilience</span><span class="project-tag">Responsible AI</span><span class="project-tag">Technology Deployment</span><span class="project-tag">Individual &amp; Collective Agency</span><span class="project-tag">Boundary Work</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
@@ -73,7 +73,7 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="#" class="project-card-link">Epistemology and Philosophy of Technology</a></h3>
     <p class="project-meta">JNU · AI Humanities Research Institute, Chung-Ang University, Korea · 2018–2022</p>
-    <p>The philosophical foundation for my current empirical and design works. This body of work examines the underpinnings of artificial intelligence through political theory and critical epistemology. It asks how AI reshapes labour, perception, governance, and the production of knowledge, and argues for interdisciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
+    <p>The philosophical foundation for my current empirical and design works. It uses political theory and critical epistemology to ask how AI reshapes labour, perception, governance, and the production of knowledge, and argues for interdisciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
     <span class="project-tag">Philosophy of Technology</span><span class="project-tag">Critical Epistemology</span><span class="project-tag">Political Theory</span><span class="project-tag">AI &amp; Society</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
