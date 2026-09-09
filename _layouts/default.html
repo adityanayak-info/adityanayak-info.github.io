@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="{% if page.desktop_only %}width=1024{% else %}width=device-width, initial-scale=1.0{% endif %}">
 
+
   <!-- SEO — jekyll-seo-tag owns <title>, description, og:*, twitter:*, JSON-LD.
        Do NOT add manual <title> or <meta name="description"> here.
        Configure via title / tagline / description / social in _config.yml. -->
@@ -25,52 +26,65 @@
   <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
 
 
-  <!-- Person schema — disambiguates from other Aditya Nayaks. -->
+
+  <!-- Person + WebSite schema — disambiguates from other Aditya Nayak. -->
   {% if page.url == '/' %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "Aditya Nayak",
-    "url": "https://adityanayak-info.github.io",
-    "image": "https://adityanayak-info.github.io/assets/img/FIMS.jpg",
-    "jobTitle": "PhD Student",
-    "email": "mailto:aditya.nayak@pitt.edu",
-    "affiliation": {
-      "@type": "CollegeOrUniversity",
-      "name": "School of Computing and Information, University of Pittsburgh",
-      "url": "https://www.sci.pitt.edu"
-    },
-    "knowsAbout": [
-      "Human-Computer Interaction",
-      "Human-AI Interaction",
-      "Computer-Supported Cooperative Work",
-      "Participatory Design",
-      "Community-Centered Design",
-      "Public Sector AI",
-      "Responsible AI",
-      "AI Governance",
-      "Fairness, Accountability, and Transparency",
-      "Algorithmic Accountability",
-      "Philosophy of Technology",
-      "Science and Technology Studies",
-      "Public Interest Technology",
-      "Civic Technology",
-      "Qualitative Research Methods",
-      "Future of Work",
-      "Political Theory"
-    ],
-    "sameAs": [
-      "https://orcid.org/0009-0009-5517-0932",
-      "https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en",
-      "https://www.linkedin.com/in/adityanayak826/",
-      "https://www.researchgate.net/profile/Aditya-Nayak-9",
-      "https://pitt.academia.edu/AdityaNayak"
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://adityanayak-info.github.io/#website",
+        "name": "Aditya Nayak",
+        "url": "https://adityanayak-info.github.io/",
+        "publisher": { "@id": "https://adityanayak-info.github.io/#person" }
+      },
+      {
+        "@type": "Person",
+        "@id": "https://adityanayak-info.github.io/#person",
+        "name": "Aditya Nayak",
+        "url": "https://adityanayak-info.github.io",
+        "image": "https://adityanayak-info.github.io/assets/img/FIMS.jpg",
+        "jobTitle": "PhD Student",
+        "email": "mailto:aditya.nayak@pitt.edu",
+        "affiliation": {
+          "@type": "CollegeOrUniversity",
+          "name": "School of Computing and Information, University of Pittsburgh",
+          "url": "https://www.sci.pitt.edu"
+        },
+        "knowsAbout": [
+          "Human-Computer Interaction",
+          "Human-AI Interaction",
+          "Computer-Supported Cooperative Work",
+          "Participatory Design",
+          "Community-Centered Design",
+          "Public Sector AI",
+          "Responsible AI",
+          "AI Governance",
+          "Fairness, Accountability, and Transparency",
+          "Algorithmic Accountability",
+          "Philosophy of Technology",
+          "Science and Technology Studies",
+          "Public Interest Technology",
+          "Civic Technology",
+          "Qualitative Research Methods",
+          "Future of Work",
+          "Political Theory"
+        ],
+        "sameAs": [
+          "https://orcid.org/0009-0009-5517-0932",
+          "https://scholar.google.com/citations?user=2aDc8HAAAAAJ&hl=en",
+          "https://www.linkedin.com/in/adityanayak826/",
+          "https://www.researchgate.net/profile/Aditya-Nayak-9",
+          "https://pitt.academia.edu/AdityaNayak"
+        ]
+      }
     ]
   }
   </script>
   {% endif %}
-
+  
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-RPQRD8PD6W"></script>
   <script>
