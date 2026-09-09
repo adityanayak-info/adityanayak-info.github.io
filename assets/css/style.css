@@ -613,7 +613,7 @@ hr.profile-rule {
 }
 
 .project-card:hover { border-left-color: var(--burgundy); }
-.project-card h3 { margin-top: 0; margin-bottom: 5px; font-size: 1.05rem; }
+.project-card h3 { margin-top: 0; margin-bottom: 5px; font-size: 1.25rem; }
 .project-card .project-meta { font-size: 0.77rem; color: var(--text-muted); margin-bottom: 10px; font-style: italic; }
 .project-card p { font-size: 0.91rem; margin-bottom: 0.5rem; }
 
