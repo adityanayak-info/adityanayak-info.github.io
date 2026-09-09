@@ -24,7 +24,7 @@ permalink: /projects/
 <p class="projects-intro">
   My work develops <em>participatory design for responsible technologies</em> across three
   registers: designing for community participation in public sector AI,
-  the study of how people sustain individual and collective agency amid technology disruption, and the
+  the study of how people build resilience to sustain individual and collective agency amid technological disruption, and the
   epistemological foundations of technology underlying the empirical work.
 </p>
 
@@ -33,7 +33,7 @@ permalink: /projects/
   <div class="project-card-body">
     <h3><a href="#" class="project-card-link">Community Engagement in Public Sector AI</a></h3>
     <p class="project-meta">Doctoral Research · Advised by Aakash Gautam · University of Pittsburgh · 2024–Ongoing</p>
-    <p>My doctoral research asks how community participation can be meaningfully centered in the development and deployment of public sector AI. My research approaches the problem with a relational lens for designing participatory mechanisms that build community engagement through existing intermediaries in the information ecosystem of AI development and deployment.</p>
+    <p>My doctoral research asks how community can be meaningfully centered through participation in the development and deployment of public sector AI. My research approaches the problem with a relational lens for designing participatory mechanisms that build community engagement through existing intermediaries in the information ecosystem of AI development and deployment.</p>
     <span class="project-tag">Participatory Design</span><span class="project-tag">Public Sector AI</span><span class="project-tag">Community-centred Design</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
