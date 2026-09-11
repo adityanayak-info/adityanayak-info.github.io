@@ -680,12 +680,13 @@ hr.profile-rule {
 
 .projects-intro{
   font-family: 'Crimson Pro', serif;
-  font-size:1.1rem;
-  line-height:1.65;
-  color:var(--navy);
-  margin:0 0 3rem;
-  text-align:justify;
-  margin-bottom: 32px;
+  font-size: 1.1rem;
+  line-height: 1.65;
+  color: var(--navy);
+  margin: 0 0 3rem;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
 }
 
 /* ============================================================
