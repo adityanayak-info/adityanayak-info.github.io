@@ -154,7 +154,7 @@ permalink: /
 </div>
 
 <div class="skill-collab">
-  In my research projects, I have worked in interdisciplinary teams for system development and testing, with colleagues across <em>Computer Science</em>, <em>Information Science</em>, and <em>Policy</em> domains. I currently mentor two undergraduate students from CS on system development for aspects of my doctoral research.
+  In my research projects, I have worked in interdisciplinary teams for system development and testing, with colleagues across <em>Computer Science</em>, <em>Information Science</em>, and <em>Policy</em> domains. I currently mentor undergraduate students from the CS Department on system development for aspects of my doctoral research.
 </div>
 
 
@@ -163,7 +163,7 @@ permalink: /
 ## Education
 
 **PhD** · <strong>School of Computing and Information, University of Pittsburgh</strong> *(Pursuing)*<br>
-Courses: Foundations in HCI; Public Interest Technology; Social Computing; Data-Centric Computing; FATE in AI; Psychology of Learning and Development.
+Courses: Foundations in HCI; Public Interest Technology; Social Computing; Data-Centric Computing; Fairness, Accountability, Trasparency and Ethics (FATE) in AI; Psychology of Learning and Development.
 
 **Master of Philosophy** · <strong>Centre for Comparative Politics and Political Theory, Jawaharlal Nehru University</strong> <br>
 Thesis: *'Artificial Intelligence and the Changing Forms of Work'* (2021)
