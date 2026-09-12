@@ -154,7 +154,7 @@ permalink: /
 </div>
 
 <div class="skill-collab">
-  In my research projects, I have worked in interdisciplinary teams for system development and testing, with colleagues across <em>Computer Science</em>, <em>Information Science</em>, and <em>Policy</em> domains. I currently mentor undergraduate students from the CS Department on system development for aspects of my doctoral research.
+  In my research projects, I have worked in interdisciplinary teams for system development and testing, with colleagues across <em>Computer Science</em>, <em>Information Science</em>, and <em>Policy</em> domains. I currently mentor undergraduate students from the CS Department on system development for different aspects of my doctoral research.
 </div>
 
 
