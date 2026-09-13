@@ -90,14 +90,23 @@ permalink: /teaching/
 
 ## Mentorship & Supervision
 
-**Interactive Platform for Research** · 2026–Present
-Supervising a team of undergraduate students (Dept. of Computer Science, University of Pittsburgh) building the interactive platform for my doctoral research, applying natural language processing (spaCy, HuggingFace Transformers) to classify and organize text and surface themes.
+<div class="mentorship-item">
+  <h4>Interactive Platform for Research</h4>
+  <p class="teaching-meta">Undergraduate team · Dept. of Computer Science, University of Pittsburgh · 2026–Present</p>
+  <p>Supervising a team of undergraduate students building the interactive platform for my doctoral research, applying natural language processing (spaCy, HuggingFace Transformers) to classify and organize text and surface themes.</p>
+</div>
 
-**Algorithm-Simulation Tool** · 2026–Present
-Supervising an undergraduate student (Department of Computer Science, University of Pittsburgh) developing a simulation tool for participatory learning workshops.
+<div class="mentorship-item">
+  <h4>Algorithm-Simulation Tool</h4>
+  <p class="teaching-meta">Undergraduate student · Dept. of Computer Science, University of Pittsburgh · 2026–Present</p>
+  <p>Supervising an undergraduate student developing a simulation tool for participatory learning workshops.</p>
+</div>
 
-**Undergraduate Thesis External Examiner**
-Evaluated the thesis *"Rethinking Politics with Arthasastra: Exploring the Interplay of Dharma and Artha in Kautilyan Thought"* — Department of Political Science, Ramjas College, University of Delhi.
+<div class="mentorship-item">
+  <h4>Undergraduate Thesis External Examiner</h4>
+  <p class="teaching-meta">Dept. of Political Science, Ramjas College, University of Delhi</p>
+  <p>Evaluated the thesis on political economy and ancient political thought.</p>
+</div>
 
 ### Administrative Responsibilities
 
