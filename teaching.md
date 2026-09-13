@@ -91,13 +91,13 @@ permalink: /teaching/
 
 <div class="mentorship-item">
   <h4>Interactive Platform for Research</h4>
-  <p class="teaching-meta">Undergraduate team · Dept. of Computer Science, University of Pittsburgh · 2026–Present</p>
+  <p class="teaching-meta">Dept. of Computer Science, University of Pittsburgh · 2026–Present</p>
   <p>Supervising a team of CS undergraduate capstone students building the interactive platform related to my doctoral research. The project applies natural language processing (NLP - spaCy, HuggingFace Transformers) to classify and organize text and surface themes.</p>
 </div>
 
 <div class="mentorship-item">
   <h4>Algorithm-Simulation Tool</h4>
-  <p class="teaching-meta">Undergraduate student · Dept. of Computer Science, University of Pittsburgh · 2026–Present</p>
+  <p class="teaching-meta">Dept. of Computer Science, University of Pittsburgh · 2026–Present</p>
   <p>Supervising an undergraduate CS student developing a simulation tool for participatory learning workshops.</p>
 </div>
 
