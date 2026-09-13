@@ -87,19 +87,18 @@ permalink: /teaching/
 <p>As Research Associate, I contributed to the design of this graduate and undergraduate course, developing the core readings that shaped the curriculum. The course situates AI regulation within its political, historical, and theoretical context across four parts: the conceptual scheme of AI and governance; the global regulatory landscape (EU, US, China, India); the conceptual history of AI; and the political theory of algorithmic systems and democratic agency.</p>
 
 
-
 ## Mentorship & Supervision
 
 <div class="mentorship-item">
   <h4>Interactive Platform for Research</h4>
   <p class="teaching-meta">Undergraduate team · Dept. of Computer Science, University of Pittsburgh · 2026–Present</p>
-  <p>Supervising a team of undergraduate students building the interactive platform for my doctoral research, applying natural language processing (spaCy, HuggingFace Transformers) to classify and organize text and surface themes.</p>
+  <p>Supervising a team of CS undergraduate capstone students building the interactive platform related to my doctoral research. The project applies natural language processing (NLP - spaCy, HuggingFace Transformers) to classify and organize text and surface themes.</p>
 </div>
 
 <div class="mentorship-item">
   <h4>Algorithm-Simulation Tool</h4>
   <p class="teaching-meta">Undergraduate student · Dept. of Computer Science, University of Pittsburgh · 2026–Present</p>
-  <p>Supervising an undergraduate student developing a simulation tool for participatory learning workshops.</p>
+  <p>Supervising an undergraduate CS student developing a simulation tool for participatory learning workshops.</p>
 </div>
 
 <div class="mentorship-item">
