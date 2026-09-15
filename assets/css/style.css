@@ -857,6 +857,7 @@ hr.profile-rule {
   border: 0.7px solid var(--navy);
   padding: 2px 8px;
   border-radius: 20px;
+  white-space: nowrap;
 }
 
 /* ============================================================
