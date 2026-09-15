@@ -60,7 +60,7 @@ permalink: /projects/
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
         <a href="https://doi.org/10.1145/3808045.3808070" target="_blank" rel="noopener">→ Paper at CHIWORK'26: "Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment"</a>
-        <a href="#" target="_blank" rel="noopener">→ Forthcoming at AIES'26: "Appearing Legitimate is Not Enough: Synthetic Agents, Personhood, and Legitimacy in Representational Processes"</a>
+        <a href="https://doi.org/10.48550/arXiv.2608.17099" target="_blank" rel="noopener">→ Forthcoming at AIES'26: "Appearing Legitimate is Not Enough: Synthetic Agents, Personhood, and Legitimacy in Representational Processes"</a>
       </div>
     </details>
   </div>
