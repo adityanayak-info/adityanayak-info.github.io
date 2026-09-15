@@ -1270,6 +1270,12 @@ hr.profile-rule {
 
 .hp-body .project-tag { margin: 0 5px 5px 0; }
 
+.hp-body {
+  padding: 0 2px 18px 18px;
+  border-left: 1px solid var(--peach);
+  margin-left: 2px;
+}
+
 .hp-out { margin-top: 14px; }
 
 .hp-out-label {
