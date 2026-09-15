@@ -1238,7 +1238,7 @@ hr.profile-rule {
   font-family: 'Crimson Pro', serif;
   font-size: 0.97rem;
   font-weight: 700;
-  color: var(--burgundy);
+  color: var(--navy);
   line-height: 1.3;
 }
 
@@ -1299,7 +1299,7 @@ hr.profile-rule {
 .hp-out .output-group-label {
   font-size: 0.68rem;
   font-weight: 600;
-  color: var(--burgundy);
+  color: var(--navy);
   margin: 10px 0 5px;
 }
 
