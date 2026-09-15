@@ -1296,6 +1296,13 @@ hr.profile-rule {
   margin-bottom: 6px;
 }
 
+.hp-out .output-group-label {
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: var(--burgundy);
+  margin: 10px 0 5px;
+}
+
 .hp-out a:hover { text-decoration: underline; }
 
 .home-projects-cta { margin-top: 1.5rem; }
