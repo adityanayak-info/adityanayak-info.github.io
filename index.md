@@ -127,7 +127,7 @@ My work develops <em>participatory design for responsible technologies</em> acro
 
 ## Skills & Methods
 
-In my research projects, I have worked in <strong>interdisciplinary teams<\strong> for system development and testing, with colleagues across <em>Computer Science</em>, <em>Information Science</em>, and <em>Policy</em> domains. I currently mentor undergraduate students from the CS Department on system development for different aspects of my doctoral research.
+In my research projects, I have worked in <strong>interdisciplinary teams</strong> for system development and testing, with colleagues across <em>Computer Science</em>, <em>Information Science</em>, and <em>Policy</em> domains. I currently mentor undergraduate students from the CS Department on system development for different aspects of my doctoral research.
 
 
 <div class="sk-b-section">
