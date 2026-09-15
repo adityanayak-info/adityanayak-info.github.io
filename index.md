@@ -13,7 +13,6 @@ My work develops <em>participatory design for responsible technologies</em> acro
 <summary>
 <div>
 <div class="hp-title">Community Engagement in Public Sector AI</div>
-<div class="hp-meta">Doctoral Research · Advised by Aakash Gautam · University of Pittsburgh · 2024–Ongoing</div>
 </div>
 </summary>
 <div class="hp-body">
@@ -32,7 +31,6 @@ My work develops <em>participatory design for responsible technologies</em> acro
 <summary>
 <div>
 <div class="hp-title">AI Resilience: Individual and Collective Agency</div>
-<div class="hp-meta">Human–AI Interaction · University of Pittsburgh · 2024–2026</div>
 </div>
 </summary>
 <div class="hp-body">
@@ -50,7 +48,6 @@ My work develops <em>participatory design for responsible technologies</em> acro
 <summary>
 <div>
 <div class="hp-title">Epistemology and Philosophy of Technology</div>
-<div class="hp-meta">JNU · AI Humanities Research Institute, Chung-Ang University, Korea · 2018–2022</div>
 </div>
 </summary>
 <div class="hp-body">
