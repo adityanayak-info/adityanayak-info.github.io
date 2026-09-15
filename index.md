@@ -252,3 +252,25 @@ Courses: Foundations in HCI; Public Interest Technology; Social Computing; Data-
 
 **Master of Philosophy** · <strong>Centre for Comparative Politics and Political Theory, Jawaharlal Nehru University</strong> <br>
 Thesis: *'Artificial Intelligence and the Changing Forms of Work'* (2021)
+
+
+
+<script>
+(function () {
+  var rows = document.querySelectorAll('.hp-row');
+
+  rows.forEach(function (row) {
+    row.addEventListener('toggle', function () {
+      if (!row.open) return;
+      rows.forEach(function (other) {
+        if (other !== row) other.open = false;
+      });
+    });
+  });
+
+  document.addEventListener('click', function (e) {
+    if (e.target.closest('.hp-row')) return;
+    rows.forEach(function (row) { row.open = false; });
+  });
+})();
+</script>
