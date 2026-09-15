@@ -18,7 +18,7 @@ My work develops <em>participatory design for responsible technologies</em> acro
 </summary>
 <div class="hp-body">
 <p>My doctoral research builds and deploys mechanisms for centering community experiences through participation in the development and deployment of public sector AI. It takes a relational approach, working through existing intermediaries in the information ecosystem to sustain community engagement.</p>
-<span class="project-tag">Participatory Design</span><span class="project-tag">Public Sector AI</span><span class="project-tag">Community-centred Design</span>
+<span class="interest-tag">Participatory Design</span><span class="interest-tag">Public Sector AI</span><span class="interest-tag">Community-centred Design</span>
 <div class="hp-out">
 <p class="hp-out-label">Project outputs</p>
 <a href="https://www.pairs.site/" target="_blank" rel="noopener">→ Presented at PAIRS'26: "From Distrust to Relationality: Designing a Web Platform for Centering Community Experiences in Public-Sector AI"</a>
@@ -37,7 +37,7 @@ My work develops <em>participatory design for responsible technologies</em> acro
 </summary>
 <div class="hp-body">
 <p>This project develops <em>AI resilience</em> as the capacity to recognize, absorb, and strategically contest AI-driven disruption while sustaining <em>individual and collective agency</em>. It examines how people actively draw boundaries based on their situated knowledge to interact with AI systems that enter their workplaces, and proposes process evaluation for cases of deployment of synthetic agents in institutions whose legitimacy depends on human participation.</p>
-<span class="project-tag">AI Resilience</span><span class="project-tag">Responsible AI</span><span class="project-tag">Technology Deployment</span><span class="project-tag">Individual &amp; Collective Agency</span><span class="project-tag">Boundary Work</span>
+<span class="interest-tag">AI Resilience</span><span class="interest-tag">Responsible AI</span><span class="interest-tag">Technology Deployment</span><span class="interest-tag">Individual &amp; Collective Agency</span><span class="interest-tag">Boundary Work</span>
 <div class="hp-out">
 <p class="hp-out-label">Project outputs</p>
 <a href="https://doi.org/10.1145/3808045.3808070" target="_blank" rel="noopener">→ Paper at CHIWORK'26: "Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment"</a>
@@ -55,7 +55,7 @@ My work develops <em>participatory design for responsible technologies</em> acro
 </summary>
 <div class="hp-body">
 <p>The philosophical foundation for my current empirical and design works. It uses political theory and critical epistemology to ask how AI reshapes labour, perception, governance, and the production of knowledge, and argues for interdisciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
-<span class="project-tag">Philosophy of Technology</span><span class="project-tag">Critical Epistemology</span><span class="project-tag">Political Theory</span><span class="project-tag">AI &amp; Society</span>
+<span class="interest-tag">Philosophy of Technology</span><span class="interest-tag">Critical Epistemology</span><span class="interest-tag">Political Theory</span><span class="interest-tag">AI &amp; Society</span>
 <div class="hp-out">
 <p class="hp-out-label">Project outputs</p>
 <a href="#" target="_blank" rel="noopener">→ M.Phil. Thesis — "Artificial Intelligence and the Changing Forms of Work"</a>
@@ -72,9 +72,6 @@ My work develops <em>participatory design for responsible technologies</em> acro
 </div>
 </details>
 
-<div class="home-projects-cta">
-<a href="{{ '/projects/' | relative_url }}">All projects →</a>
-</div>
 </div>
 
 
