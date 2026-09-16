@@ -24,7 +24,7 @@ permalink: /projects/
 <p class="projects-intro">
   My work develops <em>participatory design for responsible technologies</em> across three
   registers: action research designing for community participation in public sector AI,
-  the study of how people build resilience to sustain individual and collective agency amid technological disruption, and the
+  the study of how people build resilience to sustain individual and collective agency amid technological reconfiguration, and the
   epistemological foundations of technology underlying the empirical work.
 </p>
 
