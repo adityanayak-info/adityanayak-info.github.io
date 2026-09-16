@@ -6,7 +6,7 @@ permalink: /
 <div class="home-projects">
 <h2>Research</h2>
 <p class="home-projects-intro">
-My work develops <em>participatory design for responsible technologies</em> across three registers: action research designing for community participation in public sector AI, the study of how people build resilience to sustain individual and collective agency amid technological disruption, and the epistemological foundations of technology underlying the empirical work.
+My work develops <em>participatory design for responsible technologies</em> across three registers: action research designing for community participation in public sector AI, the study of how people build resilience to sustain individual and collective agency amid technological reconfiguration, and the epistemological foundations of technology underlying the empirical work.
 </p>
 
 <details class="hp-row">
