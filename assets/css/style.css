@@ -1294,6 +1294,7 @@ hr.profile-rule {
   text-decoration: none;
   line-height: 1.55;
   margin-bottom: 6px;
+  padding-left: 14px;
 }
 
 .hp-out .output-group-label {
@@ -1301,7 +1302,6 @@ hr.profile-rule {
   font-weight: 600;
   color: var(--navy);
   margin: 10px 0 5px;
-  padding-left: 14px;
 }
 
 .hp-out a:hover { text-decoration: underline; }
