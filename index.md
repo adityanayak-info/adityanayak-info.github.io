@@ -72,7 +72,7 @@ My work develops <em>participatory design for responsible technologies</em> acro
 </div>
 
 
-## My Research Background
+## Background
 
 <!-- ═══════════════════════════════════════════════════════════
      CAREER PATH — edit stage-name and stage-inst text below.
