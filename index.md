@@ -120,12 +120,12 @@ My work develops <em>participatory design for responsible technologies</em> acro
 
 ## Grants & Fellowships
 
-| Award | Year |
+| Award | | Year |
 |---|---|
-| • SCI Fellowship, Dept. of Information Culture and Data Stewardship,<br>&nbsp;&nbsp;&nbsp;University of Pittsburgh | 2024–25 |
-| • Senior Research Fellowship, University Grants Commission | 2020-2023 |
-| • Junior Research Fellowship, University Grants Commission | 2018-2020 |
-| • International Travel Grant, Chung-Ang University, Seoul | 2019 |
+| • SCI Fellowship, Dept. of Information Culture and Data Stewardship,<br>&nbsp;&nbsp;&nbsp;University of Pittsburgh | &nbsp;&nbsp;2024–25 |
+| • Senior Research Fellowship, University Grants Commission | &nbsp;&nbsp;2020-2023 |
+| • Junior Research Fellowship, University Grants Commission | &nbsp;&nbsp;2018-2020 |
+| • International Travel Grant, Chung-Ang University, Seoul | &nbsp;&nbsp;2019 |
 
 ## Skills & Methods
 
