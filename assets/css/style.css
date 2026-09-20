@@ -884,7 +884,7 @@ hr.profile-rule {
    LEFT SIDEBAR (non-homepage)
    ============================================================ */
 .left-sidebar {
-  width: 190px;
+  width: 220px;
   flex-shrink: 0;
   position: sticky;
   top: calc(var(--header-height) + 20px);
