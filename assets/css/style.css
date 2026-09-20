@@ -59,8 +59,9 @@ img { max-width: 100%; height: auto; display: block; }
   position: sticky;
   top: 0;
   z-index: 200;
-  background: var(--navy);
+  background: var(--bg);
   height: var(--header-height);
+  border-bottom: 1px solid var(--border);
 }
 
 .site-tagline { display: none; }
@@ -869,7 +870,7 @@ hr.profile-rule {
    FOOTER
    ============================================================ */
 .site-footer {
-  background: var(--navy);
+  background: var(--bg);
   color: rgba(255,255,255,0.5);
   padding: 22px 0;
   margin-top: auto;
