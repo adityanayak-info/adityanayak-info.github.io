@@ -172,10 +172,8 @@ img { max-width: 100%; height: auto; display: block; }
   line-height: 1.55;
   color: var(--text);
   margin: 0 0 5px;
-  text-align: justify;
-  hyphens: auto;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;}
+  text-align: left;
+}
 
 .news-link {
   display: block;
