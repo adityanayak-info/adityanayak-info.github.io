@@ -17,7 +17,7 @@ permalink: /projects/
     </a>
   </div>
 </div>
----
+
 
 ## Research Projects
 
