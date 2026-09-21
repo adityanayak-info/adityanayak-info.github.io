@@ -239,13 +239,7 @@
       <div class="news-item">
         <span class="news-date">{{ item.date }}</span>
         <p>{{ item.text }}</p>
-        {% if item.link %}
-        <a href="{{ item.link }}" class="news-link" target="_blank" rel="noopener">{{ item.link_text | default: "Read more →" }}</a>
-        {% endif %}
-      </div>
-      {% endfor %}
-    </div>
-  </aside>
+      </div>  </aside>
   {% endunless %}
 
   <main class="main-content" id="main-content">
@@ -260,12 +254,7 @@
       <div class="news-item">
         <span class="news-date">{{ item.date }}</span>
         <p>{{ item.text }}</p>
-        {% if item.link %}
-        <a href="{{ item.link }}" class="news-link" target="_blank" rel="noopener">{{ item.link_text | default: "Read more →" }}</a>
-        {% endif %}
       </div>
-      {% endfor %}
-    </div>
   </aside>
   {% endif %}
 
