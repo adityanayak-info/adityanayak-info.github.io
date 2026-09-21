@@ -388,10 +388,9 @@ a:hover { color: var(--navy); text-decoration: underline; }
 }
 
 hr.profile-rule {
-  width: 100px;
   border: none;
   border-top: 1px solid transparent;
-  margin: 1.8rem auto;
+  margin: 1rem auto;
 }
 
 .profile-text a.inst-link {
