@@ -101,9 +101,7 @@ img { max-width: 100%; height: auto; display: block; }
 .site-nav a:hover { color: var(--navy); background: rgba(18, 60, 105, 0.08); text-decoration: none; }
 .site-nav a.active {
   color: var(--navy);
-  background: rgba(172, 59, 97, 0.35);
-  border-bottom: 2px solid var(--burgundy);
-  padding-bottom: 4px;
+  font-weight: 700;
 }
 
 /* ============================================================
