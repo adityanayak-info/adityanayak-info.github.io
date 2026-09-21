@@ -18,7 +18,7 @@ permalink: /teaching/
   </div>
 </div>
 
----
+
 
 <h2 class="institution-heading">
   University of Pittsburgh
