@@ -239,7 +239,10 @@
       <div class="news-item">
         <span class="news-date">{{ item.date }}</span>
         <p>{{ item.text }}</p>
-      </div>  </aside>
+      </div>
+      {% endfor %}
+    </div>
+  </aside>
   {% endunless %}
 
   <main class="main-content" id="main-content">
@@ -255,6 +258,8 @@
         <span class="news-date">{{ item.date }}</span>
         <p>{{ item.text }}</p>
       </div>
+      {% endfor %}
+    </div>
   </aside>
   {% endif %}
 
