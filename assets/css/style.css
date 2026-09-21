@@ -179,12 +179,15 @@ img { max-width: 100%; height: auto; display: block; }
 
 .news-item p a {
   color: var(--navy);
+  font-weight: 600;
   text-decoration: none;
-  border-bottom: 1px solid rgba(18, 60, 105, 0.3);
+  border-bottom: none;
 }
+
 .news-item p a:hover {
   color: var(--burgundy);
-  border-bottom-color: var(--burgundy);
+  font-weight: 600;
+  text-decoration: none;
 }
 
 .news-link {
