@@ -389,8 +389,7 @@ a:hover { color: var(--navy); text-decoration: underline; }
 
 hr.profile-rule {
   border: none;
-  border-top: 1px solid transparent;
-  margin: 1rem auto;
+  margin: 0.8rem auto;
 }
 
 .profile-text a.inst-link {
