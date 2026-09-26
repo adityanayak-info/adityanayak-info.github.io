@@ -6,6 +6,9 @@
 # since the YAML string itself uses double quotes.
 # ============================================================
 
+- date: "Sep 2026"
+  text: "Selected as a <a href='https://www.aihub.pitt.edu/building-knowledge/hail-graduate-student-awardee-program' target='_blank' rel='noopener'>HAIL Graduate Student Awardee</a> (Hub for AI and Data Science Leadership, University of Pittsburgh) for the 2026–2027 cohort on responsible data science and AI."
+
 - date: "Oct 2026"
   text: "Upcoming paper at AIES-26 <a href='https://doi.org/10.48550/arXiv.2608.17099' target='_blank' rel='noopener'>'Appearing Legitimate is Not Enough: Interrogating Synthetic Agents in Representational Processes through a Participatory Design Lens'</a>"
 
