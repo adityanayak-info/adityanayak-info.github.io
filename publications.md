@@ -20,14 +20,21 @@ permalink: /publications/
 </div>
 
 <details class="pub-section" open>
-<summary>Conference Proceedings and Journal Articles</summary>
+<summary>Peer-Reviewed Conference Proceedings and Journal Articles</summary>
 <div class="pub-section-content" markdown="1">
 
 - **2026** - Aditya Nayak\*, Aditi Vashistha\*, Alissa Centivany, and Aakash Gautam. **"Appearing Legitimate is Not Enough: Interrogating Synthetic Agents in Representational Processes through a Participatory Design Lens"** In *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society* [AIES-26], October, 2026 (Upcoming) [Accepted Pre-print: https://doi.org/10.48550/arXiv.2608.17099](https://doi.org/10.48550/arXiv.2608.17099)
-  
+
 - **2026** — Aditya Nayak, Aakash Gautam, and Rama Adithya Varanasi. **"Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment."** In *Proceedings of the 5th Annual Symposium on Human-Computer Interaction for Work (CHIWORK '26)*, Article 17, 1–16. Association for Computing Machinery. [DOI: 10.1145/3808045.3808070](https://doi.org/10.1145/3808045.3808070)
 
 - **2025** — Prerana Khatiwada, Alejandro Ciuba, Aditya Nayak, Aakash Gautam, and Matthew Louis Mauriello. **"Regulating Social Media: Surveying the Impact of Nepali Government's TikTok Ban."** *Proc. ACM Hum.-Comput. Interact.* 9, 7, Article CSCW467. [DOI: 10.1145/3757648](https://doi.org/10.1145/3757648)
+{: .pub-list}
+</div>
+</details>
+
+<details class="pub-section" open>
+<summary>Journal Articles — Journal of AI Humanities</summary>
+<div class="pub-section-content" markdown="1">
 
 - **2021** — Aditya Nayak. **"Socio-Political Implications of Data-Centric AI and the Need for Trans-Disciplinary Framework — Studying the Big Digital-Eyes for Autonomous Vehicles."** *Journal of AI Humanities* 9 (December 2021), 79–98. [DOI: 10.46397/JAIH.9.4](https://doi.org/10.46397/JAIH.9.4)
 
