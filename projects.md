@@ -34,7 +34,7 @@ permalink: /projects/
     <h3><a href="#" class="project-card-link">Community Engagement in Public Sector AI</a></h3>
     <p class="project-meta">Doctoral Research · Advised by Aakash Gautam · University of Pittsburgh · 2024–Ongoing</p>
     <p>My doctoral research builds and deploys mechanisms for centering community experiences through participation in the development and deployment of public sector AI. It takes a relational approach, working through existing intermediaries in the information ecosystem to sustain community engagement.</p>
-    <span class="project-tag">Participatory Design</span><span class="project-tag">Public Sector AI</span><span class="interest-tag">Action Research</span><span class="project-tag">Community-centred Design</span>
+    <span class="project-tag">Participatory Design</span><span class="project-tag">Public Sector AI</span><span class="project-tag">Action Research</span><span class="project-tag">Community-centred Design</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
       <div class="project-outputs-content">
