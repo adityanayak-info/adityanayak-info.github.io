@@ -1053,16 +1053,12 @@ hr.profile-rule {
 }
 
 .sk-b-tool {
-  display: flex;
-  flex-direction: column;
+  display: inline-flex;
   align-items: center;
-  gap: 4px;
-  width: 64px;
+  width: auto;
   font-size: 0.7rem;
   color: var(--text);
-  text-align: center;
 }
-.sk-b-tool img { width: 20px; height: 20px; object-fit: contain; }
 
 .sk-b-badge {
   width: 20px;
