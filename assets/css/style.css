@@ -119,12 +119,11 @@ img { max-width: 100%; height: auto; display: block; }
 .main-content { flex: 1; min-width: 0; }
 
 /* ============================================================
-   SIDEBAR
+   
    ============================================================ */
 .sidebar {
   width: var(--sidebar-width);
   flex-shrink: 0;
-  position: sticky;
   top: calc(var(--header-height) + 20px);
 }
 
@@ -897,7 +896,6 @@ hr.profile-rule {
 .left-sidebar {
   width: 220px;
   flex-shrink: 0;
-  position: sticky;
   top: calc(var(--header-height) + 20px);
   align-self: flex-start;
 }
