@@ -184,7 +184,7 @@ In my research projects, I have worked in <strong>interdisciplinary teams</stron
       <div class="skill-dots">
         <span class="skill-dot full"></span>
         <span class="skill-dot full"></span>
-        <span class="skill-dot half"></span>
+        <span class="skill-dot full"></span>
         <span class="skill-dot"></span>
         <span class="skill-dot"></span>
       </div>
