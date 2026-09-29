@@ -1257,12 +1257,11 @@ hr.profile-rule {
 
 .hp-body {
   padding-left: 18px;
-  border-left: 1px solid var(--peach);
   margin-left: 2px;
 }
 
 .hp-body > p {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: var(--text-muted);
   line-height: 1.65;
   margin: 0 0 12px;
