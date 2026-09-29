@@ -289,11 +289,13 @@
     });
 
     (function () {
-      var el = document.getElementById('footer-email');
-      if (!el) return;
       var user = 'aditya.nayak';
       var domain = 'pitt.edu';
-      el.href = 'mailto:' + user + '@' + domain;
+      var addr = 'mailto:' + user + '@' + domain;
+      ['footer-email', 'hero-email', 'sidebar-email', 'page-email'].forEach(function (id) {
+        var el = document.getElementById(id);
+        if (el) el.href = addr;
+      });
     })();
   </script>
       
