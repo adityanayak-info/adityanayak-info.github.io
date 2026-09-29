@@ -88,14 +88,13 @@ My work develops <em>participatory design for responsible technologies</em> acro
 - University Grants Commission **National Eligibility Test** for Assistant Professor in Political Science (2018)
 - Served on the Editorial Board of Journal of AI Humanities, Chung Ang University, Seoul and Humanities Research Korea (2023-25)
 
+
 ## Grants & Fellowships
 
-| Award | | Year |
-|---|---|
-| • SCI Fellowship, Dept. of Information Culture and Data Stewardship,<br>&nbsp;&nbsp;&nbsp;University of Pittsburgh | &nbsp;&nbsp;2024–25 |
-| • Senior Research Fellowship, University Grants Commission | &nbsp;&nbsp;2020-2023 |
-| • Junior Research Fellowship, University Grants Commission | &nbsp;&nbsp;2018-2020 |
-| • International Travel Grant, Chung-Ang University, Seoul | &nbsp;&nbsp;2019 |
+- **SCI Fellowship**, Dept. of Information Culture and Data Stewardship, University of Pittsburgh (2024–25)
+- **Senior Research Fellowship**, University Grants Commission (2020–23)
+- **Junior Research Fellowship**, University Grants Commission (2018–20)
+- **International Travel Grant**, Chung-Ang University, Seoul (2019)
 
 
 ## Education
