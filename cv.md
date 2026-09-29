@@ -19,7 +19,7 @@ permalink: /cv/
 </div>
 
 <div class="cv-actions">
-  <a class="btn btn-primary" href="https://drive.google.com/uc?export=download&id=1eyPedBXkG5wIPelzPgScFF5EYARK4hBm" target="_blank" rel="noopener">Download PDF</a>
+  <a class="btn btn-primary" href="https://drive.google.com/uc?export=download&id=18yPtmV-6uPEY90S_2EieVCxaZlfiRy40" target="_blank" rel="noopener">Download PDF</a>
 </div>
 
 
@@ -37,7 +37,7 @@ permalink: /cv/
 
 <div class="cv-embed-wrap">
   <iframe
-    src="https://drive.google.com/file/d/1eyPedBXkG5wIPelzPgScFF5EYARK4hBm/preview"
+    src="https://drive.google.com/file/d/18yPtmV-6uPEY90S_2EieVCxaZlfiRy40/preview"
     title="Aditya Nayak — Curriculum Vitae"
     allow="autoplay"
     loading="lazy">
