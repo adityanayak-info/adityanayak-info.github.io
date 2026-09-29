@@ -128,6 +128,16 @@ My work develops <em>participatory design for responsible technologies</em> acro
 | • Junior Research Fellowship, University Grants Commission | &nbsp;&nbsp;2018-2020 |
 | • International Travel Grant, Chung-Ang University, Seoul | &nbsp;&nbsp;2019 |
 
+
+## Education
+
+**PhD** · <strong>School of Computing and Information, University of Pittsburgh</strong> *(Pursuing)*<br>
+Coursework: Foundations in HCI; Public Interest Technology; Social Computing; Data-Centric Computing; Fairness, Accountability, Transparency and Ethics (FATE) in AI; Psychology of Learning and Development.
+
+**Master of Philosophy** · <strong>Centre for Comparative Politics and Political Theory, Jawaharlal Nehru University</strong> <br>
+Thesis: *'Artificial Intelligence and the Changing Forms of Work'* (2021)
+
+
 ## Skills & Methods
 
 In my research projects, I have worked in <strong>interdisciplinary teams</strong> for system development and testing, with colleagues across <em>Computer Science</em>, <em>Information Science</em>, and <em>Policy</em> domains. I currently mentor undergraduate students from the CS Department on system development for different aspects of my doctoral research.
@@ -243,13 +253,6 @@ In my research projects, I have worked in <strong>interdisciplinary teams</stron
 </div>
 
 
-## Education
-
-**PhD** · <strong>School of Computing and Information, University of Pittsburgh</strong> *(Pursuing)*<br>
-Coursework: Foundations in HCI; Public Interest Technology; Social Computing; Data-Centric Computing; Fairness, Accountability, Transparency and Ethics (FATE) in AI; Psychology of Learning and Development.
-
-**Master of Philosophy** · <strong>Centre for Comparative Politics and Political Theory, Jawaharlal Nehru University</strong> <br>
-Thesis: *'Artificial Intelligence and the Changing Forms of Work'* (2021)
 
 
 
