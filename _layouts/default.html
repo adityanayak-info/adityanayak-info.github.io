@@ -273,7 +273,7 @@
       <p>
         &copy; {{ "now" | date: "%Y" }} {{ site.title }}
         &ensp;·&ensp;
-        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        <a id="footer-email" href="#">aditya[dot]nayak[at]pitt[dot]edu</a>
         &ensp;·&ensp;
         <a href="{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
         &ensp;·&ensp;
@@ -288,7 +288,15 @@
         this.classList.toggle('active');
       });
     });
-  </script>
 
+    (function () {
+      var el = document.getElementById('footer-email');
+      if (!el) return;
+      var user = 'aditya.nayak';
+      var domain = 'pitt.edu';
+      el.href = 'mailto:' + user + '@' + domain;
+    })();
+  </script>
+      
 </body>
 </html>
