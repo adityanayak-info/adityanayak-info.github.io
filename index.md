@@ -193,10 +193,19 @@ In my research projects, I have worked in <strong>interdisciplinary teams</stron
       <div class="sk-b-tools">
         <div class="sk-b-tool"><!-- <img src="{{ '/assets/img/spacy-logo.png' | relative_url }}" alt="spaCy" style="width:20px;height:20px;object-fit:contain;"> -->spaCy</div>
         <div class="sk-b-tool"><!-- <img src="{{ '/assets/img/hf-logo.png' | relative_url }}" alt="Hugging Face" style="width:20px;height:20px;object-fit:contain;"> -->Hugging Face</div>
+        <div class="sk-b-tool">Whisper</div>
+        <div class="sk-b-tool">BERTopic</div>
+        <div class="sk-b-tool">KeyBERT</div>
+        <div class="sk-b-tool">Sentence-BERT</div>
+        <span class="sk-b-tag">Zero-shot Classification</span>
+        <span class="sk-b-tag">Named Entity Recognition</span>
+        <span class="sk-b-tag">Topic Modelling</span>
+        <span class="sk-b-tag">Semantic Similarity</span>
+        <span class="sk-b-tag">Keyword Extraction</span>
+        <span class="sk-b-tag">Speech-to-Text</span>
       </div>
     </div>
   </div>
-
 <!--
   <div class="sk-b-row">
     <div class="sk-b-cat">
