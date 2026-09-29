@@ -14,7 +14,7 @@ My work develops <em>participatory design for responsible technologies</em> acro
 <div class="hp-body">
 <p>My doctoral research builds and deploys mechanisms for centering community experiences through participation in the development and deployment of public sector AI. It takes a relational approach, working through existing intermediaries in the information ecosystem to sustain community engagement.</p>
 <div class="interest-tags">
-<span class="interest-tag">Participatory Design</span><span class="interest-tag">Public Sector AI</span><span class="interest-tag">Community-centred Design</span>
+<span class="interest-tag">Participatory Design</span><span class="interest-tag">Public Sector AI</span><span class="interest-tag">Action Research</span><span class="interest-tag">Community-centred Design</span>
 </div>
 </div>
 </div>
