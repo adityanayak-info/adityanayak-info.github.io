@@ -1185,7 +1185,7 @@ hr.profile-rule {
 
   hr.profile-rule { margin: 1.4rem auto; }
 
-  .photo-col { width: 200px; }
+  .photo-col { width: 100%; max-width: 320px; }
   .photo-col img, .photo-initials { width: 200px; height: 240px; }
 
   .career-stages { gap: 6px; }
