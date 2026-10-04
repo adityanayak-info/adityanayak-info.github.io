@@ -279,15 +279,15 @@ a:hover { color: var(--navy); text-decoration: underline; }
 
 .photo-col {
   flex-shrink: 0;
-  width: 320px;
+  width: 240px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
 .photo-col img {
-  width: 320px;
-  height: 390px;
+  width: 240px;
+  height: 293px;
   object-fit: cover;
   border-radius: 10px;
   display: block;
@@ -958,15 +958,15 @@ hr.profile-rule {
   position: relative;
   overflow: hidden;
   border-radius: 10px;
-  width: 320px;
-  height: 390px;
+  width: 240px;
+  height: 293px;
   flex-shrink: 0;
 }
 
 .photo-hover-wrap .photo-default,
 .photo-hover-wrap .photo-duotone {
-  width: 320px;
-  height: 390px;
+  width: 240px;
+  height: 293px;
   object-fit: cover;
   display: block;
   border-radius: 0;
