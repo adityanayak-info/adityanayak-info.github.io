@@ -1182,7 +1182,6 @@ hr.profile-rule {
 
   .profile-section { flex-direction: column; align-items: center; gap: 24px; }
   .profile-text { text-align: justify; }
-  .profile-text h1, .profile-text .profile-subtitle { text-align: center; }
 
   hr.profile-rule { margin: 1.4rem auto; }
 
