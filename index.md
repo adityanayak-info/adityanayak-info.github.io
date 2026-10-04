@@ -54,7 +54,7 @@ My work develops <em>participatory design for responsible technologies</em> acro
   <img class="diagram-full" src="{{ '/assets/img/researchbackground_details.svg' | relative_url }}" alt="Research background diagram with full detail" aria-hidden="true">
 </div>
 
-
+My work operationalizes metaphysics for applications in participatory design theory and system building. This constitutes my research methodology as well as my approach to empirical problems in the field of HCI, primarily those dealing with responsible technology development, and responsible technology deployment.
 
 
 <!--
