@@ -1238,15 +1238,29 @@ hr.profile-rule {
   margin: 0 0 1rem;
 }
 
-.hp-row {
-  border-top: 1px solid var(--slate);
-  padding-top: 14px;
-  margin-bottom: 18px;
+.hp-row { border-top: 1px solid var(--slate); }
+.hp-row:last-of-type { border-bottom: 1px solid var(--slate); }
+
+.hp-row summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 2px;
+  cursor: pointer;
+  list-style: none;
 }
-.hp-row:last-of-type {
-  border-bottom: 1px solid var(--slate);
-  padding-bottom: 14px;
+
+.hp-row summary::-webkit-details-marker { display: none; }
+
+.hp-row summary::after {
+  content: '+';
+  font-size: 0.95rem;
+  color: var(--slate);
+  flex-shrink: 0;
 }
+
+.hp-row[open] summary::after { content: '\2212'; }
 
 .hp-title {
   font-family: 'Crimson Pro', serif;
