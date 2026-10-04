@@ -9,35 +9,41 @@ permalink: /
 My work develops <em>participatory design for responsible technologies</em> across three registers: action research designing for community participation in public sector AI, the study of how people build resilience to sustain individual and collective agency amid technological reconfiguration, and the epistemological foundations of technology underlying the empirical work.
 </p>
 
-<div class="hp-row">
+<details class="hp-row">
+<summary>
 <div class="hp-title">Community Engagement in Public Sector AI</div>
+</summary>
 <div class="hp-body">
 <p>My doctoral research builds and deploys mechanisms for centering community experiences through participation in the development and deployment of public sector AI. It takes a relational approach, working through existing intermediaries in the information ecosystem to sustain community engagement.</p>
 <div class="interest-tags">
 <span class="interest-tag">Participatory Design</span><span class="interest-tag">Public Sector AI</span><span class="interest-tag">Action Research</span><span class="interest-tag">Community-centred Design</span>
 </div>
 </div>
-</div>
+</details>
 
-<div class="hp-row">
+<details class="hp-row">
+<summary>
 <div class="hp-title">AI Resilience: Individual and Collective Agency</div>
+</summary>
 <div class="hp-body">
 <p>This project develops <em>AI resilience</em> as the capacity to recognize, absorb, and strategically contest AI-driven reconfiguration while sustaining <em>individual and collective agency</em>. It examines how people actively draw boundaries based on their situated knowledge to interact with AI systems that enter their workplaces, and proposes process evaluation for cases of deployment of synthetic agents in institutions whose legitimacy depends on human participation.</p>
 <div class="interest-tags">
 <span class="interest-tag">AI Resilience</span><span class="interest-tag">Responsible AI</span><span class="interest-tag">Technology Deployment</span><span class="interest-tag">Individual &amp; Collective Agency</span><span class="interest-tag">Boundary Work</span>
 </div>
 </div>
-</div>
+</details>
 
-<div class="hp-row">
+<details class="hp-row">
+<summary>
 <div class="hp-title">Epistemology and Philosophy of Technology</div>
+</summary>
 <div class="hp-body">
 <p>The philosophical foundation for my current empirical and design works. It uses political theory and critical epistemology to ask how AI reshapes labour, perception, governance, and the production of knowledge, and argues for interdisciplinary frameworks that move beyond technical rationality toward socially grounded accounts of algorithmic systems.</p>
 <div class="interest-tags">
 <span class="interest-tag">Philosophy of Technology</span><span class="interest-tag">Critical Epistemology</span><span class="interest-tag">Political Theory</span><span class="interest-tag">AI &amp; Society</span>
 </div>
 </div>
-</div>
+</details>
 
 </div>
 
