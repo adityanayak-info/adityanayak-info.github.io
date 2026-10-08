@@ -30,14 +30,14 @@ html { font-size: 16px; scroll-behavior: smooth; }
 
 body {
   font-family: var(--font-body);
-  font-size: 0.90rem;
+  font-size: 1rem;
   line-height: 1.75;
   color: var(--text);
   background: var(--bg);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  text-align: justify;
+  text-align: left;
 }
 
 img { max-width: 100%; height: auto; display: block; }
@@ -132,7 +132,7 @@ img { max-width: 100%; height: auto; display: block; }
   border-radius: 4px;
   padding: 22px 18px;
   border-top: 3px solid var(--navy);
-  text-align: justify;
+  text-align: left;
   margin-top: 70px;
 }
 
@@ -725,7 +725,7 @@ hr.profile-rule {
   line-height: 1.65;
   color: var(--navy);
   margin: 0 0 3rem;
-  text-align: justify;
+  text-align: left;
   hyphens: auto;
   -webkit-hyphens: auto;
 }
@@ -1281,7 +1281,7 @@ hr.profile-rule {
   color: var(--text);
   line-height: 1.65;
   margin: 0 0 12px;
-  text-align: justify;
+  text-align: left;
 }
 
 .home-projects-cta { margin-top: 1.5rem; }
