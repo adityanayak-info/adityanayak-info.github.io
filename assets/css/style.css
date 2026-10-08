@@ -386,7 +386,12 @@ a:hover { color: var(--navy); text-decoration: underline; }
 
 [data-tooltip]:hover::after { opacity: 1; }
 
-.profile-text { flex: 1; padding-top: 2px; }
+.profile-text {
+  flex: 1;
+  padding-top: 2px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
 
 .profile-subtitle {
   font-size: 0.9rem;
