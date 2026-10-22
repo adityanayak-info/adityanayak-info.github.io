@@ -52,9 +52,9 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-card-body">
-    <h3><a href="#" class="project-card-link">AI Resilience: Individual and Collective Agency</a></h3>
+    <h3><a href="#" class="project-card-link">Resilience: Individual and Collective Agency</a></h3>
     <p class="project-meta">Human–AI Interaction · University of Pittsburgh · 2024–2026</p>
-    <p>This project develops <em>AI resilience</em> as the capacity to recognize, absorb, and strategically contest AI-driven reconfiguration while sustaining <em>individual and collective agency</em>. It examines how people actively draw boundaries based on their situated knowledge to interact with AI systems that enter their workplaces, and proposes process evaluation for cases of deployment of synthetic agents in institutions whose legitimacy depends on human participation.</p>
+    <p>This project develops <em>resilience</em> as the capacity to recognize, absorb, and strategically contest technology-driven reconfiguration while sustaining <em>individual and collective agency</em>. It examines how people actively draw boundaries based on their situated knowledge to interact with technology systems like AI that enter their workplaces, and proposes process evaluation for cases of deployment of LLM-based synthetic agents in institutions whose legitimacy depends on human participation.</p>
     <span class="project-tag">AI Resilience</span><span class="project-tag">Responsible AI</span><span class="project-tag">Technology Deployment</span><span class="project-tag">Individual &amp; Collective Agency</span><span class="project-tag">Boundary Work</span>
     <details class="project-outputs">
       <summary>Project Outputs</summary>
