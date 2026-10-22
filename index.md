@@ -23,10 +23,10 @@ My work develops <em>participatory design for responsible technologies</em> acro
 
 <details class="hp-row">
 <summary>
-<div class="hp-title">AI Resilience: Individual and Collective Agency</div>
+<div class="hp-title">Resilience: Individual and Collective Agency</div>
 </summary>
 <div class="hp-body">
-<p>This project develops <em>AI resilience</em> as the capacity to recognize, absorb, and strategically contest AI-driven reconfiguration while sustaining <em>individual and collective agency</em>. It examines how people actively draw boundaries based on their situated knowledge to interact with AI systems that enter their workplaces, and proposes process evaluation for cases of deployment of synthetic agents in institutions whose legitimacy depends on human participation.</p>
+<p>This project develops <em>resilience</em> as the capacity to recognize, absorb, and strategically contest technology-driven reconfiguration while sustaining <em>individual and collective agency</em>. It examines how people actively draw boundaries based on their situated knowledge to interact with technology systems like AI that enter their workplaces, and proposes process evaluation for cases of deployment of LLM-based synthetic agents in institutions whose legitimacy depends on human participation.</p>
 <div class="interest-tags">
 <span class="interest-tag">AI Resilience</span><span class="interest-tag">Responsible AI</span><span class="interest-tag">Technology Deployment</span><span class="interest-tag">Individual &amp; Collective Agency</span><span class="interest-tag">Boundary Work</span>
 </div>
