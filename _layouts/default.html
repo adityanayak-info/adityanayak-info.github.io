@@ -206,8 +206,8 @@
       ════════════════════════════════════════════ -->
       <div class="page-layout">
 
-  {% unless page.url == '/' %}
   <aside class="left-sidebar">
+    {% unless page.url == '/' %}
     <div class="left-sidebar-profile">
       <img src="{{ '/assets/img/headshot-duotone.jpg' | relative_url }}" alt="Aditya Nayak">
       <p style="font-size:0.75rem;color:var(--text-muted);line-height:1.4;margin:8px 0 10px;">PhD Student · School of Computing and Information, University of Pittsburgh</p>
@@ -231,6 +231,7 @@
       </div>
 
     </div>
+    {% endunless %}
     <div class="sidebar-card" style="margin-top:16px;">
       <h3 class="sidebar-heading">Recent Updates</h3>
       {% for item in site.data.news %}
@@ -241,25 +242,10 @@
       {% endfor %}
     </div>
   </aside>
-  {% endunless %}
 
   <main class="main-content" id="main-content">
     {{ content }}
   </main>
-
-  {% if page.url == '/' %}
-  <aside class="sidebar" aria-label="Recent updates">
-    <div class="sidebar-card">
-      <h3 class="sidebar-heading">Recent Updates</h3>
-      {% for item in site.data.news %}
-      <div class="news-item">
-        <span class="news-date">{{ item.date }}</span>
-        <p>{{ item.text }}</p>
-      </div>
-      {% endfor %}
-    </div>
-  </aside>
-  {% endif %}
 
 </div>
 
