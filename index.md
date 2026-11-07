@@ -89,7 +89,7 @@ My work operationalizes philosophy and social theory for participatory design an
 
 ## Selected Honors
 
-- <img src="/assets/img/star.svg" alt="" width="20" height="20" style="display:inline-block;vertical-align:-3px;margin-right:4px">**Selected as a HAIL Graduate Student Awardee**, [Hub for AI and Data Science Leadership, University of Pittsburgh (2026–27)](https://www.aihub.pitt.edu/building-knowledge/hail-graduate-student-awardee-program){:target="_blank"} — *interdisciplinary cohort on responsible data science and AI*
+- <img src="/assets/img/star.svg" alt="" width="20" height="20" style="display:inline-block;vertical-align:-3px;margin-right:4px">**HAIL Graduate Student Awardee**, [Hub for AI and Data Science Leadership, University of Pittsburgh (2026–27)](https://www.aihub.pitt.edu/building-knowledge/hail-graduate-student-awardee-program){:target="_blank"} — *interdisciplinary cohort on responsible data science and AI*
 - <img src="/assets/img/trophy.svg" alt="" width="20" height="20" style="display:inline-block;vertical-align:-3px;margin-right:4px">**Awarded First Position**, [Allegheny County Case Competition (2024)](https://www.sci.pitt.edu/news/sci-phd-student-wins-allegheny-county-competition-supporting-refugees){:target="_blank"} — *Humanitarian Advocacy for Neighborhood Disabilities and Support (HANDS): Data-curation and Tracking of Disability Benefits*
 - University Grants Commission **National Eligibility Test** for Assistant Professor in Political Science (2018)
 - Served on the Editorial Board of Journal of AI Humanities, Chung Ang University, Seoul and Humanities Research Korea (2023-25)
