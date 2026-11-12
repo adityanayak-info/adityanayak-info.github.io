@@ -43,4 +43,4 @@ permalink: /cv/
     loading="lazy">
   </iframe>
 </div>
-*Last updated: September 2026*
+*Last updated: November 2026*
