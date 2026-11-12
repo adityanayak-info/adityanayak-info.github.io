@@ -18,9 +18,6 @@ permalink: /cv/
   </div>
 </div>
 
-<div class="cv-actions">
-  <a class="btn btn-primary" href="https://drive.google.com/uc?export=download&id=18yPtmV-6uPEY90S_2EieVCxaZlfiRy40" target="_blank" rel="noopener">Download PDF</a>
-</div>
 
 
 <!-- ═══════════════════════════════════════════════════════════
@@ -34,14 +31,16 @@ permalink: /cv/
      4. Replace FILE_ID_HERE in the src below with your actual file ID.
      5. Also update the "Download PDF" link above with your share URL.
      ═══════════════════════════════════════════════════════════ -->
+<div class="cv-actions">
+  <a class="btn btn-primary" href="https://drive.google.com/uc?export=download&id=1jLj-QKEA26HzIxcv7u5fYjkWutyF6sFL" target="_blank" rel="noopener">Download PDF</a>
+</div>
 
 <div class="cv-embed-wrap">
   <iframe
-    src="https://drive.google.com/file/d/18yPtmV-6uPEY90S_2EieVCxaZlfiRy40/preview"
+    src="https://drive.google.com/file/d/1jLj-QKEA26HzIxcv7u5fYjkWutyF6sFL/preview"
     title="Aditya Nayak — Curriculum Vitae"
     allow="autoplay"
     loading="lazy">
   </iframe>
 </div>
-
 *Last updated: September 2026*
