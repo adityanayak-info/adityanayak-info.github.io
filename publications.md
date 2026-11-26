@@ -54,6 +54,8 @@ permalink: /publications/
 <details class="pub-section">
 <summary>Conference Presentations</summary>
 <div class="pub-section-content" markdown="1">
+- **2026** — Aditya Nayak\*, Aditi Vashistha\*, Alissa Centivany, Aakash Gautam. **"Appearing Legitimate is Not Enough"** Discussion Session, *Participation, Sovereignty, and Power in AI Governance*, AAAI/ACM Conference on AI, Ethics, and Society (AIES '26), Malmö, Sweden.
+  
 - **2026** — Aditya Nayak, Abdulaziz Alotaibi, and Aakash Gautam. **"From Distrust to Relationality: Designing a Web Platform for Centering Community Experiences in Public-Sector AI."** *Participatory AI Research and Practice Symposium (PAIRS'26)*. [pairs.site](https://www.pairs.site/)
 
 - **2025** — Aditya Nayak\*, Ashique Ali Thuppilikkat\*, and Aditi Vashistha\*. **"Delivering Inequality: Marginality in Quick Commerce Digital Labour Platforms."** In *Caste and Technoscience Panel*. Society for Social Studies of Science (4S).
