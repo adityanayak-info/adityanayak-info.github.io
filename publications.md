@@ -98,6 +98,18 @@ permalink: /publications/
 <details class="pub-section">
 <summary>Invited Talks & Panels</summary>
 <div class="pub-section-content" markdown="1">
+<details class="pub-section" open style="margin-bottom:12px;">
+<summary>Guest Lectures</summary>
+<div class="pub-section-content" markdown="1">
+- **2026** — **"Beyond Bias: Participation, Legitimacy, and AI Realism."** CS 1684 *Bias and Ethics in AI*, Department of Computer Science, University of Pittsburgh.
+
+- **2026** — **"Public Algorithms as Data Objects."** LIS 2188 *Open Government Data and Information*, Department of Information Culture and Data Stewardship, University of Pittsburgh.
+{: .pub-list}
+</div>
+</details>
+
+- **2026** — **"Public Algorithms as Data Objects."** [Civic Switchboard](https://civic-switchboard.github.io/) Community Meetup.
+
 - **2025** — **"Technology, Information Economy, and the Rise of Populist Narratives."** Department of Political Science, Lady Shri Ram College (LSR), University of Delhi. 28 March.
 
 - **2024** — **"Ethics of AI in Education: Balancing Innovation and Privacy Concerns."** National Conclave on *AI and Ethics: Perspectives from Industry and Academia*, India International Centre (IIC). 20 February.
@@ -122,6 +134,5 @@ permalink: /publications/
 {: .pub-list}
 </div>
 </details>
-
 </div>
 </details>
