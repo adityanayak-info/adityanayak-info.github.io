@@ -110,6 +110,10 @@ permalink: /publications/
 </div>
 </details>
 
+<details class="pub-section" open style="margin-bottom:12px;">
+<summary>Talks & Panels</summary>
+<div class="pub-section-content" markdown="1">
+
 - **2026** — **"Public Algorithms as Data Objects."** [Civic Switchboard](https://civic-switchboard.github.io/) Community Meetup.
 
 - **2025** — **"Technology, Information Economy, and the Rise of Populist Narratives."** Department of Political Science, Lady Shri Ram College (LSR), University of Delhi. 28 March.
@@ -124,6 +128,8 @@ permalink: /publications/
 
 - **2022** — **"A.I. and The Future of Geopolitics."** Department of Political Science, Lady Shri Ram College (LSR), University of Delhi. 15 September.
 {: .pub-list}
+</div>
+</details>
 
 <details class="pub-section" open style="margin-top:12px;">
 <summary>Jury Panels</summary>
